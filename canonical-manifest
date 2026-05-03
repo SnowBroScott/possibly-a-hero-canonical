@@ -1,1 +1,96 @@
+# Apex Chronicles — Canonical Manifest
+*Single source of truth for all pipeline documents*
 
+Last updated: May 3, 2026
+
+---
+
+## How to Use This Manifest
+
+Every agent fetches this manifest before doing any work.
+1. Locate the document needed and confirm its status.
+2. Fetch the document using the raw URL listed below.
+3. Confirm the fetch before beginning any work.
+4. Locked documents take authority over drafts.
+5. Deprecated documents have no canonical authority.
+6. If a fetch fails, stop and report it. Do not fall back to memory.
+
+---
+
+## Document Status Hierarchy
+
+| Status | Meaning |
+|---|---|
+| LOCKED | Non-negotiable. Constrains everything below it. |
+| DRAFT | Directionally committed. Still refinable. |
+| NOTED | Worth capturing. Not yet a formal decision. |
+| DEPRECATED | Superseded. Historical reference only. |
+| REFERENCE | Supporting material. Not subject to pipeline. |
+
+---
+
+## Active Documents
+
+### decision-log
+- **Status:** DRAFT (contains entries of mixed status — see individual entries)
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/main/decision-log
+- **Notes:** Primary record of all design decisions. Entries carry individual statuses. LOCKED entries within the log are non-negotiable.
+
+---
+
+## Pending Documents
+*Documents to be created as the pipeline develops*
+
+### CLAUDE.md
+- **Status:** NOT YET CREATED
+- **Purpose:** Project brief for Claude Code. Lives at repo root. Engineering directives, tech stack, system specifications, document access protocol.
+- **Trigger:** After core design systems are locked and build work is ready to begin.
+
+### locked/ directory
+- **Status:** NOT YET CREATED
+- **Purpose:** Canonical, non-negotiable documents. Will contain finalized system specifications as they exit the pipeline.
+
+### draft/ directory
+- **Status:** NOT YET CREATED
+- **Purpose:** Directionally committed documents still in refinement.
+
+### reference/ directory
+- **Status:** NOT YET CREATED
+- **Purpose:** Supporting material. Not subject to pipeline validation.
+
+---
+
+## Decision Log — Status Summary
+*Quick reference for locked decisions*
+
+| Decision | Status |
+|---|---|
+| Game title: Apex Chronicles | LOCKED |
+| Consequence without punishment — city always recovers | LOCKED |
+| Foundational loop — runs shape city, city shapes runs | LOCKED |
+| Run structure — three path types in single map | DRAFT |
+| Path types feed city systems (resources/morale/intel) | DRAFT |
+| Intel gates area boss, boss gates progression | DRAFT |
+| City reacts to run patterns over short window | DRAFT |
+| Two feedback channels — influencer (voice) + city (visual) | DRAFT |
+| Three feedback channels — Citizens, Hero Community, Influencer | DRAFT |
+| Rex Flynn / Exposed — influencer character | DRAFT |
+| Feedback channel reward pillars | DRAFT |
+| Name emergence — three sources, permanent unlock | DRAFT |
+| Character creation — cosmetic choices only | DRAFT |
+| Power pool — city unlocks, run develops | DRAFT |
+| Merge mechanic — city building required | DRAFT |
+| Power pool — no archetype restrictions | DRAFT |
+| Class system — four classes, per-run selection | DRAFT |
+| Movement — class locked, flight and wall crawling removed | DRAFT |
+| Class mastery — 10 and 30 successful run unlocks | DRAFT |
+| Guardian removed as standalone class | DRAFT |
+| Run camera transition — third person intro, isometric gameplay | DRAFT |
+| Class offensive suites — all four classes | DRAFT |
+| Three power layers — primary, hero powers, support | DRAFT |
+| Support pool — eight supports, final naming | DRAFT |
+| Hero powers pool — ten powers, final naming | DRAFT |
+
+---
+
+## Repo Structure
