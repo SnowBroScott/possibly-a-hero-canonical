@@ -13,7 +13,12 @@ Every agent fetches this manifest before doing any work.
 3. Confirm the fetch before beginning any work.
 4. Locked documents take authority over drafts.
 5. Deprecated documents have no canonical authority.
-6. If a fetch fails, stop and report it. Do not fall back to memory.
+6. If a fetch fails, stop and report it. 
+   Do not fall back to memory.
+
+IMPORTANT — Raw URL format for this repo:
+https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/[filename]
+Use refs/heads/main — not main directly.
 
 ---
 
@@ -32,9 +37,15 @@ Every agent fetches this manifest before doing any work.
 ## Active Documents
 
 ### decision-log
-- **Status:** DRAFT (contains entries of mixed status — see individual entries)
-- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/main/decision-log
-- **Notes:** Primary record of all design decisions. Entries carry individual statuses. LOCKED entries within the log are non-negotiable.
+- **Status:** DRAFT (entries carry individual statuses)
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/decision-log
+- **Notes:** Primary record of all design decisions. 
+  LOCKED entries within the log are non-negotiable.
+
+### canonical-manifest
+- **Status:** REFERENCE
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/canonical-manifest
+- **Notes:** This document. Fetch first, always.
 
 ---
 
@@ -43,25 +54,30 @@ Every agent fetches this manifest before doing any work.
 
 ### CLAUDE.md
 - **Status:** NOT YET CREATED
-- **Purpose:** Project brief for Claude Code. Lives at repo root. Engineering directives, tech stack, system specifications, document access protocol.
-- **Trigger:** After core design systems are locked and build work is ready to begin.
+- **Purpose:** Project brief for Claude Code. Lives at repo 
+  root. Engineering directives, tech stack, system 
+  specifications, document access protocol.
+- **Trigger:** After core design systems are locked and 
+  build work is ready to begin.
 
 ### locked/ directory
 - **Status:** NOT YET CREATED
-- **Purpose:** Canonical, non-negotiable documents. Will contain finalized system specifications as they exit the pipeline.
+- **Purpose:** Canonical, non-negotiable documents.
 
 ### draft/ directory
 - **Status:** NOT YET CREATED
-- **Purpose:** Directionally committed documents still in refinement.
+- **Purpose:** Directionally committed documents 
+  still in refinement.
 
 ### reference/ directory
 - **Status:** NOT YET CREATED
-- **Purpose:** Supporting material. Not subject to pipeline validation.
+- **Purpose:** Supporting material. Not subject 
+  to pipeline validation.
 
 ---
 
 ## Decision Log — Status Summary
-*Quick reference for locked decisions*
+*Quick reference for all decisions*
 
 | Decision | Status |
 |---|---|
@@ -85,7 +101,8 @@ Every agent fetches this manifest before doing any work.
 | Movement — class locked, flight and wall crawling removed | DRAFT |
 | Class mastery — 10 and 30 successful run unlocks | DRAFT |
 | Guardian removed as standalone class | DRAFT |
-| Run camera transition — third person intro, isometric gameplay | DRAFT |
+| Run initiation loop — corrected structure | DRAFT |
+| Run camera transition — SUPERSEDED by run initiation loop | DRAFT |
 | Class offensive suites — all four classes | DRAFT |
 | Three power layers — primary, hero powers, support | DRAFT |
 | Support pool — eight supports, final naming | DRAFT |
