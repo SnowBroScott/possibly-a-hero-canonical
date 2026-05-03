@@ -1,5 +1,47 @@
 DECISION LOG ENTRY
 
+DECISION: Run Initiation Loop — Corrected Structure
+
+The run initiation sequence is as follows:
+1. Player initiates new run
+2. Player selects class
+3. Player selects starting offensive power (only if more than one option is
+   unlocked for that class)
+4. Map loads
+5. Intro scene plays — third person, brief, cinematic. Hero arrives via their
+   class movement type.
+6. Camera swings up to isometric offset play mode
+7. Run begins
+
+Class-specific intro animations:
+- Brawler: leaps into frame, lands hard, camera swings up
+- Speedster: blurs in, camera snaps up with motion blur
+- Blaster: teleports in, hard cut to isometric
+- Tactician: rolls in on vehicle, camera lifts and settles
+
+The camera transition is not triggered by movement power selection. It is the
+cinematic expression of a class choice already made. Class selection occurs
+before map load. The intro scene is the payoff of that choice, not the moment
+of it.
+
+DATE: May 3, 2026
+
+WHY: Class selection as a pre-map menu moment keeps the intro scene as pure
+cinematic payoff rather than a UI moment. Each class arrival animation
+communicates identity immediately and distinctly before a single enemy is
+encountered.
+
+REPLACES: Run camera transition — third person intro, isometric gameplay.
+That entry implied movement power selection triggered the camera transition.
+This entry supersedes that framing. The transition is class-driven, not
+selection-driven.
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
 DECISION: Support Pool finalized at eight supports across three categories — Combat: Reflexes, Power Surge, Blast Radius, Precision Strike, Rapid Recovery; Utility: Overdrive, Fast Track; Safety: Last Stand. Pool is class-agnostic. All names are comic book native.
 
 DATE: May 3, 2026
