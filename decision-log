@@ -1,5 +1,73 @@
 DECISION LOG ENTRY
 
+DECISION: Support Pool and Hero Powers — Complete Layer Definitions
+
+Three-layer system confirmed:
+- Class Primary — class-specific offensive powers
+- Hero Powers — offensive with utility upside, mid-run pickups, shared pool, fully random
+- Support Pool — genre-legible enhancements, class-agnostic
+
+SUPPORT POOL (8 total — shared across all classes):
+
+Combat: Attack Speed, Attack Damage, Impact Area/AOE, Critical Hit Chance, Cooldown Reduction
+Utility: Movement Speed, Experience Multiplier
+Safety: Revive
+
+Design principle: Every support is class-agnostic. Class identity is protected by keeping defensive and damage-type benefits within class primary suites. All eight have standalone value regardless of primary or hero power combination.
+
+---
+
+HERO POWERS (9 total — shared pool, fully random):
+
+1. Magnetism — pull enemies together, redirect projectiles, strip weapons; crowd control with offensive application
+2. Time Slow — brief local time dilation; everything slows, player doesn't
+3. Weather Control — lightning strikes, wind gusts, localized storms
+4. Earth/Ground Manipulation — fissures, tremors, terrain as weapon
+5. Portal Creation — displaces and moves enemies around the map; intentionally chaotic
+6. Venom/Toxin — damage over time, spreads between enemies
+7. Sonic Scream — stuns, disorients, chain damages
+8. Light Manipulation — blinds enemies, creates decoys
+9. Class-Specific Summon (unique per class):
+   - Brawler: Animal Companion
+   - Speedster: Speed Clone (self-duplication native to class — moving so fast you're in two places at once)
+   - Blaster: Spectral Ally
+   - Tactician: Combat Drone
+
+Hero power design principles:
+- Every hero power has standalone offensive value before combo value
+- Pool is fully random — no mission-type biasing
+- Ridiculous combos are a feature, not a bug
+- Run type is emergent mid-run based on what the map offers and what the power pool provides
+- Hero powers influence which path feels viable; never prescribe it
+
+Cuts (with reasoning):
+- Hard Light Constructs — too IP-adjacent (Green Lantern)
+- Self Duplication (standalone) — absorbed into Speedster class summon
+- Size Manipulation — doesn't fit isometric offset gameplay
+- Intangibility — overlaps with invisibility in support layer
+- Probability Manipulation — doesn't fit Apex tone
+- Black Hole — covered by Blaster primary gravity well
+- Dimensional Pocket — consolidated into portal creation
+- Density Wave — doesn't fit
+- Adrenaline — renamed Attack Damage, moved to support pool
+
+---
+
+COMBO SYSTEM NOTE (flagged for future development):
+Combination abilities (e.g., Mech Suit) emerge from mastery of multiple power types simultaneously. City buildings play a role in combo availability. Not designed yet.
+
+DATE: May 3, 2026
+
+WHY: Support pool uses genre-legible framing so players understand mechanics immediately. Hero powers stay offensive with utility upside to protect class identity and keep the three layers distinct. A fully random hero power pool creates genuine surprise and ridiculous combo potential without "feels bad" outcomes — standalone value for every power is the baseline protection against dead draws.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
 DECISION: Class Offensive Suites — All Four Classes
 
 Offensive powers operate on two distinct layers:
