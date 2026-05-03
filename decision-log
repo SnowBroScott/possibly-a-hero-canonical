@@ -1,5 +1,153 @@
 DECISION LOG ENTRY
 
+DECISION: Class Offensive Suites — All Four Classes
+
+Offensive powers operate on two distinct layers:
+
+PRIMARY LAYER — Class-specific. Selected at run start. Unlocked through class mastery (successful runs with that class).
+
+SUPPORT LAYER — Shared pool across all classes. Accumulates during the run. City buildings improve effectiveness but do not gate access.
+
+PRIMARY LAYER DETAILS:
+
+BRAWLER (Movement: Leaping)
+- Starter: Super Strength — single target bruiser
+- 10 runs: Shockwave / Impact Burst — AOE
+- 30 runs: Elasticity / Stretch — mid-range combat
+
+SPEEDSTER (Movement: Super Speed)
+- Starter: Speed Strike — single target rapid combo
+- 10 runs: Velocity Slam — momentum/skill-based impact
+- 30 runs: Tornado — AOE environmental chaos
+
+BLASTER (Movement: Teleportation)
+- Starter: Energy Blast — single target precision
+- 10 runs: Elemental Surge — choose fire, ice, or lightning per run, each with distinct status effects
+- 30 runs: Gravity Well — AOE tactical, pulls and detonates
+
+TACTICIAN (Movement: Vehicle)
+- Starter: Rifle — single target precision
+- 10 runs: Deployable Turrets — utility and area control
+- 30 runs: Rocket Launcher — AOE destruction
+
+UNLOCK STRUCTURE (all classes):
+- Unlocks are cumulative and permanent across runs
+- Failed runs do not count toward unlock progress but do not reset it
+- Unlock thresholds: 10 and 30 successful runs with that specific class
+
+FLAGGED FOR FUTURE DEVELOPMENT:
+Mech suit and similar combination abilities are not class unlocks. They emerge from mastery of multiple power types simultaneously and are deferred for separate design.
+
+DATE: May 3, 2026
+
+WHY: Three primary offensive options per class — single target, utility/tactical, and AOE — each represent a distinct playstyle, creating a consistent framework across all four classes. Separating primary and support layers keeps class identity clean while the shared support pool generates combinatorial variety and genre-consistent replayability. City buildings refine effectiveness rather than gate access, preserving run flexibility. The unlock structure rewards class investment without punishing failure.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The class system uses four per-run selectable classes — Brawler (movement: Leaping), Speedster (movement: Super Speed), Blaster (movement: Teleportation), and Tactician (movement: Vehicle). Class selection occurs at the start of each run and is not a permanent character assignment.
+
+DATE: May 3, 2026
+
+WHY: Per-run selection preserves pick-up-and-play accessibility. Players can experiment freely without commitment, while the mastery system (see Entry 3) rewards loyalty separately from class choice itself.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Movement is class-locked and not player-selectable. Flight and wall crawling are removed from the movement pool entirely. The Tactician's vehicle is permanent for the duration of a run — no exit mechanic exists. Each class movement type triggers a distinct camera transition animation.
+
+DATE: May 3, 2026
+
+WHY: Flight removed due to build complexity, balance issues, and isometric offset incompatibility. Wall crawling removed due to verticality requirements and IP adjacency concerns. Locking movement to class simplifies systems and strengthens class identity. Camera transitions reinforce the mechanical and tonal distinctiveness of each class.
+
+REPLACES: Flight and wall crawling as movement pool options — both removed
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Each class begins with one offensive power. A second offensive option unlocks after 10 successful runs with that class. A third unlocks after 30 successful runs. Unlocks are cumulative and permanent — they never reset. Failed runs do not contribute to progress but do not reduce it.
+
+DATE: May 3, 2026
+
+WHY: Tying mechanical progression to successful run outcomes gives performance real stakes beyond city aesthetics. Cumulative permanent tracking aligns with the "consequence without punishment" core principle — players are rewarded for mastery without being penalized for failure or variety.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The Guardian is removed as a standalone class. Defensive and protective powers previously associated with the Guardian archetype are redistributed into the power pools of all four classes at lower probability.
+
+DATE: May 3, 2026
+
+WHY: Removing Guardian as a class streamlines the class roster without eliminating its design contribution. Distributing defensive powers across all pools preserves tonal and mechanical variety while keeping the four-class structure clean.
+
+REPLACES: Guardian as a standalone selectable class
+
+STATUS: DRAFT
+
+DECISION LOG ENTRY
+
+DECISION: Run Camera Transition — Visual and Mechanical Structure
+
+Every run opens in a low-to-the-ground third-person perspective. Players must select a minimum starting loadout before the run begins: one movement power and one offensive power. The movement power selection triggers the camera transition — a swing up and back into a DRGS-style isometric offset angle — which serves as the ritual start of every run. Each movement power has a distinct transition animation: Flight lifts the camera smoothly upward; Super Speed snaps with a motion blur; Teleportation uses a hard cut; Leaping arcs up and settles. The city layer operates on a separate camera (top-down or angled). Third-person assets are scoped to the brief intro sequence only; the isometric offset angle handles all run gameplay.
+
+DATE: May 3, 2026
+
+WHY: The camera transition resolves the "how does this play" question while simultaneously creating a ritual moment of hero identity at the start of every run. Movement power selection becomes expressive rather than purely mechanical — the world responds to it visually. Scoping third-person assets to the intro sequence only preserves the cinematic payoff without the maintenance cost of full third-person gameplay. The isometric offset angle maintains comic-book kinetic feel while keeping build complexity manageable.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Rex Flynn is established as a DRAFT influencer character in Apex Chronicles. His platform is called "Exposed," operating across TikTok and YouTube in two distinct voice registers. Rex is male, 20s, loud and boisterous — an anti-hero with no fixed ideological position who chases clickbait and emotional response exclusively, capable of praising or burying the hero depending on what's performing. Mechanically, he is one of three feedback channels. His primary reward pillar is run modifier unlocks, framed as arbitrary public demands Rex makes of the hero, justified with unhinged logic optimized for engagement. His secondary reward is name emergence options (editorial, chaotic, meme-driven, viral-optimized). TikTok register is punchy and clipped; YouTube register is unhinged and sprawling.
+
+DATE: May 3, 2026
+
+WHY: Rex Flynn's platform-chasing nature makes him a more contemporary and mechanically interesting antagonist than an institutional critic. Having no fixed position means modifier challenges feel unpredictable and genuinely funny. The dual platform format gives writers two distinct voice registers to work with.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The three feedback channels — Citizens, Superhero Community, and Social Media Influencer — each anchor a distinct primary reward track, with name emergence shared as a secondary reward track across all three. Citizens reward city aesthetics and development. The Superhero Community rewards player cosmetics. The Social Media Influencer rewards run modifier unlocks — earned challenges the influencer has publicly demanded, with better rewards attached. Name unlock options are channel-specific in register (warm/local for Citizens; peer/professional for Heroes; editorial/skeptical for Influencer), unlock permanently once surfaced, and only surface when conditions are right.
+
+DATE: May 3, 2026
+
+WHY: Pillar structure ties reward source to reward type — citizens shape the city, heroes shape the hero's appearance, the influencer shapes the runs themselves. Modifier unlocks give the influencer mechanical teeth and add replayability depth critical to the roguelite format. The Team-up expansion hook (co-op runs with NPC and PC heroes) is flagged for future development and is not in scope for launch.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
 DECISION: Apex Chronicles is a superhero roguelite city-building game. Players go on runs that generate resources and outcomes that feed city building. The city built shapes the hero's available powers and abilities. The two halves are inseparable — runs shape the city, the city shapes the runs.
 
 DATE: May 3, 2026
