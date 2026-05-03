@@ -1,1 +1,237 @@
+DECISION LOG ENTRY
 
+DECISION: Apex Chronicles is a superhero roguelite city-building game. Players go on runs that generate resources and outcomes that feed city building. The city built shapes the hero's available powers and abilities. The two halves are inseparable — runs shape the city, the city shapes the runs.
+
+DATE: May 3, 2026
+
+WHY: This is the foundational design commitment the entire game is built on. All other decisions flow from this relationship.
+
+REPLACES: Nothing — new decision
+
+STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The game's full title is Apex Chronicles. Working designation within the design pipeline is Apex.
+
+DATE: May 3, 2026
+
+WHY: Name selected to reflect both the heroic progression arc and the comic book format of the player's story being written run by run.
+
+REPLACES: Nothing — new decision
+
+STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Vampire Survivors is the loose structural reference for run design. Players drop into a map with a consistent loop. Variety emerges from player choices within that loop, not from fundamentally different run types.
+
+DATE: May 3, 2026
+
+WHY: VS provides a proven run structure that supports replayability without requiring multiple distinct run mode builds. The map contains the variety rather than the mode select screen.
+
+REPLACES: Nothing — new decision
+
+STATUS: NOTED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Every run map contains three path types: boss fight, passive escort defense, and horde survival. These are not separate modes — they are locations and activities discoverable within a single run map.
+
+DATE: May 3, 2026
+
+WHY: Keeps the run loop consistent while delivering mechanical variety. Players self-select based on city needs and personal preference within a single session.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Each run path type feeds a distinct city system: boss fights generate resources for city construction, escort defense missions sustain city morale, horde survival missions generate intel.
+
+DATE: May 3, 2026
+
+WHY: Creates genuine strategic tension during runs. Players are making city management decisions through their path choices without the game feeling like a management game.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Intel gathered through horde survival missions identifies the area's super villain. Sufficient intel is required to trigger the area boss encounter. The area boss gates progression to the next area or level.
+
+DATE: May 3, 2026
+
+WHY: Makes intel missions load-bearing for progression, not optional. All three path types become necessary rather than preferential.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The city reacts to run patterns over a short window — not instantly after a single run, not glacially over many sessions. A streak of bad runs darkens the city. A streak of good runs lifts it. The window is short enough that players feel the connection clearly.
+
+DATE: May 3, 2026
+
+WHY: Matches the comic book energy of the game — faster feedback loop than Endure, slower than a single-run snap reaction. Patterns matter more than individual performances.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Negative run outcomes affect the city atmospherically — citizen behavior, visual tone, ambient mood. Nothing is permanently lost. No progress is set back. No construction is reversed. The city always recovers.
+
+DATE: May 3, 2026
+
+WHY: Consequence without punishment. Players should feel the weight of bad runs without being penalized in ways that damage long-term investment and endearment to the city.
+
+REPLACES: Nothing — new decision
+
+STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: A polarizing social media influencer archetype serves as the primary voice feedback channel for run performance. The character is skeptical, reactionary, never fully satisfied, and occasionally accidentally complimentary. Specific character identity to be developed through the pipeline.
+
+DATE: May 3, 2026
+
+WHY: More contemporary and tonally appropriate than a newspaper editor archetype for a modern superhero setting. Connects naturally to the social media name emergence system. The archetype — not any specific existing character — is what is being adopted.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: City visuals serve as a secondary feedback channel running parallel to the influencer voice channel. The city is the body language; the influencer is the voice. They operate on different timescales — the influencer reacts immediately, the city shifts gradually over a pattern of runs.
+
+DATE: May 3, 2026
+
+WHY: Two channels reinforce without being redundant when calibrated to different timescales. The city's slower honest reaction contrasts with the influencer's loud immediate reaction.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Players make cosmetic creation choices before the first run: gender, mask or no mask, cape or no cape, costume style, and a civilian name. Identity beyond these basics emerges through play patterns and city development. Nothing at creation determines mechanical starting position.
+
+DATE: May 3, 2026
+
+WHY: Enough upfront investment to feel ownership from run one, enough left open that the character grows into something unplanned. Cosmetic commitment now, identity emergence over time.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Players choose a civilian name at character creation. The superhero name is not chosen — it is earned through play and emerges from achieved patterns and milestones. Players begin without a superhero name. The absence is intentional and motivating.
+
+DATE: May 3, 2026
+
+WHY: The superhero name is what the world decides to call the hero based on what they actually did. Player choice of the civilian name grounds ownership. The earned superhero name grounds identity in action rather than declaration.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Superhero name options emerge from three distinct in-world sources: citizens (warm, local, affectionate), the social media influencer (editorial, slightly damning), and social media (chaotic, meme-driven, no dignity). Players choose from whichever options have emerged. Early names skew silly — players are expected to outgrow their first designation. The influencer reacts differently depending on which name the player adopts.
+
+DATE: May 3, 2026
+
+WHY: Choosing whose opinion defines your identity is a meaningful act of characterization. Multiple sources create tonal variety and connect the name system to the broader world feedback systems.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: City construction determines the player's starting power loadout at run start and expands the pool of powers available to appear during a run. Powers not unlocked through city building do not appear in runs. This is the primary mechanical link between the city half and the run half of the game.
+
+DATE: May 3, 2026
+
+WHY: Makes city building directly consequential to run experience. The city is not a separate game — it is the preparation layer for the run.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Within a run, powers progress and combine through the roguelite loop. Starting loadout is set by the city but the run determines how those powers develop and what combinations emerge. The city enables the pool; the run plays within it.
+
+---
+
+DATE: May 3, 2026
+
+WHY: Preserves the roguelite unpredictability and replayability within the structure the city establishes. No two runs feel identical even with the same starting loadout.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The ability to merge or combine specific powers during runs is unlocked through city construction — for example, a training center type building. Without the relevant city building, certain merges are not available regardless of what powers the player holds during a run.
+
+DATE: May 3, 2026
+
+WHY: Adds another layer of meaningful city investment. Advanced power combinations require city development, not just run luck. City building shapes the ceiling of run potential.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The available power pool is not locked to a specific hero archetype or playstyle. Players can build any combination the city has unlocked regardless of thematic coherence. The game tracks playstyle patterns and reflects them back through name emergence, city aesthetics, and influencer commentary — but never restricts player choice based on those patterns.
+
+DATE: May 3, 2026
+
+WHY: Player freedom and ownership over hero identity requires the system to observe without prescribing. The game has opinions about who you are. It does not impose them.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
