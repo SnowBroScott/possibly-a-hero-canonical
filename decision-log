@@ -1,5 +1,31 @@
 DECISION LOG ENTRY
 
+DECISION: Support Pool finalized at eight supports across three categories — Combat: Reflexes, Power Surge, Blast Radius, Precision Strike, Rapid Recovery; Utility: Overdrive, Fast Track; Safety: Last Stand. Pool is class-agnostic. All names are comic book native.
+
+DATE: May 3, 2026
+
+WHY: Generic stat language (attack speed, XP multiplier, agility, etc.) replaced throughout with comic book kinetic terminology that is instantly legible to roguelite players without explanation. Pool is designed to be class-agnostic — every support has standalone value regardless of primary or hero power combination, and no support encroaches on class-specific identity.
+
+REPLACES: Prior support naming using generic stat-based language.
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Hero Powers pool finalized at ten powers — shared pool, fully random: Magnetism, Freeze Frame, Tempest, Tremor, Rift, Toxin, Sonic Scream, Gorilla (Brawler class summon), Double Time (Speedster class summon), Specter (Blaster class summon), Sentinel (Tactician class summon). No mission-type biasing. Class summons are unique per class.
+
+DATE: May 3, 2026
+
+WHY: Every hero power is designed to have standalone offensive value before combo value. Full randomness is intentional — ridiculous combos are a feature, not an edge case. Class summons are native to each class identity. Light manipulation was cut due to unclear mechanics and overlap with Sonic Scream. Toxin replaces Venom to eliminate IP adjacency concerns. Every name in the pool produces an immediate mental image of function, consistent with Apex Chronicles' comic book kinetic tone.
+
+REPLACES: Light manipulation (cut — mechanic unclear, overlapped with Sonic Scream); Venom (replaced by Toxin — IP adjacency).
+
+STATUS: DRAFT
+
+DECISION LOG ENTRY
+
 DECISION: Support Pool and Hero Powers — Complete Layer Definitions
 
 Three-layer system confirmed:
