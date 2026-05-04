@@ -1,47 +1,14 @@
-Log this decision:
 
-Run Time Structure and Mission Reveal Model
 
-Status: DRAFT
+---
 
-A single run is 20 minutes. The run is structured in three acts:
+DECISION LOG ENTRY
 
-ACT ONE — Prep Period (0-5 minutes)
-Mission locations are hidden. The player builds their loadout through 
-milestone-based power selections. Movement through the city is open 
-but carries risk — stumbling into a mission location before the prep 
-period ends makes that mission live immediately, whether the player 
-is ready or not. This is consequence without punishment — exploration 
-is rewarded with world responsiveness, not penalized with a failure state.
-
-ACT TWO — Open Window (5-15 minutes)
-All three mission locations reveal simultaneously on the map. Players 
-can see what's available and continue building toward their preferred 
-mission type. Full player agency — attempt a mission immediately or 
-keep developing the loadout. The ten minute window accommodates both 
-cautious and aggressive playstyles.
-
-ACT THREE — Forced Commitment (15-20 minutes)
-At 15 minutes the game forces a mission choice. Whatever the player 
-has built is what they take in. Five minutes to execute. Success or 
-failure resolves here. The forced commitment is the moment of reckoning 
-that gives build decisions their weight.
-
-Mission locations are randomized each run — no mission type has a fixed 
-geographic location. Locations are visible once revealed and can be 
-stumbled upon before reveal during the prep period. This creates 
-narrative variety and prevents staleness — the boss could be anywhere, 
-the intel could be anywhere, the escort NPC could be anywhere.
+DECISION: A single run is 20 minutes, structured in three acts. Act One (0–5 min) is a Prep Period — mission locations are hidden, the player builds their loadout through milestone-based power selections, and movement is open but carries risk: stumbling into a mission location before the prep period ends makes that mission live immediately. Act Two (5–15 min) is the Open Window — all three mission locations reveal simultaneously on the map, and the player has full agency to attempt a mission immediately or continue developing their loadout. Act Three (15–20 min) is Forced Commitment — the game forces a mission choice at the 15-minute mark, and the player executes with whatever they have built. Mission locations are randomized each run; no mission type has a fixed geographic location. Locations are visible once revealed and can be stumbled upon before reveal during the prep period.
 
 DATE: May 3, 2026
 
-WHY: 20 minutes is substantial enough to feel meaningful and short enough 
-to sustain a one-more-run impulse. The three act structure gives every 
-run dramatic shape — preparation, decision, commitment. The forced choice 
-at 15 minutes ensures build decisions carry weight by creating a moment 
-of reckoning with whatever the player has accumulated. Randomized mission 
-locations support narrative variety and prevent the world from feeling 
-scripted or repetitive.
+WHY: 20 minutes is substantial enough to feel meaningful and short enough to sustain a one-more-run impulse. The three-act structure gives every run dramatic shape — preparation, decision, commitment. The forced choice at 15 minutes ensures build decisions carry weight by creating a moment of reckoning with whatever the player has accumulated. Randomized mission locations support narrative variety and prevent the world from feeling scripted or repetitive.
 
 REPLACES: Nothing — new decision
 
