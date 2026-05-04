@@ -1,3 +1,16 @@
+DECISION LOG ENTRY
+
+DECISION: The run layer and city layer share the same underlying street map. The Core Four buildings (Lab, Gym, Tailor Shop, Lair) are consistent landmarks present across all stages, grounding the player spatially and narratively. City development progresses through four distinct visual stages — Rundown, Developing, Refined, and Modern — each functioning as a mechanically distinct run environment with its own enemy density, challenge profile, and difficulty tier. Stage One is a constrained tutorial environment with one mission type and heavy broadcast guidance. Stage Two opens all three mission types simultaneously. Stage Three unlocks full mechanical complexity with all systems active. Stage Four is an endless sandbox with Rex Flynn modifiers and procedurally generated missions and bosses, designed to sustain indefinite play beyond the structured progression arc. Cosmetic city improvements within a stage do not propagate granularly into the run layer — the run layer reflects stage-level visual identity only, not incremental aesthetic changes.
+
+DATE: May 3, 2026
+
+WHY: Sharing the same street map across all stages creates spatial memory and narrative coherence — the player is always fighting in their city, always oriented by familiar landmarks. Using visual stage development as the difficulty and map progression system means city growth does double duty: rewarding progression and raising stakes simultaneously. Stage Four as a procedurally generated endless sandbox gives the game a live game tail without requiring separate mode development. Rex Flynn modifiers in Stage Four connect the feedback channel system directly to run replayability.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
 
 DECISION LOG ENTRY
 
