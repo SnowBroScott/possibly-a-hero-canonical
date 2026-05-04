@@ -4,6 +4,37 @@
 
 DECISION LOG ENTRY
 
+DECISION: The Class Mentor System is established as a framework for how advanced class powers are narratively justified and introduced to the player. Each of the four classes has a corresponding mentor character who occupies a class-specific building in the city. These buildings are present from early progression but appear non-descript and unremarkable until the mentor relationship unlocks. At the moment of unlock, the building reveals what it actually is — it was always there, hidden in plain sight. The reveal is not the city giving the player something new. It is the player becoming someone who can finally recognize what was already there.
+
+Mentor relationships unlock through class progression and playtime — not through a menu or a formal gate. Each mentor introduction is native to the class it unlocks, tonally and mechanically distinct, and functions as a three-panel comic book moment in its own right.
+
+BRAWLER MENTOR — Like recognizes like.
+The mentor sees the player fight from across the street and walks over. No mysticism, no technology. A veteran fighter who knows what they're looking at. Direct, physical, slightly gruff. The introduction is the first lesson — they have an opinion about your form before they have a word of welcome.
+
+SPEEDSTER MENTOR — Sense the presence of another.
+The Speedster mentor finds the player before the player finds them. They are already standing nearby when the player turns around. The player didn't hear them arrive. They don't know how long they've been there. Uncanny, slightly unsettling, immediately compelling.
+
+TACTICIAN MENTOR — Tech detects tech.
+The player's equipment flags the mentor's technology as a threat and generates a danger alert. The player investigates expecting an enemy and finds a person — someone whose equipment makes the player's look like a prototype. The introduction is adversarial before it is collaborative. The mentor was expecting the alert. It was deliberate.
+
+BLASTER MENTOR — The city reacts.
+Lights flicker and die in sequence across two city blocks. Electronics glitch. The player investigates and finds a person at the center of it — someone who has been living with uncontrolled energy output for years and has mastered it. They recognized the player's energy signature from six blocks away. The blackout was not an accident.
+
+MENTOR NARRATIVE FUNCTION:
+Each mentor provides narrative justification for why advanced class powers exist and are teachable. Mechanically, class mastery remains tied to run completion (10 successful runs for second tier, 30 for third tier). The mentor is the story of why the unlock happens — not the gate that controls it. Mentor introductions are world events that generate content across all three feedback channels: Rex Flynn would cover the Eastside blackout; citizens would have theories about the fighter who hangs around the old gym; the Superhero Community would have opinions about these mentors taking on an unknown hero.
+
+DATE: May 3, 2026
+
+WHY: The mentor system transforms class mastery unlocks from arbitrary progression gates into relationships with narrative weight. Each introduction is a comic book moment native to its class — tonally distinct, visually compelling, characterizing the mentor before a word of dialogue is spoken. The hidden-in-plain-sight building reveal rewards city exploration and creates a world that feels deeper the more the player progresses through it. Mentor introductions as world events connect the system organically to the existing feedback channels.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
 DECISION: A single run is 20 minutes, structured in three acts. Act One (0–5 min) is a Prep Period — mission locations are hidden, the player builds their loadout through milestone-based power selections, and movement is open but carries risk: stumbling into a mission location before the prep period ends makes that mission live immediately. Act Two (5–15 min) is the Open Window — all three mission locations reveal simultaneously on the map, and the player has full agency to attempt a mission immediately or continue developing their loadout. Act Three (15–20 min) is Forced Commitment — the game forces a mission choice at the 15-minute mark, and the player executes with whatever they have built. Mission locations are randomized each run; no mission type has a fixed geographic location. Locations are visible once revealed and can be stumbled upon before reveal during the prep period.
 
 DATE: May 3, 2026
