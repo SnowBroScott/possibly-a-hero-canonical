@@ -30,6 +30,41 @@ STATUS: DRAFT
 
 DECISION LOG ENTRY
 
+DECISION: Post-tutorial city structure consists of two distinct building categories. Essential Buildings (Science Lab, Boxing Gym, Tailor Shop, Hero's Lair) are unlocked through the tutorial arc and serve as the core mechanical hub. Four Class-Specific Narrative Locations (Speedster, Brawler, Tactician, Blaster) are unlocked post-tutorial and provide story and world grounding for advanced power unlocks, while the mechanical unlock requirement remains run-count based (10 runs / 30 runs). The city also progresses through four visual stages (rundown → developed → refined → modern) tied to player progression, with no strategic building prioritization required.
+
+DATE: May 3, 2026
+
+WHY: Essential buildings form the core loop and teach core mechanics through the tutorial arc. Class-specific locations provide narrative depth and world cohesion for the mastery system without replacing the run-count mechanical requirement. The Hero's Lair serves as a unified hub between runs, consolidating stat tracking, cosmetic management, combo development, mastery mechanics, and achievement display. Visual city progression rewards player advancement without introducing prioritization complexity. This keeps the city lean and purposeful while leaving room for future expansion.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+DECISION LOG ENTRY
+
+DECISION: The tutorial arc consists of four restorable buildings and one milestone event, each gated behind a specific run type completion, in the following sequence:
+
+1. Science Lab — unlocked by completing an Intel run. Teaches support skills.
+2. Boxing Gym — unlocked by completing a Boss Fight run. Teaches hero powers.
+3. Tailor Shop — unlocked by completing an Escort Defense run. Teaches cosmetics and appearance customization.
+4. Area Boss Defeated — milestone that completes the tutorial arc. Demonstrates player mastery across all three run path types.
+5. Hero's Lair — unlocked upon area boss defeat. Serves as headquarters. Houses combo development and mastery mechanics.
+
+Each building restoration is a hard gate tied to its corresponding run type. The player cannot access a building's mechanics until they have completed the run that unlocks it. The lair does not follow the restoration model — it is earned as a reward for completing the full tutorial arc, not discovered as a derelict building. Combos are developed and mastered exclusively in the lair, establishing a clear progression arc: foundation (lab) → development (gym) → customization (tailor) → synthesis and mastery (lair).
+
+DATE: May 3, 2026
+
+WHY: This structure weaves the three run path types into the game's mechanical foundation through narrative necessity rather than arbitrary progression gates. Each building teaches a player skill through a meaningful story moment rather than explicit instruction. The lair as earned headquarters creates a distinct transition from tutorial to open play — the player has proven themselves across all mechanics, and the city recognizes them as its hero.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
 DECISION: Run Initiation Loop — Corrected Structure
 
 The run initiation sequence is as follows:
