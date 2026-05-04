@@ -1,3 +1,33 @@
+
+DECISION LOG ENTRY
+
+DECISION: City buildings are mirrors, not gates. They reflect and deepen what the player has done in runs. They do not control what the player can access. This principle applies universally across all city buildings with no exceptions.
+
+THE RUN — Powers appear randomly during runs at milestone moments (XP thresholds, level-ups, or equivalent triggers). The full hero power pool is available from the start. No city building gates a power from appearing. Players enter each run with their class selection and class starting offensive power only. Everything else is built during the run through random offerings.
+
+COMBOS — Combos are discovered organically during runs, Vampire Survivors style. The right combination of powers held simultaneously triggers a combo — unannounced, emergent, discoverable by accident. Once discovered, the combo is permanently logged in the lair, including the exact power combination required to trigger it. The lair does not unlock combos. It records them.
+
+THE GYM — Every hero power a player selects during a run is added to the gym. Players can deepen, train, and improve powers they have already encountered. The gym grows as the player plays.
+
+THE LAIR — A special trophy case for discovered combos. Logs each combo, its trigger conditions, and its effects. Grows as the player stumbles into new combinations. The most dramatic mirror in the city — because combo discovery is the most dramatic moment in a run.
+
+ALL BUILDINGS — Follow the same mirror model. They reflect, deepen, and display what the player has earned through runs. None of them gate access to content.
+
+DATE: May 3, 2026
+
+WHY: Full consistency with the roguelite model and the "consequence without punishment" core principle. The city rewards and reflects — it never blocks. Combo discovery modeled on Vampire Survivors weapon evolution — emergent, accidental, deeply satisfying. The lair as combo trophy case makes discovery feel permanent and meaningful without requiring city investment to access it.
+
+REPLACES: All three of the following prior entries:
+- "City construction determines the player's starting power loadout at run start and expands the pool of powers available to appear during a run."
+- "Starting loadout is set by the city but the run determines how those powers develop and what combinations emerge. The city enables the pool; the run plays within it."
+- "The ability to merge or combine specific powers during runs is unlocked through city construction — without the relevant city building, certain merges are not available regardless of what powers the player holds during a run."
+
+Any language implying city buildings control power pool access, combo availability, or starting loadout configuration is incorrect and superseded by this entry.
+
+STATUS: DRAFT
+
+---
+
 DECISION LOG ENTRY
 
 DECISION: Run Initiation Loop — Corrected Structure
