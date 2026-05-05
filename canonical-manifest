@@ -24,6 +24,7 @@ Every agent fetches this manifest before doing any work.
 | LOCKED | Non-negotiable. Constrains everything below it. |
 | DRAFT | Directionally committed. Still refinable. |
 | NOTED | Worth capturing. Not yet a formal decision. |
+| CANONICAL SOURCE | Origin document for pipeline decisions. Entry-level authority applies — treat each entry according to its own stated status. |
 | DEPRECATED | Superseded. Historical reference only. |
 | REFERENCE | Supporting material. Not subject to pipeline. |
 
