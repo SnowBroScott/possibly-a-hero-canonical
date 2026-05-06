@@ -1,0 +1,536 @@
+DESIGN EXPANDER OUTPUT
+
+SECTION: Class_System
+
+STATUS: Draft
+
+CONTENT:
+
+───────────────────────────────────────────────────────────────
+CLASS SYSTEM
+Apex Chronicles | Class Mechanics Specification
+STATUS: Draft
+───────────────────────────────────────────────────────────────
+
+
+1. FOUNDATIONAL CONTEXT
+
+The class is the hero's shape for this run. Not their identity forever — their
+identity right now. It's the answer to a question the game asks at the start
+of every session: how do you want to arrive?
+
+Four classes. Per-run selection. No permanent assignment, no locked commitment
+carried between runs. The player picks a class before the map loads, and that
+choice determines their movement type, their opening offensive capability, and
+exactly how they look arriving to work. Then the run begins, and the class
+starts earning a reputation of its own.
+
+Class selection is one layer of a three-layer power architecture. The class
+primary suite defines the foundation — the mechanical identity that is
+entirely this class's and nobody else's. Hero powers and the support pool
+build on top of that foundation during the run. They are shared across all
+four classes. They are not the foundation. They are everything that gets added
+to it. The layers are distinct. They stay distinct. No hero power encroaches
+on what the class primary suite owns, and no support crosses that line either.
+
+Mastery accumulated through successful runs is permanent. The class
+itself is per-run. The record of what a player has done with a class — the
+unlocks earned, the progression logged — does not reset between runs and does
+not reset when the player picks a different class. A player can spend a week
+running Speedster and return to Brawler with exactly as many Brawler unlocks
+as they had before they left. The class waits. The record holds.
+
+
+───────────────────────────────────────────────────────────────
+2. THE FOUR CLASSES
+───────────────────────────────────────────────────────────────
+
+BRAWLER
+Movement: Leaping
+Intro: The Brawler leaps into frame and lands hard enough to crack the
+pavement. Camera swings up to isometric. The first thing the city sees is the
+impact. The second thing it sees is someone already standing in it.
+
+Identity: Physical. Grounded. Space-controlling. The Brawler does not arrive
+in the fight — the fight arrives around them. Every enemy that gets too
+close is making a mistake. Every enemy that stands in the wrong place is one
+Shockwave away from understanding that. The Brawler reads a battlefield
+through position — who is where, what that cluster means, and whether the
+ground is about to become a weapon. The fight is close. It is loud. It ends
+when the Brawler decides it ends.
+
+---
+
+SPEEDSTER
+Movement: Super Speed
+Intro: The Speedster blurs in from off-screen. Camera snaps up with the
+motion blur still resolving around them. They were somewhere else a moment ago.
+They might be somewhere else again before the city finishes deciding how to
+feel about the entrance.
+
+Identity: Fast. Unpredictable. Momentum-driven. The Speedster's combat
+philosophy is the same as their arrival philosophy: be somewhere, do something,
+be somewhere else. An enemy tracking the Speedster's last position is tracking
+history. A Speedster who commits to one angle is a Speedster making an
+uncharacteristic mistake. The speed is the offense. The offense is the speed.
+The blur is not a visual effect — it is a tactical statement.
+
+---
+
+BLASTER
+Movement: Teleportation
+Intro: The Blaster teleports in. Hard cut to isometric — no drift, no settle,
+no transition. One frame they are not there. Next frame they are. The camera
+does not ease into it. The Blaster does not ease into anything.
+
+Identity: Precision at range. Space controlled through energy. The Blaster
+does not need to be close to the problem. The problem is close to the Blaster
+when the Blaster decides it is, and not before. They arrive without
+announcement. They fire without wind-up. The Gravity Well does not ask the
+enemy's permission before pulling everything into the same unfortunate
+location. The Blaster is exact, and exact things tend to resolve exactly as
+intended.
+
+---
+
+TACTICIAN
+Movement: Vehicle
+Intro: The Tactician rolls in on the vehicle. Camera lifts steadily and settles
+with the deliberateness of someone who planned the approach before the run
+started. This is not an entrance. This is an arrival on schedule.
+
+Identity: Strategic. Infrastructure-minded. Prepared. The Tactician's vehicle
+is not a power-up — it is the Tactician. There is no dismount. There is no
+exit mechanic. The vehicle is permanent for the duration of the run because the
+Tactician came with a plan and the plan includes the vehicle. Deployable
+Turrets are not improvisation. The Rocket Launcher is not a surprise. The
+Tactician already knew what was going to be needed. They brought it.
+
+---
+
+MOVEMENT IS CLASS-LOCKED.
+Movement is not player-selectable. It is the class. A Brawler leaps. A
+Speedster runs. A Blaster teleports. A Tactician drives. These are not items
+in a menu. They are the mechanical expression of who the class is and how the
+class exists in the city.
+
+Flight is not in the movement pool. Wall crawling is not in the movement pool.
+Both have been removed entirely. The Tactician's vehicle is permanent — there
+is no exit mechanic, no dismount option, and no run state in which the
+Tactician is not in the vehicle.
+
+
+───────────────────────────────────────────────────────────────
+3. PRIMARY OFFENSIVE SUITES
+───────────────────────────────────────────────────────────────
+
+Each class has three offensive powers. Together they form the class primary
+suite — the only mechanical layer that is class-specific. Everything else
+the player builds during a run comes from the shared pools. These three powers
+belong entirely to this class. No other class touches them.
+
+The first power is available from run one. The second and third unlock through
+class mastery — through the record of successful runs with that class, not
+through any city building or construction choice. City buildings are mirrors.
+They do not gate primary power access.
+
+---
+
+BRAWLER
+
+Starter (available from run one):
+SUPER STRENGTH
+Single target. The Brawler hits one thing very hard. Everything else in the
+immediate vicinity is aware of this. The fundamental Brawler statement: I am
+here, you are near me, and now we are both dealing with that.
+
+10 Successful Runs:
+SHOCKWAVE / IMPACT BURST
+Area of effect. The Brawler hits the ground instead of the enemy. The ground
+has opinions about nearby enemies. Shockwave rewards the Brawler who has been
+learning to read clusters — who sees six enemies standing together and
+understands that as an opportunity, not a problem.
+
+30 Successful Runs:
+ELASTICITY / STRETCH
+Mid-range combat. The Brawler's reach extends. Close-range identity stays
+intact but the engagement envelope expands — enemies that thought they had
+found a safe distance find out they measured incorrectly. The Brawler who
+reaches 30 successful runs is not the same Brawler who started. Elasticity
+reflects that.
+
+---
+
+SPEEDSTER
+
+Starter (available from run one):
+SPEED STRIKE
+Single target. Rapid combo output. The Speedster hits the same enemy many
+times before that enemy can develop a coherent response to being hit once.
+High-frequency, momentum-native, everything the Speedster's movement type
+is already communicating.
+
+10 Successful Runs:
+VELOCITY SLAM
+Momentum-based impact. Skill-driven. The Speedster's speed becomes the weapon
+rather than the delivery system for the weapon. Velocity Slam rewards
+commitment — a Speedster who has been learning to build and spend momentum
+rather than just accumulate it. The slam lands harder when the run-up was
+longer. The player already knows this after ten runs. That is why it unlocks
+at ten.
+
+30 Successful Runs:
+TORNADO
+Area of effect. Environmental chaos. The Speedster stops hitting the enemy
+and starts hitting the space the enemy is standing in. Thirty runs of momentum-
+reading creates a player who understands what it means to own a zone —
+to spin something into existence in the center of a cluster and let the world
+disagree with everything inside it.
+
+---
+
+BLASTER
+
+Starter (available from run one):
+ENERGY BLAST
+Single target. Precision output at range. The Blaster points. Something
+happens to the thing being pointed at. Energy Blast is the clearest possible
+expression of Blaster identity: the gap between the hero and the target is
+not a problem, it is the entire point.
+
+10 Successful Runs:
+ELEMENTAL SURGE
+Per-run element selection: fire, ice, or lightning. Each carries distinct
+status effects. This is directed elemental projection — force lightning aimed
+at a target, concentrated fire fired from the hero's body, precision ice
+released and controlled. It comes from the hero. It travels toward something
+specific. It does not fill a room. It does not call weather. It arrives
+exactly where it was aimed, with the element the Blaster chose before the
+run started.
+
+Note on Elemental Surge and Tempest: these powers share a lightning element
+and are not the same power. Elemental Surge is directed and precise — the
+Blaster projects it. Tempest is environmental — the storm answers the hero
+rather than coming from them. A Blaster running both in the same run is a
+precision energy projector who can also call storms. They are not doubling up.
+They are operating on two separate planes simultaneously.
+
+30 Successful Runs:
+GRAVITY WELL
+Area of effect. Tactical. The Blaster deploys a gravitational anomaly that
+pulls everything in range toward a point of their choosing, then detonates.
+Gravity Well is the power of a Blaster who has learned to think in clusters —
+who sees a scattered enemy formation and understands how to make it stop being
+scattered. Thirty runs of precision output earns the right to rearrange the
+battlefield before addressing it.
+
+---
+
+TACTICIAN
+
+Starter (available from run one):
+RIFLE
+Single target. Precision at distance. The Tactician shoots a thing they have
+already identified as worth shooting. Clean, intentional, no ambiguity about
+where the damage goes. The Rifle is the Tactician's position statement: I
+know what I'm doing, I know what I'm targeting, and I have already thought
+about whether this is the right call.
+
+10 Successful Runs:
+DEPLOYABLE TURRETS
+Utility and area control. The Tactician establishes coverage. The Turrets
+handle the zone while the Tactician handles the plan. This is the Tactician
+operating at something closer to their natural state — deploying infrastructure,
+creating controlled space, and letting the prepared environment do the work a
+less-prepared hero would have to do themselves.
+
+30 Successful Runs:
+ROCKET LAUNCHER
+Area of effect. Destruction. The Tactician brought ordinance because they knew
+the target would require it. Thirty runs of strategic layering earns the power
+that removes entire sections of an encounter from consideration. The Rocket
+Launcher is not imprecision — it is scale. The Tactician who reaches thirty
+runs knows exactly when to stop being surgical and start being structural.
+
+
+───────────────────────────────────────────────────────────────
+4. CLASS MASTERY AND UNLOCK STRUCTURE
+───────────────────────────────────────────────────────────────
+
+Every class starts with one offensive power available.
+
+Second offensive power unlocks at 10 successful runs with that class.
+Third offensive power unlocks at 30 successful runs with that class.
+
+Unlocks are cumulative and permanent. They do not reset between runs. They
+do not reset when the player switches to a different class. They do not
+regress on failed runs. A failed run does not count toward unlock progress and
+does not subtract from it. The record holds.
+
+Unlock thresholds are per-class. Ten Brawler runs do not contribute to
+Speedster mastery. Each class's record belongs to that class.
+
+The unlock thresholds are not arbitrary numbers. Ten successful runs with a
+class is enough to understand the starter power well enough to layer something
+new on top of it. Thirty successful runs is enough to have genuinely developed
+a playstyle — to have arrived at the point where the third power expands a
+real identity rather than a theoretical one. The progression gate is designed
+around what the player has actually learned by the time the unlock fires.
+
+
+───────────────────────────────────────────────────────────────
+5. THE THREE POWER LAYERS
+───────────────────────────────────────────────────────────────
+
+Three distinct layers build the hero's capability during a run. They are
+designed to stay distinct. The separation is structural and intentional —
+each layer does something the other two do not, and none of them trespasses
+into what the others own.
+
+At each milestone (level up), the player chooses one option from three
+genuinely viable candidates:
+- A class primary upgrade — deepens class identity
+- A hero power — adds a new tool, broadens capability
+- A support option — modifies existing powers, shifts build interactions
+
+No option is the obvious correct answer. The run's character emerges from
+the weight of all these decisions across all its milestones — not from a
+preset loadout the player carried in.
+
+---
+
+LAYER 1 — CLASS PRIMARY
+Class-specific. Unlocks through mastery. Defines class identity. Selected at
+run start when more than one is available. The class primary suite is the
+only layer the class owns exclusively. It is the foundation everything else
+gets built on. Hero powers and supports broaden and modify the foundation —
+they do not become the foundation.
+
+---
+
+LAYER 2 — HERO POWERS
+Shared pool across all classes. Fully random mid-run pickups offered at
+milestone moments. Offensive with utility upside. The entire pool is available
+from run one — no city building controls which powers can appear. Every power
+in the pool has standalone offensive value before combo value. The ridiculous
+combination the player didn't plan for is not a malfunction. It is the point.
+
+Full pool (10 powers):
+
+MAGNETISM
+Pull enemies together. Redirect projectiles back at their sources. Strip
+weapons. The Brawler who combines Magnetism with Shockwave is doing
+something the Brawler class was designed to make possible: pulling a cluster
+and landing an AOE in the center of it. Every other class benefits differently.
+The power works regardless.
+
+FREEZE FRAME
+Brief local time dilation. Everything in range stops. The player doesn't.
+The window it opens is the player's to use however they've built.
+
+TEMPEST
+Lightning strikes from above. Wind gusts. Localized storms. The weather
+answers the hero — it is not coming from the hero. Thor's lightning bolt
+called down, not force lightning fired out. Environmental, atmospheric, spatial.
+This is the storm. The hero is the reason it's here.
+
+TREMOR
+Fissures open. The ground shakes. Terrain becomes a weapon — edges, cracks,
+obstacles, and elevation shifts that enemies and the hero both have to navigate,
+except the hero caused them and can plan around them.
+
+RIFT
+Displaces enemies around the map. Intentionally chaotic. The player who picks
+Rift is choosing to introduce disorder into a fight on the theory that they
+can exploit it faster than the enemies can recover from it. Sometimes this is
+correct. The hero power pool allows for theories to be tested.
+
+TOXIN
+Damage over time. Spreads between enemies in contact. A patient power for a
+player who understands that not everything has to resolve immediately. The
+spread mechanic rewards positioning — putting the first target somewhere the
+spread has somewhere to go.
+
+SONIC SCREAM
+Stuns. Disorients. Chain damages through a cluster. The Sonic Scream does
+not pick one target — it addresses the room.
+
+CLASS SUMMONS (one per class, native to class identity):
+GORILLA — Brawler. Animal companion. A second thing in the fight that the
+enemy has to account for.
+DOUBLE TIME — Speedster. Speed clone. Another version of the problem, running
+at full speed in a direction the enemy didn't anticipate.
+SPECTER — Blaster. Spectral ally. Phases through walls. Attacks from
+positions that do not have conventional access.
+SENTINEL — Tactician. Combat drone. Autonomous, tactical, already deployed
+before the enemy arrived.
+
+Class summons are hero powers. They appear in the shared random pool. They
+are unique per class and native to class identity — but they are not class
+primary powers. The distinction matters. The summon is something the run adds
+on top of the foundation, not something the class came in with.
+
+---
+
+LAYER 3 — SUPPORT POOL
+Shared across all classes. Class-agnostic. Accumulates during the run.
+Every support has standalone value regardless of what primary power or hero
+power combination it joins. No support encroaches on class identity.
+
+Full pool (8 supports):
+Combat: Reflexes, Power Surge, Blast Radius, Precision Strike, Rapid Recovery
+Utility: Overdrive, Fast Track
+Safety: Last Stand
+
+The support pool uses names the genre already knows. A player who has run
+a roguelite before understands what Blast Radius does before the tooltip
+finishes loading. That legibility is intentional. The support layer should not
+require explanation — it should invite experimentation.
+
+
+───────────────────────────────────────────────────────────────
+6. THE MENTOR SYSTEM
+───────────────────────────────────────────────────────────────
+
+Each class has a mentor. Each mentor has a building. Each building has been
+in the city this whole time.
+
+The four class-specific buildings exist from early progression. They look like
+nothing. They are not nothing. When the mentor relationship unlocks through
+class progression and playtime, the building reveals what it actually is —
+and the player realizes they have walked past it a dozen times without
+recognizing it. The reveal is the point. Hidden in plain sight is not a mystery
+mechanic — it is a design statement about how the city works and what it has
+been holding for the player without announcing it.
+
+Each mentor introduction is a three-panel comic book moment. Not a cutscene.
+Not a tutorial. A moment with the compositional weight and kinetic energy of
+a comic book splash page that happens to be interactive.
+
+Mentor introductions are world events. They generate content across all three
+feedback channels — Citizens, Superhero Community, and Rex Flynn on Exposed —
+because the world noticed. The hero gaining a mentor is not a private
+transaction. The city has opinions about it before the hero has had time to
+process the meeting.
+
+Mechanically: mentors provide narrative context for why advanced class powers
+exist and why they are teachable. The unlock itself remains tied to run
+completion — 10 successful runs for the second power, 30 for the third.
+The mentor is the story of why the unlock happens. The mentor is not the gate
+that controls it. City buildings are mirrors. Mentor buildings follow the same
+rule.
+
+---
+
+BRAWLER MENTOR — Like recognizes like.
+
+The mentor sees the player fight from across the street. Nobody told them to
+look. Nothing flagged the encounter as significant. They were just nearby,
+they recognized what they were seeing, and they walked over.
+
+No mysticism. No technology. No dramatic framing. A veteran fighter identifying
+good form — or bad form — and having something to say about it. Direct.
+Physical. Slightly gruff. The introduction is already the first lesson. The
+mentor has an opinion about the Brawler's technique before a word of welcome
+has been exchanged. The handshake, if there is one, comes after the correction.
+
+The building that was non-descript yesterday has a sign today. Maybe it
+always had a sign. The Brawler just wasn't looking at it the right way.
+
+---
+
+SPEEDSTER MENTOR — Sense the presence of another.
+
+The player turns around. The mentor is already there.
+
+The player did not hear them arrive. They do not know how long the mentor has
+been standing there. The mentor is not performing a dramatic entrance — they
+simply appeared because they sensed something and went toward it. Attuned in
+ways that are not entirely explainable. Comfortable with the fact that this is
+not explainable. The Speedster who has been running for weeks might recognize
+the feeling of being near someone else with the same kind of speed. Might not.
+Either way, the mentor was already standing there when the question formed.
+
+The building does not announce itself. It never did. The Speedster has been
+fast enough to notice it and not noticed it. The mentor noticed the Speedster
+first.
+
+---
+
+BLASTER MENTOR — The city reacts.
+
+Lights flicker. Die in sequence across two city blocks — not all at once, in
+sequence, as if something is moving through the infrastructure with a specific
+direction. Electronics glitch. Phones reboot mid-call. The intersection ahead
+goes dark.
+
+The player investigates. What they find is not an enemy.
+
+It is a person who has been living with uncontrolled energy output for years.
+Managing it. Minimizing it. Mostly succeeding. They recognized the player's
+energy signature from six blocks away — a precision that implies they have
+spent a long time learning to read exactly this kind of output. The blackout
+was not an accident. It was a greeting. The kind of greeting that felt
+proportionate to someone who has lived for years in a city that mostly flinches
+at what they do, and wanted to signal before they startled.
+
+The building was dark when it needed to be. Now there's light in the windows.
+
+---
+
+TACTICIAN MENTOR — Tech detects tech.
+
+The player's equipment flags a danger alert. Unknown technology nearby —
+signature that does not match any catalogued threat profile, but is
+sophisticated enough to register as one. The player investigates, approaching
+the source with the assessment already written: possible enemy, advanced kit,
+unknown capabilities.
+
+They find a person. Someone whose equipment makes the player's look like a
+prototype, and who was fully aware the player's alert was going to fire, and
+who set it up that way deliberately. Adversarial before collaborative. A test
+without a briefing. The mentor wanted to see how the player approached a
+technical unknown before deciding whether the meeting was worth having.
+
+It was worth having. The mentor had already decided that before the player
+arrived. The alert was the invitation.
+
+The building that looked like maintenance infrastructure turns out to be
+nothing like maintenance infrastructure. It has been operational this whole
+time. The player just didn't have clearance to see it.
+
+
+───────────────────────────────────────────────────────────────
+
+CANONICAL DEPENDENCIES:
+
+Locked decisions this document draws from and must remain consistent with:
+- "Apex Chronicles is a superhero roguelite city-building game. Runs shape
+  the city, the city shapes the runs." (LOCKED)
+- "Negative run outcomes affect the city atmospherically. Nothing is
+  permanently lost. No progress is set back. No construction is reversed.
+  The city always recovers." (LOCKED)
+
+Additional canonical sources (all DRAFT):
+- Class System — four classes, per-run selection
+- Movement — class locked, flight and wall crawling removed
+- Class Mastery — 10 and 30 successful run unlocks
+- Guardian removed as standalone class
+- Run Camera Transition / Run Initiation Loop — Corrected Structure
+- Class Offensive Suites — all four classes
+- Three Power Layers — primary, hero powers, support
+- Support Pool — eight supports, final naming
+- Hero Powers Pool — ten powers, final naming
+- Class Mentor System — Framework and Introduction Triggers
+- Post-Tutorial City Structure and Class-Specific Buildings
+- City Buildings — Mirrors Not Gates (Amendment)
+- Camera and Combat Model
+- DRAFT/Run_Design (full document)
+
+RECOMMENDED NEXT STEP:
+Recommend Cross-System Auditor before Canon Guard. This document touches
+class mechanics, the three power layers, city building behavior, the feedback
+channel ecosystem (mentor introductions as world events), run initiation
+structure, and mastery unlock progression. Cross-System Auditor should verify
+consistency across Run_Design, the city building model, and the feedback
+channel decisions before Canon Guard reviews for lock.
