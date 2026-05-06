@@ -1,1 +1,331 @@
+RUN DESIGN
+Apex Chronicles | Canonical Run Mechanics Specification
+STATUS: Draft
 
+---
+
+1. FOUNDATIONAL CONTEXT
+
+Apex Chronicles is two games fused into one. The run is the action half. The
+city is the consequence half. Neither functions without the other — not
+thematically, not mechanically, not in how the player understands what they're
+doing or why it matters.
+
+Runs generate three types of output: resources, morale, and intel. These flow
+into the city layer after every run, successful or not. The city reflects and
+deepens what the player has done across those runs. It does not control what
+the player can access in runs. City buildings are mirrors, not doors.
+
+The full hero power pool is available from run one. No city building holds a
+power back from appearing. No construction project unlocks a combo. Players
+enter each run with their class and their starting offensive power. Everything
+else gets built during the run, from a pool that was never gated.
+
+What the city does is remember. It shows the player what they've built, what
+they've survived, and who the world has decided they're becoming. The run is
+where the story happens. The city is where the story lives.
+
+Any system treating these as separate modes has misread the game.
+
+---
+
+2. RUN INITIATION
+
+Every run begins before the map loads. The choices made in the pre-run menu
+are the ones the cinematic pays off.
+
+Sequence:
+1. Player selects class. Four options: Brawler, Speedster, Blaster, Tactician.
+2. Player selects starting offensive power — only if more than one has been
+   unlocked for that class. Single-unlock players skip this step entirely.
+3. Map loads.
+4. Intro scene plays. Third-person, brief, cinematic. The hero arrives in
+   the city via their class movement type.
+5. Camera transitions to isometric offset play mode.
+6. Run begins.
+
+The camera transition is the payoff of class selection — not a separate
+mechanical choice, not a consequence of movement power selection. The hero
+arrives the way they arrive because of who they are. The class was chosen
+before the map loaded. The intro is the world acknowledging that choice.
+
+Class intro animations:
+
+- Brawler: Leaps into frame. Lands hard enough to crack the ground. Camera
+  swings up to isometric.
+- Speedster: Blurs in from off-screen. Camera snaps up with motion blur still
+  resolving around the hero.
+- Blaster: Teleports in. Hard cut to isometric — no drift, no settle, no
+  transition. Just suddenly there.
+- Tactician: Rolls in on vehicle. Camera lifts steadily and settles with the
+  deliberateness of someone who planned the approach.
+
+Each animation communicates class identity before a single enemy appears. The
+Brawler hits the ground. The Speedster was already there. The Blaster arrives
+without warning. The Tactician arrives with infrastructure. Third-person assets
+are scoped exclusively to this intro sequence. The isometric offset angle
+handles all run gameplay from the moment the camera settles.
+
+---
+
+3. CAMERA AND PERSPECTIVE
+
+The camera model is Hades — closer and more angled than Deep Rock Galactic
+Survivors. DRGS is retired as a reference for this game. It described the
+wrong thing.
+
+At Hades distance, individual enemies have presence. Movement types read as
+identity rather than speed statistics. A heavy enemy that telegraphs a charge
+plays differently from a fast enemy that flanks — and the player can read that
+difference because the camera lets them see it. Bodies on the ground look like
+bodies. A power landing on a cluster of enemies reads as impact, not as a
+number increasing.
+
+The city at this distance feels like a place. Storefronts. Alleyways.
+Recognizable buildings that exist in both the run layer and the city layer.
+The same street corner the player has rebuilt looks like that street corner
+when they're running through it. Not a map. Not a level. A city the player
+helped build, and is now fighting through.
+
+Camera scope:
+- Third-person perspective: intro sequence only
+- Isometric offset: all run gameplay
+- Third-person asset investment is bounded by the intro sequence scope
+
+Reference hierarchy:
+- Run camera and combat feel: Hades
+- Run structure and loop: Vampire Survivors
+- DRGS: retired
+
+---
+
+4. COMBAT PHILOSOPHY
+
+Combat in Apex Chronicles is intentional. Nothing procs automatically. Nothing
+kills enemies the player wasn't involved in killing.
+
+Powers are tools. Players aim them, time them, position them, and combine them
+through active decision. A Brawler who pulls a cluster together with Magnetism
+and then drops a Shockwave into the center of the pile is playing differently
+from a Brawler throwing Shockwaves at whatever is closest. Both land hits.
+Only one reflects mastery.
+
+A skilled player with a mediocre power selection outperforms an unskilled
+player with a great one. This is a design commitment, not an aspiration.
+Mastery is real in Apex Chronicles and it is expressible. The game does not
+paper over player error with automatic output.
+
+Power selection at milestone (level up):
+
+At each milestone, the player chooses between three genuinely viable options:
+- A class primary upgrade — deepens core class identity and sharpens what
+  the class already does
+- A hero power — adds a new tool to the run, broadens capability, introduces
+  combo potential
+- A support option — modifies existing powers, shifts how the build interacts
+  with enemies and terrain
+
+No option is obviously correct. The selection is not a trap with two wrong
+answers. Build identity emerges from the accumulated weight of these choices
+across the full run — not from a preset configuration the player carried in.
+A run that opened with Tempest and layered Blast Radius on top plays
+differently from a run that opened with Reflexes and built toward Velocity
+Slam. Neither is the prescribed path. Both are valid.
+
+Combat feel reference: Hades
+Structural loop reference: Vampire Survivors
+These references describe different dimensions of the same game.
+
+---
+
+5. THE THREE MISSION TYPES
+
+Post-tutorial, all three mission types exist on the map simultaneously in
+every run. They are not separate modes. They are discoverable locations within
+a single run environment. The player is always in the same run, on the same
+map, with all three available.
+
+Mission locations are randomized each run. No mission type has a fixed
+geographic position.
+
+BOSS FIGHT
+Type: Action combat encounter
+Objective: Defeat the encounter boss
+City output: Generates resources for city construction
+
+A direct confrontation. The player's power combination is tested against a
+specific challenge that requires positioning and timing to resolve cleanly.
+Boss Fight rewards are load-bearing for city development — players who skip
+boss encounters are players whose city stops growing.
+
+PASSIVE ESCORT DEFENSE
+Type: Moving objective protection
+Objective: Keep a moving objective alive from point A to point B
+City output: Sustains city morale
+
+The hero is not the only thing moving. Enemies read the objective as the
+priority, not the player. The player has to stay between the threat and the
+thing they're protecting. Positioning and camera awareness matter more here
+than in any other mission type. A build optimized for stationary output will
+feel the gap in an escort run. The objective does not wait for the player to
+solve problems from a distance.
+
+HORDE SURVIVAL
+Type: Position hold
+Objective: Survive in a defined zone for a set duration while enemy density
+escalates
+City output: Generates intel
+
+The enemies come to the player. The build gets stress-tested at volume. How
+a power combination performs under sustained pressure in a fixed location is
+a fundamentally different question from how it performs in an open engagement.
+The run's loadout choices either hold or they don't.
+
+Intel and the area boss:
+Intel is not optional. Horde Survival is the only mission type that generates
+it. Accumulated intel identifies the area's super villain. Sufficient intel
+triggers the area boss encounter. The area boss gates progression to the next
+stage. All three mission types become structurally necessary — the player
+cannot progress past an area without running the horde survival loop enough
+times to build the intel picture.
+
+---
+
+6. MINOR OBJECTIVES
+
+Minor objectives exist between and alongside formal missions throughout every
+run. Muggings. Citizens in danger. Environmental incidents the hero happens to
+be close enough to see. These are opportunities, not assignments. No system
+routes the player toward them. No timer forces a response. They appear because
+the city is a place, and things happen in places.
+
+Minor objectives are what the Hades camera distance makes possible. At this
+angle, a person in trouble three blocks from the horde zone is visible. The
+player can see the mugging. They can choose to stop.
+
+Minor objectives feed:
+- XP — direct boost to run progression. Minor objective XP feeds the same
+  milestone-based power selection system as combat XP. More minor objectives
+  completed means more power selection opportunities within a run. A player
+  who stays engaged with the city between missions levels up faster and builds
+  more.
+- City morale (Citizens channel) — citizens saw what the hero did, or didn't
+  do, on their block
+- Recognition (Superhero Community channel) — the community tracks patterns
+  across the run record
+- Clickbait (Rex Flynn / Exposed channel) — Rex was almost certainly filming
+  something nearby for unrelated reasons
+
+Minor objectives do not generate intel. Intel is the exclusive output of Horde
+Survival. The horde survival mission cannot be bypassed through incidental
+heroism, no matter how many minor objectives the player engages.
+
+The XP connection makes minor objectives a genuine strategic layer, not just
+atmosphere. A player who wants more power selection opportunities in a run has
+a reason to pay attention to the city between missions — not because the game
+told them to, but because the city keeps presenting situations and the
+situations keep being worth something.
+
+Minor objectives are the single most natural source of early name emergence.
+Citizens name heroes they watch doing things before any formal mission is
+completed. The pattern of what the player does between objectives becomes part
+of the record before the player realizes they're writing one.
+
+---
+
+7. RUN TIME STRUCTURE — THREE ACTS
+
+A single run is twenty minutes. Every run has the same shape. The map, the
+mission locations, and the build are different every time. The shape is not.
+
+ACT ONE — PREP PERIOD (0:00 – 5:00)
+
+Mission locations are hidden. The player does not know where the Boss Fight,
+the Escort Defense, or the Horde Survival will be. They know all three exist
+somewhere on the map. They don't know where.
+
+The player moves through the city freely, leveling up through milestone-based
+power selections. Minor objectives are live. The build is forming. The city
+is already reacting to the fact that someone is out there.
+
+Stumbling into a mission location before the prep period ends makes that
+mission live immediately. The map does not protect the player from finding it
+early. The mission does not wait for the five-minute mark. A player who blunders
+into a horde zone at minute two with two powers and a support is going to find
+out what those two powers and a support can do under pressure. This is not a
+punishment. This is how the city keeps the run from feeling like a menu with
+a countdown.
+
+ACT TWO — OPEN WINDOW (5:00 – 15:00)
+
+At the five-minute mark, all three mission locations reveal simultaneously on
+the map. Full information. Full agency. The player now knows exactly where
+everything is.
+
+They can attempt a mission immediately with whatever they've built. They can
+keep developing the loadout and hold the decision. They can hit a minor
+objective on the way across the map to a mission they're not sure they're
+ready for. There is no mechanical penalty for waiting. There is no mechanical
+bonus for rushing. The Open Window is ten minutes of genuine player choice —
+the longest sustained period of player agency in the run.
+
+ACT THREE — FORCED COMMITMENT (15:00 – 20:00)
+
+At the fifteen-minute mark, the window closes. The game forces a mission
+choice. Whatever the player built across the first fifteen minutes is the build
+going in. Loadout development stops. Five minutes to execute.
+
+The forced commitment is the run's dramatic spine. Every milestone choice,
+every minor objective taken or passed, every second spent developing versus
+rotating — it lands here. The build meets the mission. Success or failure
+resolves in Act Three.
+
+The run ends at twenty minutes regardless of outcome.
+
+---
+
+8. RUN RESOLUTION
+
+Every run resolves with outputs that feed the city layer.
+
+Successful run: Generates resources, morale, or intel depending on mission
+type completed. City development advances. The mirror gets brighter.
+
+Failed or abandoned run: Atmospheric consequence only. No progress is reversed.
+No construction is undone. No city building disappears. The city absorbs the
+loss without surrendering it. The player returns to a city that knows things
+went badly, not a city that was set back.
+
+Run patterns accumulate. A streak of bad runs darkens the city over a short
+window — citizens pull indoors, visual tone shifts, Rex Flynn has opinions he
+broadcasts at volume. None of it is permanent. The city recovers. The hero
+goes again. The story keeps writing itself, one run at a time, whether the
+last run was the best one or the worst one in the record.
+
+---
+
+CANONICAL DEPENDENCIES:
+
+Locked decisions this document draws from and must remain consistent with:
+- "Apex Chronicles is a superhero roguelite city-building game. Runs shape the
+  city, the city shapes the runs." (LOCKED)
+- "Negative run outcomes affect the city atmospherically. Nothing is
+  permanently lost. No progress is set back. No construction is reversed.
+  The city always recovers." (LOCKED)
+
+Additional canonical sources (all DRAFT):
+- Run Initiation Loop — Corrected Structure
+- Camera and Combat Model
+- Run Time Structure and Mission Reveal Model
+- City Buildings — Mirrors Not Gates (Amendment)
+- Map Structure — City Stages as Run Progression System
+- Tutorial Arc — World-Based Nudges and Run Structure
+- Three mission type and city output decisions
+- Intel and area boss progression decision
+
+RECOMMENDED NEXT STEP:
+Recommend Cross-System Auditor before Canon Guard. This document touches run
+mechanics, city output systems, all three feedback channels, minor objective
+behavior, power pool structure, and the tutorial arc gate model. Cross-System
+Auditor should verify consistency across all of these before Canon Guard locks
+anything.
