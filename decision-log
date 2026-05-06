@@ -1,3 +1,45 @@
+DECISION LOG ENTRY
+
+DECISION: Camera and Combat Model
+
+CAMERA:
+Run gameplay uses a Hades-style camera — closer and more angled than Deep Rock Galactic Survivors. The distance is deliberate: close enough that individual enemies have presence, movement types read as identity rather than speed stats, and the city feels like a place rather than a map. The DRGS reference is retired as the primary camera comparison. Hades with open world scope is the correct model.
+
+COMBAT PHILOSOPHY:
+Combat is intentional and skill-based, not passive and automatic. Powers are tools the player deploys actively — timed, positioned, and combined through player decision rather than auto-proc stacking. A skilled player with a mediocre power selection outperforms an unskilled player with a great one. Mastery is real and expressible.
+
+This aligns combat closer to Hades than Vampire Survivors. VS remains the structural reference for run format and progression loop. Hades is the reference for combat feel, power interaction, and skill expression.
+
+POWER SELECTION MODEL:
+At each level up, players choose between three genuinely viable options representing meaningfully different strategies:
+
+- A class primary upgrade — deepens core class identity, makes existing skills more powerful
+- A hero power — adds a new tool, broadens what the player can do
+- A support option — modifies existing powers, changes behavior, shifts interactions
+
+No option is obviously correct. The tension between deepening, broadening, and modifying is the decision. Build identity emerges from accumulated choices across a run, not from a preset loadout.
+
+MINOR OBJECTIVES:
+The closer camera distance and intentional combat model opens the city to minor objectives — incidental heroic moments that occur alongside the three main mission types. Muggings, citizens in danger, environmental incidents. These are not formal missions. They are opportunities.
+
+Minor objectives feed:
+- Morale (Citizens channel)
+- Recognition (Superhero Community channel)
+- Clickbait (Rex Flynn channel)
+
+Minor objectives do not generate intel. Intel remains exclusively tied to the horde survival mission to preserve its load-bearing role in progression.
+
+Minor objectives are a natural source of early name emergence — patterns of incidental heroism that citizens notice before any formal mission is completed.
+
+DATE: May 5, 2026
+
+WHY: Camera distance is not cosmetic — it determines combat philosophy, movement identity, and world legibility. Hades distance makes the city feel inhabited and the hero feel powerful rather than small. Intentional skill-based combat creates genuine mastery expression and makes class identity meaningful beyond stat differentiation. Minor objectives make the city feel alive between main missions and feed the feedback channel ecosystem naturally.
+
+REPLACES: DRGS as primary camera reference — superseded by Hades with open world scope.
+
+STATUS: DRAFT
+
+
 ---
 
 DECISION LOG ENTRY
