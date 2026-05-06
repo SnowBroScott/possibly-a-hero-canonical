@@ -1000,3 +1000,27 @@ WHY: The original locked entry was written before the mirrors-not-gates philosop
 REPLACES: "The city built shapes the hero's available powers and abilities." — LOCKED entry dated May 3, 2026, superseded by this amendment.
 
 STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: AMENDMENT — Camera and Combat Model: Minor Objective Outputs. The minor objective output list recorded in the Camera and Combat Model entry (May 5, 2026) was incomplete. The confirmed, complete output list is:
+
+Minor objectives feed:
+- XP — direct boost to run progression. Minor objective XP feeds the same milestone-based power selection system as combat XP. More minor objectives completed means more power selection opportunities within a run.
+- Morale (Citizens channel)
+- Recognition (Superhero Community channel)
+- Clickbait (Rex Flynn channel)
+
+Minor objectives do not generate intel. Intel remains exclusively tied to horde survival.
+
+DATE: May 6, 2026
+
+WHY: XP was confirmed as a minor objective output during Run Design document generation. The Camera and Combat Model entry did not include it. This amendment corrects the omission to ensure consistency across all documents referencing minor objective behavior.
+
+REPLACES: Minor objective output list in Camera and Combat Model (May 5, 2026). That list is superseded by this complete version.
+
+STATUS: DRAFT
+
+---
