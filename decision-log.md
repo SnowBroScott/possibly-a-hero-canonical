@@ -984,3 +984,19 @@ REPLACES: Earlier gym model that contained hero powers without a deepening syste
 STATUS: DRAFT
 
 ---
+
+DECISION LOG ENTRY
+
+DECISION: The city and runs are inseparable. Runs shape the city. The city shapes the hero's identity, development, and mastery. The city does not control what powers appear in runs. The full hero power pool is available from run one. No city building gates a power from appearing. Discovery is always free.
+
+What the city provides is the infrastructure for mastery. Powers discovered and proven in runs find their home in the city — in the training center, in the lair, in the buildings the hero has restored and the relationships they have built. The city deepens what the player has earned. It does not withhold what the player hasn't yet unlocked.
+
+The relationship is: runs write the story, the city remembers it.
+
+DATE: May 6, 2026
+
+WHY: The original locked entry was written before the mirrors-not-gates philosophy was established. The design evolved to separate discovery (always free, full pool available) from mastery (housed in the city, earned through proven use). This amendment preserves the foundational inseparability of runs and city while correcting the gate implication that the original language carried. The training center evolution model and the hero power deepening system are the canonical expression of how the city shapes the hero — through deepening, not gating.
+
+REPLACES: "The city built shapes the hero's available powers and abilities." — LOCKED entry dated May 3, 2026, superseded by this amendment.
+
+STATUS: LOCKED
