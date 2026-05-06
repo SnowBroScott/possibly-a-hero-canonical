@@ -1,406 +1,4 @@
-DECISION LOG ENTRY
 
-DECISION: Camera and Combat Model
-
-CAMERA:
-Run gameplay uses a Hades-style camera — closer and more angled than Deep Rock Galactic Survivors. The distance is deliberate: close enough that individual enemies have presence, movement types read as identity rather than speed stats, and the city feels like a place rather than a map. The DRGS reference is retired as the primary camera comparison. Hades with open world scope is the correct model.
-
-COMBAT PHILOSOPHY:
-Combat is intentional and skill-based, not passive and automatic. Powers are tools the player deploys actively — timed, positioned, and combined through player decision rather than auto-proc stacking. A skilled player with a mediocre power selection outperforms an unskilled player with a great one. Mastery is real and expressible.
-
-This aligns combat closer to Hades than Vampire Survivors. VS remains the structural reference for run format and progression loop. Hades is the reference for combat feel, power interaction, and skill expression.
-
-POWER SELECTION MODEL:
-At each level up, players choose between three genuinely viable options representing meaningfully different strategies:
-
-- A class primary upgrade — deepens core class identity, makes existing skills more powerful
-- A hero power — adds a new tool, broadens what the player can do
-- A support option — modifies existing powers, changes behavior, shifts interactions
-
-No option is obviously correct. The tension between deepening, broadening, and modifying is the decision. Build identity emerges from accumulated choices across a run, not from a preset loadout.
-
-MINOR OBJECTIVES:
-The closer camera distance and intentional combat model opens the city to minor objectives — incidental heroic moments that occur alongside the three main mission types. Muggings, citizens in danger, environmental incidents. These are not formal missions. They are opportunities.
-
-Minor objectives feed:
-- Morale (Citizens channel)
-- Recognition (Superhero Community channel)
-- Clickbait (Rex Flynn channel)
-
-Minor objectives do not generate intel. Intel remains exclusively tied to the horde survival mission to preserve its load-bearing role in progression.
-
-Minor objectives are a natural source of early name emergence — patterns of incidental heroism that citizens notice before any formal mission is completed.
-
-DATE: May 5, 2026
-
-WHY: Camera distance is not cosmetic — it determines combat philosophy, movement identity, and world legibility. Hades distance makes the city feel inhabited and the hero feel powerful rather than small. Intentional skill-based combat creates genuine mastery expression and makes class identity meaningful beyond stat differentiation. Minor objectives make the city feel alive between main missions and feed the feedback channel ecosystem naturally.
-
-REPLACES: DRGS as primary camera reference — superseded by Hades with open world scope.
-
-STATUS: DRAFT
-
-
----
-
-DECISION LOG ENTRY
-
-DECISION: Tutorial Arc — Building Sequence and Run Type Gates
-
-The tutorial arc consists of four restorable buildings and one area boss 
-defeat, each unlocked by specific run type completion:
-
-1. Science Lab — unlocked by completing an Intel run. Teaches support skills.
-2. Boxing Gym — unlocked by completing a Boss Fight run. Teaches hero powers.
-3. Tailor Shop — unlocked by completing an Escort Defense run. Teaches 
-   cosmetics and appearance customization.
-4. Area Boss Defeated — completes the tutorial arc. Player has demonstrated 
-   mastery across all three run path types.
-5. Hero's Lair — unlocked upon area boss defeat. Serves as headquarters. 
-   Houses combo development, mastery mechanics, achievement displays, 
-   cosmetic loadout management, and run statistics review.
-
-Each building restoration is a hard gate tied to its corresponding run type. 
-The player cannot access a building's mechanics until they have completed 
-the run type that unlocks it. This creates a natural tutorial structure 
-where game mechanics teach themselves through narrative stakes rather than 
-explicit instruction.
-
-The lair does not follow the restoration model. It is earned as a reward 
-for completing the full tutorial arc, not discovered as a derelict building 
-in the city.
-
-Combos are discovered organically during runs — Vampire Survivors style. 
-The right combination of powers held simultaneously triggers a combo. 
-Once discovered, the combo is permanently logged in the lair including 
-what was required to trigger it. The lair does not unlock combos. 
-It records them.
-
-DATE: May 5, 2026
-
-WHY: This structure weaves the three run path types into the game's 
-mechanical foundation through narrative necessity rather than arbitrary 
-progression gates. Each building teaches a player skill through a meaningful 
-story moment. The lair as the earned headquarters creates a distinct 
-transition from tutorial to open play, where the player has proven themselves 
-across all mechanics and the city recognizes them as its hero.
-
-REPLACES: Nothing — new decision
-
-STATUS: DRAFT
-
----
-
-DECISION LOG ENTRY
-
-DECISION: Tutorial Arc — World-Based Nudges and Run Structure
-
-The tutorial does not use menu-based run selection. Players move through 
-the city and encounter world-based nudges — broadcasts, visible crises, 
-narrative events — that guide them toward specific locations. When they 
-arrive, the situation naturally presents itself as a run type. Completing 
-that run unlocks the corresponding building.
-
-During the tutorial, only one mission type is available per run — heavily 
-nudged by world context. After tutorial completion, all three mission types 
-are available simultaneously in every run.
-
-Players do not select a run type from a menu at any point. The run is the 
-moment the player enters the map. Within the run, all available mission 
-types exist on the map as discoverable locations. Players build their 
-loadout through milestone-based power selections during the run, then 
-choose which mission to attempt based on what they've built and when 
-they feel ready.
-
-DATE: May 5, 2026
-
-WHY: World-based nudges feel like consequence rather than instruction. 
-The tutorial teaches through narrative stakes — the lab is in crisis, 
-the gym owner needs help, the tailor is being terrorized — not through 
-UI prompts. After tutorial completion the full sandbox opens with all 
-three mission types available simultaneously.
-
-REPLACES: Nothing — new decision
-
-STATUS: DRAFT
-
----
-
-DECISION LOG ENTRY
-
-DECISION: Post-Tutorial City Structure and Class-Specific Buildings
-
-The city consists of two categories of buildings:
-
-ESSENTIAL BUILDINGS (Tutorial Arc + Headquarters):
-1. Science Lab — unlocked by completing an Intel run during tutorial. 
-   Houses support skills.
-2. Boxing Gym — unlocked by completing a Boss Fight run during tutorial. 
-   Houses hero powers. Every hero power selected during a run is logged 
-   here for deepening and training.
-3. Tailor Shop — unlocked by completing an Escort Defense run during 
-   tutorial. Houses cosmetics and appearance customization.
-4. Hero's Lair — unlocked upon area boss defeat. Serves as headquarters. 
-   Houses combo discovery log, achievement displays, unlocked name history, 
-   and cosmetic loadout management. The most dramatic mirror in the city.
-
-CLASS-SPECIFIC NARRATIVE LOCATIONS (Post-Tutorial):
-Four additional buildings, one per class, providing narrative context 
-for advanced power unlocks. These buildings exist in the city from early 
-progression but appear non-descript until the mentor relationship unlocks. 
-At unlock, the building reveals what it actually is — hidden in plain sight.
-
-- Brawler location
-- Speedster location  
-- Tactician location
-- Blaster location
-
-These buildings provide narrative justification for why class-specific 
-advanced power options exist. They do not gate mechanical unlocks — 
-class mastery remains tied to run completion (10 runs for second tier, 
-30 runs for third tier).
-
-CITY DEVELOPMENT:
-The city progresses through four visual stages (Rundown → Developing → 
-Refined → Modern) as the player advances through progression and playtime. 
-Visual improvements reward player progression without requiring strategic 
-choice about which buildings to prioritize.
-
-DATE: May 5, 2026
-
-WHY: Essential buildings form a complete progression arc that teaches 
-all core mechanics. Class-specific buildings add world depth and narrative 
-satisfaction without overcomplicating the design. The distinction between 
-mechanical gates (run counts) and narrative framing (buildings) keeps 
-the system clean. Lean initial scope allows for organic expansion if needed.
-
-REPLACES: Nothing — new decision
-
-STATUS: DRAFT
-
----
-
-DECISION LOG ENTRY
-
-DECISION: City Buildings — Mirrors Not Gates (Amendment)
-
-AMENDS AND SUPERSEDES:
-- "City construction determines the player's starting power loadout at 
-  run start and expands the pool of powers available to appear during a run."
-- "Starting loadout is set by the city but the run determines how those 
-  powers develop and what combinations emerge. The city enables the pool; 
-  the run plays within it."
-- "The ability to merge or combine specific powers during runs is unlocked 
-  through city construction — without the relevant city building, certain 
-  merges are not available regardless of what powers the player holds 
-  during a run."
-
-CORRECTED DECISION: City buildings are mirrors, not gates. They reflect 
-and deepen what the player has done in runs. They do not control what 
-the player can access. This principle applies universally across all 
-city buildings with no exceptions.
-
-THE RUN — Powers appear randomly during runs at milestone moments 
-(XP thresholds, level-ups, or equivalent triggers). The full hero power 
-pool is available from the start. No city building gates a power from 
-appearing. Players enter each run with their class selection and class 
-starting offensive power only. Everything else is built during the run 
-through random offerings.
-
-COMBOS — Discovered organically during runs, Vampire Survivors style. 
-The right combination of powers held simultaneously triggers a combo — 
-unannounced, emergent, discoverable by accident. Once discovered, the 
-combo is permanently logged in the lair including the exact power 
-combination required to trigger it. The lair does not unlock combos. 
-It records them.
-
-THE GYM — Every hero power a player selects during a run is added to 
-the gym. Players can deepen, train, and improve powers they have already 
-encountered. The gym grows as the player plays.
-
-THE LAIR — A special trophy case for discovered combos. Logs each combo, 
-its trigger conditions, and its effects. Grows as the player stumbles 
-into new combinations.
-
-ALL BUILDINGS — Follow the same mirror model. They reflect, deepen, and 
-display what the player has earned through runs. None of them gate access 
-to content.
-
-DATE: May 5, 2026
-
-WHY: Full consistency with the roguelite model and the consequence without 
-punishment core principle. The city rewards and reflects — it never blocks. 
-Combo discovery modeled on Vampire Survivors weapon evolution — emergent, 
-accidental, deeply satisfying.
-
-REPLACES: Three entries listed above. Any language implying city buildings 
-control power pool access, combo availability, or starting loadout 
-configuration is incorrect and superseded by this entry.
-
-STATUS: DRAFT
-
----
-
-DECISION LOG ENTRY
-
-DECISION: Map Structure — City Stages as Run Progression System
-
-The run layer and city layer share the same map. The player is always 
-in their city. The street layout, road routing, and core four buildings 
-(Lab, Gym, Tailor Shop, Lair) are consistent landmarks across all stages 
-and recognizable within the run layer.
-
-The city develops through four visual stages. Each stage is mechanically 
-a distinct run environment — different enemy density, different challenges, 
-different difficulty — layered on top of the same underlying street 
-geography. City development is simultaneously the game's visual progression 
-system and its difficulty and map progression system.
-
-STAGE ONE — Rundown. Tutorial environment. Constrained geography, limited 
-complexity. One mission type available per tutorial run, heavily nudged 
-by world broadcasts. Lowest difficulty.
-
-STAGE TWO — Developing. Mid-game. All three mission types available 
-simultaneously. Increasing enemy density and challenge. City visibly 
-recovering.
-
-STAGE THREE — Refined. Late mid-game. Full mechanical complexity unlocked. 
-All systems active. Higher difficulty. City approaching modern.
-
-STAGE FOUR — Modern. Endless live game tail. Full sandbox. Rex Flynn 
-modifiers create run-specific public challenges. Procedurally generated 
-missions and bosses ensure no two runs are identical. Maximum difficulty 
-and maximum replayability. Designed to sustain indefinite play beyond 
-the structured progression arc.
-
-Cosmetic city development changes do not need to propagate granularly 
-into the run layer beyond the stage-level visual identity shift.
-
-DATE: May 5, 2026
-
-WHY: Sharing the same street map across all stages creates spatial memory 
-and narrative coherence. Using visual stage development as the difficulty 
-and map progression system means city growth does double duty — rewarding 
-progression and raising stakes simultaneously. Stage four as a procedurally 
-generated endless sandbox ensures the game has a live game tail without 
-requiring separate mode development.
-
-REPLACES: Nothing — new decision
-
-STATUS: DRAFT
-
----
-
-DECISION LOG ENTRY
-
-DECISION: Run Time Structure and Mission Reveal Model
-
-A single run is 20 minutes, structured in three acts:
-
-ACT ONE — Prep Period (0-5 minutes)
-Mission locations are hidden. The player builds their loadout through 
-milestone-based power selections. Movement through the city is open 
-but carries risk — stumbling into a mission location before the prep 
-period ends makes that mission live immediately, whether the player 
-is ready or not.
-
-ACT TWO — Open Window (5-15 minutes)
-All three mission locations reveal simultaneously on the map. Players 
-can see what's available and continue building toward their preferred 
-mission type. Full player agency — attempt a mission immediately or 
-keep developing the loadout.
-
-ACT THREE — Forced Commitment (15-20 minutes)
-At 15 minutes the game forces a mission choice. Whatever the player 
-has built is what they take in. Five minutes to execute. Success or 
-failure resolves here.
-
-Mission locations are randomized each run — no mission type has a fixed 
-geographic location. Locations are visible once revealed and can be 
-stumbled upon before reveal during the prep period. This creates narrative 
-variety and prevents staleness.
-
-DATE: May 5, 2026
-
-WHY: 20 minutes is substantial enough to feel meaningful and short enough 
-to sustain a one-more-run impulse. The three act structure gives every 
-run dramatic shape. The forced choice at 15 minutes ensures build decisions 
-carry weight. Randomized mission locations support narrative variety and 
-prevent the world from feeling scripted or repetitive.
-
-REPLACES: Nothing — new decision
-
-STATUS: DRAFT
-
----
-
-DECISION LOG ENTRY
-
-DECISION: Class Mentor System — Framework and Introduction Triggers
-
-Each of the four classes has a corresponding mentor character who occupies 
-a class-specific building in the city. These buildings exist from early 
-progression but appear non-descript until the mentor relationship unlocks. 
-At unlock the building reveals what it actually is — hidden in plain sight. 
-The reveal rewards city exploration and creates a world that feels deeper 
-the more the player progresses.
-
-Mentor relationships unlock through class progression and playtime. 
-Each introduction is native to its class — tonally and mechanically 
-distinct — and functions as a three-panel comic book moment in its 
-own right.
-
-BRAWLER MENTOR — Like recognizes like.
-The mentor sees the player fight from across the street and walks over. 
-No mysticism, no technology. A veteran fighter who knows what they're 
-looking at. Direct, physical, slightly gruff. The introduction is the 
-first lesson — they have an opinion about your form before a word 
-of welcome.
-
-SPEEDSTER MENTOR — Sense the presence of another.
-Attuned in ways that aren't entirely explainable, the mentor finds 
-the player before the player finds them. Already standing nearby when 
-the player turns around. The player didn't hear them arrive. They don't 
-know how long they've been there.
-
-TACTICIAN MENTOR — Tech detects tech.
-The player's equipment flags the mentor's technology as a threat and 
-generates a danger alert. The player investigates expecting an enemy 
-and finds a person — someone whose equipment makes the player's look 
-like a prototype. Adversarial before collaborative. The mentor was 
-expecting the alert. It was deliberate.
-
-BLASTER MENTOR — The city reacts.
-Lights flicker and die in sequence across two city blocks. Electronics 
-glitch. The player investigates the anomaly and finds a person at the 
-center of it — someone who has been living with uncontrolled energy 
-output for years and has mastered it. They recognized the player's 
-energy signature from six blocks away. The blackout was not an accident.
-
-MENTOR NARRATIVE FUNCTION:
-Each mentor provides narrative justification for why advanced class 
-powers exist and are teachable. Mechanically, class mastery remains 
-tied to run completion (10 successful runs for second tier, 30 for 
-third tier). The mentor is the story of why the unlock happens — 
-not the gate that controls it.
-
-Mentor introductions are world events that generate content across 
-all three feedback channels. Rex Flynn would cover the Eastside 
-blackout. Citizens would have theories about the fighter who hangs 
-around the old gym. The Superhero Community would have opinions about 
-these mentors taking on an unknown hero.
-
-DATE: May 5, 2026
-
-WHY: The mentor system transforms class mastery unlocks from arbitrary 
-progression gates into relationships with narrative weight. Each 
-introduction is a comic book moment native to its class. The 
-hidden-in-plain-sight building reveal rewards city exploration. 
-Mentor introductions as world events connect the system organically 
-to the existing feedback channels.
-
-REPLACES: Nothing — new decision
-
-STATUS: DRAFT
 
 ---
 
@@ -1044,6 +642,412 @@ DECISION: The available power pool is not locked to a specific hero archetype or
 DATE: May 3, 2026
 
 WHY: Player freedom and ownership over hero identity requires the system to observe without prescribing. The game has opinions about who you are. It does not impose them.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Camera and Combat Model
+
+CAMERA:
+Run gameplay uses a Hades-style camera — closer and more angled than Deep Rock Galactic Survivors. The distance is deliberate: close enough that individual enemies have presence, movement types read as identity rather than speed stats, and the city feels like a place rather than a map. The DRGS reference is retired as the primary camera comparison. Hades with open world scope is the correct model.
+
+COMBAT PHILOSOPHY:
+Combat is intentional and skill-based, not passive and automatic. Powers are tools the player deploys actively — timed, positioned, and combined through player decision rather than auto-proc stacking. A skilled player with a mediocre power selection outperforms an unskilled player with a great one. Mastery is real and expressible.
+
+This aligns combat closer to Hades than Vampire Survivors. VS remains the structural reference for run format and progression loop. Hades is the reference for combat feel, power interaction, and skill expression.
+
+POWER SELECTION MODEL:
+At each level up, players choose between three genuinely viable options representing meaningfully different strategies:
+
+- A class primary upgrade — deepens core class identity, makes existing skills more powerful
+- A hero power — adds a new tool, broadens what the player can do
+- A support option — modifies existing powers, changes behavior, shifts interactions
+
+No option is obviously correct. The tension between deepening, broadening, and modifying is the decision. Build identity emerges from accumulated choices across a run, not from a preset loadout.
+
+MINOR OBJECTIVES:
+The closer camera distance and intentional combat model opens the city to minor objectives — incidental heroic moments that occur alongside the three main mission types. Muggings, citizens in danger, environmental incidents. These are not formal missions. They are opportunities.
+
+Minor objectives feed:
+- Morale (Citizens channel)
+- Recognition (Superhero Community channel)
+- Clickbait (Rex Flynn channel)
+
+Minor objectives do not generate intel. Intel remains exclusively tied to the horde survival mission to preserve its load-bearing role in progression.
+
+Minor objectives are a natural source of early name emergence — patterns of incidental heroism that citizens notice before any formal mission is completed.
+
+DATE: May 5, 2026
+
+WHY: Camera distance is not cosmetic — it determines combat philosophy, movement identity, and world legibility. Hades distance makes the city feel inhabited and the hero feel powerful rather than small. Intentional skill-based combat creates genuine mastery expression and makes class identity meaningful beyond stat differentiation. Minor objectives make the city feel alive between main missions and feed the feedback channel ecosystem naturally.
+
+REPLACES: DRGS as primary camera reference — superseded by Hades with open world scope.
+
+STATUS: DRAFT
+
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Tutorial Arc — Building Sequence and Run Type Gates
+
+The tutorial arc consists of four restorable buildings and one area boss 
+defeat, each unlocked by specific run type completion:
+
+1. Science Lab — unlocked by completing an Intel run. Teaches support skills.
+2. Boxing Gym — unlocked by completing a Boss Fight run. Teaches hero powers.
+3. Tailor Shop — unlocked by completing an Escort Defense run. Teaches 
+   cosmetics and appearance customization.
+4. Area Boss Defeated — completes the tutorial arc. Player has demonstrated 
+   mastery across all three run path types.
+5. Hero's Lair — unlocked upon area boss defeat. Serves as headquarters. 
+   Houses combo development, mastery mechanics, achievement displays, 
+   cosmetic loadout management, and run statistics review.
+
+Each building restoration is a hard gate tied to its corresponding run type. 
+The player cannot access a building's mechanics until they have completed 
+the run type that unlocks it. This creates a natural tutorial structure 
+where game mechanics teach themselves through narrative stakes rather than 
+explicit instruction.
+
+The lair does not follow the restoration model. It is earned as a reward 
+for completing the full tutorial arc, not discovered as a derelict building 
+in the city.
+
+Combos are discovered organically during runs — Vampire Survivors style. 
+The right combination of powers held simultaneously triggers a combo. 
+Once discovered, the combo is permanently logged in the lair including 
+what was required to trigger it. The lair does not unlock combos. 
+It records them.
+
+DATE: May 5, 2026
+
+WHY: This structure weaves the three run path types into the game's 
+mechanical foundation through narrative necessity rather than arbitrary 
+progression gates. Each building teaches a player skill through a meaningful 
+story moment. The lair as the earned headquarters creates a distinct 
+transition from tutorial to open play, where the player has proven themselves 
+across all mechanics and the city recognizes them as its hero.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Tutorial Arc — World-Based Nudges and Run Structure
+
+The tutorial does not use menu-based run selection. Players move through 
+the city and encounter world-based nudges — broadcasts, visible crises, 
+narrative events — that guide them toward specific locations. When they 
+arrive, the situation naturally presents itself as a run type. Completing 
+that run unlocks the corresponding building.
+
+During the tutorial, only one mission type is available per run — heavily 
+nudged by world context. After tutorial completion, all three mission types 
+are available simultaneously in every run.
+
+Players do not select a run type from a menu at any point. The run is the 
+moment the player enters the map. Within the run, all available mission 
+types exist on the map as discoverable locations. Players build their 
+loadout through milestone-based power selections during the run, then 
+choose which mission to attempt based on what they've built and when 
+they feel ready.
+
+DATE: May 5, 2026
+
+WHY: World-based nudges feel like consequence rather than instruction. 
+The tutorial teaches through narrative stakes — the lab is in crisis, 
+the gym owner needs help, the tailor is being terrorized — not through 
+UI prompts. After tutorial completion the full sandbox opens with all 
+three mission types available simultaneously.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Post-Tutorial City Structure and Class-Specific Buildings
+
+The city consists of two categories of buildings:
+
+ESSENTIAL BUILDINGS (Tutorial Arc + Headquarters):
+1. Science Lab — unlocked by completing an Intel run during tutorial. 
+   Houses support skills.
+2. Boxing Gym — unlocked by completing a Boss Fight run during tutorial. 
+   Houses hero powers. Every hero power selected during a run is logged 
+   here for deepening and training.
+3. Tailor Shop — unlocked by completing an Escort Defense run during 
+   tutorial. Houses cosmetics and appearance customization.
+4. Hero's Lair — unlocked upon area boss defeat. Serves as headquarters. 
+   Houses combo discovery log, achievement displays, unlocked name history, 
+   and cosmetic loadout management. The most dramatic mirror in the city.
+
+CLASS-SPECIFIC NARRATIVE LOCATIONS (Post-Tutorial):
+Four additional buildings, one per class, providing narrative context 
+for advanced power unlocks. These buildings exist in the city from early 
+progression but appear non-descript until the mentor relationship unlocks. 
+At unlock, the building reveals what it actually is — hidden in plain sight.
+
+- Brawler location
+- Speedster location  
+- Tactician location
+- Blaster location
+
+These buildings provide narrative justification for why class-specific 
+advanced power options exist. They do not gate mechanical unlocks — 
+class mastery remains tied to run completion (10 runs for second tier, 
+30 runs for third tier).
+
+CITY DEVELOPMENT:
+The city progresses through four visual stages (Rundown → Developing → 
+Refined → Modern) as the player advances through progression and playtime. 
+Visual improvements reward player progression without requiring strategic 
+choice about which buildings to prioritize.
+
+DATE: May 5, 2026
+
+WHY: Essential buildings form a complete progression arc that teaches 
+all core mechanics. Class-specific buildings add world depth and narrative 
+satisfaction without overcomplicating the design. The distinction between 
+mechanical gates (run counts) and narrative framing (buildings) keeps 
+the system clean. Lean initial scope allows for organic expansion if needed.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: City Buildings — Mirrors Not Gates (Amendment)
+
+AMENDS AND SUPERSEDES:
+- "City construction determines the player's starting power loadout at 
+  run start and expands the pool of powers available to appear during a run."
+- "Starting loadout is set by the city but the run determines how those 
+  powers develop and what combinations emerge. The city enables the pool; 
+  the run plays within it."
+- "The ability to merge or combine specific powers during runs is unlocked 
+  through city construction — without the relevant city building, certain 
+  merges are not available regardless of what powers the player holds 
+  during a run."
+
+CORRECTED DECISION: City buildings are mirrors, not gates. They reflect 
+and deepen what the player has done in runs. They do not control what 
+the player can access. This principle applies universally across all 
+city buildings with no exceptions.
+
+THE RUN — Powers appear randomly during runs at milestone moments 
+(XP thresholds, level-ups, or equivalent triggers). The full hero power 
+pool is available from the start. No city building gates a power from 
+appearing. Players enter each run with their class selection and class 
+starting offensive power only. Everything else is built during the run 
+through random offerings.
+
+COMBOS — Discovered organically during runs, Vampire Survivors style. 
+The right combination of powers held simultaneously triggers a combo — 
+unannounced, emergent, discoverable by accident. Once discovered, the 
+combo is permanently logged in the lair including the exact power 
+combination required to trigger it. The lair does not unlock combos. 
+It records them.
+
+THE GYM — Every hero power a player selects during a run is added to 
+the gym. Players can deepen, train, and improve powers they have already 
+encountered. The gym grows as the player plays.
+
+THE LAIR — A special trophy case for discovered combos. Logs each combo, 
+its trigger conditions, and its effects. Grows as the player stumbles 
+into new combinations.
+
+ALL BUILDINGS — Follow the same mirror model. They reflect, deepen, and 
+display what the player has earned through runs. None of them gate access 
+to content.
+
+DATE: May 5, 2026
+
+WHY: Full consistency with the roguelite model and the consequence without 
+punishment core principle. The city rewards and reflects — it never blocks. 
+Combo discovery modeled on Vampire Survivors weapon evolution — emergent, 
+accidental, deeply satisfying.
+
+REPLACES: Three entries listed above. Any language implying city buildings 
+control power pool access, combo availability, or starting loadout 
+configuration is incorrect and superseded by this entry.
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Map Structure — City Stages as Run Progression System
+
+The run layer and city layer share the same map. The player is always 
+in their city. The street layout, road routing, and core four buildings 
+(Lab, Gym, Tailor Shop, Lair) are consistent landmarks across all stages 
+and recognizable within the run layer.
+
+The city develops through four visual stages. Each stage is mechanically 
+a distinct run environment — different enemy density, different challenges, 
+different difficulty — layered on top of the same underlying street 
+geography. City development is simultaneously the game's visual progression 
+system and its difficulty and map progression system.
+
+STAGE ONE — Rundown. Tutorial environment. Constrained geography, limited 
+complexity. One mission type available per tutorial run, heavily nudged 
+by world broadcasts. Lowest difficulty.
+
+STAGE TWO — Developing. Mid-game. All three mission types available 
+simultaneously. Increasing enemy density and challenge. City visibly 
+recovering.
+
+STAGE THREE — Refined. Late mid-game. Full mechanical complexity unlocked. 
+All systems active. Higher difficulty. City approaching modern.
+
+STAGE FOUR — Modern. Endless live game tail. Full sandbox. Rex Flynn 
+modifiers create run-specific public challenges. Procedurally generated 
+missions and bosses ensure no two runs are identical. Maximum difficulty 
+and maximum replayability. Designed to sustain indefinite play beyond 
+the structured progression arc.
+
+Cosmetic city development changes do not need to propagate granularly 
+into the run layer beyond the stage-level visual identity shift.
+
+DATE: May 5, 2026
+
+WHY: Sharing the same street map across all stages creates spatial memory 
+and narrative coherence. Using visual stage development as the difficulty 
+and map progression system means city growth does double duty — rewarding 
+progression and raising stakes simultaneously. Stage four as a procedurally 
+generated endless sandbox ensures the game has a live game tail without 
+requiring separate mode development.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Run Time Structure and Mission Reveal Model
+
+A single run is 20 minutes, structured in three acts:
+
+ACT ONE — Prep Period (0-5 minutes)
+Mission locations are hidden. The player builds their loadout through 
+milestone-based power selections. Movement through the city is open 
+but carries risk — stumbling into a mission location before the prep 
+period ends makes that mission live immediately, whether the player 
+is ready or not.
+
+ACT TWO — Open Window (5-15 minutes)
+All three mission locations reveal simultaneously on the map. Players 
+can see what's available and continue building toward their preferred 
+mission type. Full player agency — attempt a mission immediately or 
+keep developing the loadout.
+
+ACT THREE — Forced Commitment (15-20 minutes)
+At 15 minutes the game forces a mission choice. Whatever the player 
+has built is what they take in. Five minutes to execute. Success or 
+failure resolves here.
+
+Mission locations are randomized each run — no mission type has a fixed 
+geographic location. Locations are visible once revealed and can be 
+stumbled upon before reveal during the prep period. This creates narrative 
+variety and prevents staleness.
+
+DATE: May 5, 2026
+
+WHY: 20 minutes is substantial enough to feel meaningful and short enough 
+to sustain a one-more-run impulse. The three act structure gives every 
+run dramatic shape. The forced choice at 15 minutes ensures build decisions 
+carry weight. Randomized mission locations support narrative variety and 
+prevent the world from feeling scripted or repetitive.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Class Mentor System — Framework and Introduction Triggers
+
+Each of the four classes has a corresponding mentor character who occupies 
+a class-specific building in the city. These buildings exist from early 
+progression but appear non-descript until the mentor relationship unlocks. 
+At unlock the building reveals what it actually is — hidden in plain sight. 
+The reveal rewards city exploration and creates a world that feels deeper 
+the more the player progresses.
+
+Mentor relationships unlock through class progression and playtime. 
+Each introduction is native to its class — tonally and mechanically 
+distinct — and functions as a three-panel comic book moment in its 
+own right.
+
+BRAWLER MENTOR — Like recognizes like.
+The mentor sees the player fight from across the street and walks over. 
+No mysticism, no technology. A veteran fighter who knows what they're 
+looking at. Direct, physical, slightly gruff. The introduction is the 
+first lesson — they have an opinion about your form before a word 
+of welcome.
+
+SPEEDSTER MENTOR — Sense the presence of another.
+Attuned in ways that aren't entirely explainable, the mentor finds 
+the player before the player finds them. Already standing nearby when 
+the player turns around. The player didn't hear them arrive. They don't 
+know how long they've been there.
+
+TACTICIAN MENTOR — Tech detects tech.
+The player's equipment flags the mentor's technology as a threat and 
+generates a danger alert. The player investigates expecting an enemy 
+and finds a person — someone whose equipment makes the player's look 
+like a prototype. Adversarial before collaborative. The mentor was 
+expecting the alert. It was deliberate.
+
+BLASTER MENTOR — The city reacts.
+Lights flicker and die in sequence across two city blocks. Electronics 
+glitch. The player investigates the anomaly and finds a person at the 
+center of it — someone who has been living with uncontrolled energy 
+output for years and has mastered it. They recognized the player's 
+energy signature from six blocks away. The blackout was not an accident.
+
+MENTOR NARRATIVE FUNCTION:
+Each mentor provides narrative justification for why advanced class 
+powers exist and are teachable. Mechanically, class mastery remains 
+tied to run completion (10 successful runs for second tier, 30 for 
+third tier). The mentor is the story of why the unlock happens — 
+not the gate that controls it.
+
+Mentor introductions are world events that generate content across 
+all three feedback channels. Rex Flynn would cover the Eastside 
+blackout. Citizens would have theories about the fighter who hangs 
+around the old gym. The Superhero Community would have opinions about 
+these mentors taking on an unknown hero.
+
+DATE: May 5, 2026
+
+WHY: The mentor system transforms class mastery unlocks from arbitrary 
+progression gates into relationships with narrative weight. Each 
+introduction is a comic book moment native to its class. The 
+hidden-in-plain-sight building reveal rewards city exploration. 
+Mentor introductions as world events connect the system organically 
+to the existing feedback channels.
 
 REPLACES: Nothing — new decision
 
