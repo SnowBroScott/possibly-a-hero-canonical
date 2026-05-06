@@ -968,3 +968,19 @@ REPLACES: DRGS as primary camera reference — superseded by Hades with open
 world scope.
 
 STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The Training Center is a single building with four distinct visual states — The Gym (Stage One), The Complex (Stage Two), The Facility (Stage Three), and The Tower (Stage Four) — that evolves across all city stages proportional to the hero's story and proven run history. The Hero Power Deepening System activates at Stage Two: when a player proves a hero power in a run, a Superhero Community message surfaces from a thematically matched hero, directing the player to a newly activated section of the training center. Sections remain dark and gated until the corresponding power is proven. The building is explorable at every stage and reads as a cumulative map of the player's run history. Hero power deepening (mastery development) is housed here; primary class power improvement is not.
+
+DATE: May 6, 2026
+
+WHY: One building with four visual states maps cleanly to the existing four-stage city progression without adding build complexity. The explorable building model (Hades reference) is proven to work at this scale. The Superhero Community message trigger gives an existing reward channel mechanical significance. Keeping discovery free and deepening housed in the building preserves the mirrors-not-gates philosophy while resolving the Canon Guard conflict around city-gated power access.
+
+REPLACES: Earlier gym model that contained hero powers without a deepening system or stage-based evolution.
+
+STATUS: DRAFT
+
+---
