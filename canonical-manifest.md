@@ -36,7 +36,7 @@ Every agent fetches this manifest before doing any work.
 - **Status:** CANONICAL SOURCE — contains entries of mixed status. 
   LOCKED entries within are non-negotiable. Document grows 
   continuously as decisions are recorded.
-- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/decision-log
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/decision-log.md
 - **Notes:** Primary record of all design decisions. Every agent 
   fetches this document directly. Do not rely on summaries 
   or static uploads as substitutes for a live fetch.
