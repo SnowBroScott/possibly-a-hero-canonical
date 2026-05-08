@@ -1,5 +1,5 @@
 CITY LAYER
-Apex Chronicles | Canonical City Mechanics Specification
+Possibly a Hero | Canonical City Mechanics Specification
 STATUS: Draft
 
 ---
@@ -221,7 +221,7 @@ The cap exists to bound permanent power growth while keeping the sponsor
 challenge system engaging indefinitely.
 
 SPONSORSHIP AND WORLD TEXTURE:
-Heroes loosely vying for disciples is native to the Apex Chronicles world.
+Heroes loosely vying for disciples is native to the Possibly a Hero world.
 The sponsorship isn't altruistic — it's reputation, legacy, and the quiet
 politics of a superhero community that existed long before this hero arrived.
 Rex Flynn covers sponsorship announcements with unhinged energy. Citizens in
@@ -238,7 +238,7 @@ class mentor buildings.
 
 6. EXPLORABLE CITY BUILDINGS — HADES HEADQUARTERS MODEL
 
-The explorable buildings in Apex Chronicles follow the Hades headquarters
+The explorable buildings in Possibly a Hero follow the Hades headquarters
 model:
 
 - Buildings are spaces that grow and reflect the player's run history
@@ -421,7 +421,7 @@ CANONICAL DEPENDENCIES:
 
 PIPELINE NOTE FOR CANON GUARD:
 Fetch decision log from:
-https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/decision-log.md
+https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/decision-log.md
 The manifest URL is serving a cached outdated version.
 
 RECOMMENDED NEXT STEP:
