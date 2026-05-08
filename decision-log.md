@@ -1450,14 +1450,26 @@ DECISION LOG ENTRY
 
 DECISION: Morale — XP Multiplier and City-Wide Scope (Corrected)
 
-High morale produces a small XP multiplier for runs. The multiplier is modest — it rewards sustained city engagement without making morale a mandatory optimization target. Low morale does not penalize XP. The multiplier is a reward for positive patterns, not a punishment for negative ones.
+High morale produces a small XP multiplier for runs. The multiplier is modest
+— it rewards sustained city engagement without making morale a mandatory
+optimization target. Low morale does not penalize XP. The multiplier is a
+reward for positive patterns, not a punishment for negative ones.
 
-Morale is city-wide. There are no district-level morale states. There is no aggregation mechanic. The player experiences one morale state that reflects the city's overall relationship with the hero across the run record.
+Morale is city-wide. There are no district-level morale states. There is no
+aggregation mechanic. The player experiences one morale state that reflects
+the city's overall relationship with the hero across the run record.
 
 DATE: May 8, 2026
 
-WHY: Per-neighborhood morale tracking introduced complexity without sufficient ROI for the game Apex Chronicles is. District boundaries, district identity, and player-facing communication of local morale states are all systems that don't exist yet and would need to be designed from scratch to support this mechanic. City-wide morale is simpler, more legible, and consistent with the approachable design philosophy of Apex Chronicles.
+WHY: Per-neighborhood morale tracking introduced complexity without sufficient
+ROI for the game Apex Chronicles is. District boundaries, district identity,
+and player-facing communication of local morale states are all systems that
+don't exist yet and would need to be designed from scratch to support this
+mechanic. City-wide morale is simpler, more legible, and consistent with the
+approachable design philosophy of Apex Chronicles.
 
-REPLACES: Per-neighborhood morale geography section of Morale XP Multiplier and Per-Neighborhood Geography entry (May 8, 2026). City-wide morale supersedes neighborhood-level morale tracking.
+REPLACES: Per-neighborhood morale geography section of Morale XP Multiplier
+and Per-Neighborhood Geography entry (May 8, 2026). City-wide morale
+supersedes neighborhood-level morale tracking.
 
 STATUS: DRAFT
