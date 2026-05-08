@@ -1352,3 +1352,30 @@ hook that rewards city engagement without gating anything.
 REPLACES: Nothing — expands existing morale entries.
 
 STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Morale — XP Multiplier and Per-Neighborhood Geography
+
+Two related morale mechanics confirmed:
+
+MORALE XP MULTIPLIER: High morale produces a modest XP multiplier during runs. The multiplier rewards sustained city engagement without making morale a mandatory optimization target. Low morale does not penalize XP. The multiplier is a reward for positive patterns, not a punishment for negative ones. Consistent with the consequence without punishment principle.
+
+PER-NEIGHBORHOOD MORALE GEOGRAPHY: Morale tracks at the neighborhood level, not city-wide only. A hero who consistently engages with minor objectives and escort missions in a given district builds morale there specifically. Districts the hero rarely visits hold at baseline. The city can carry pockets of high morale alongside areas that haven't felt the hero's presence yet.
+
+Geographic granularity produces three downstream effects:
+- Citizens in high-morale neighborhoods are visibly warmer and more active in the run environment
+- Name emergence through the Citizens channel is more likely in high-morale neighborhoods
+- Rex Flynn notices and covers geographic disparity if the algorithm suggests it will perform
+
+Per-neighborhood morale does not create punishing states. No neighborhood crashes to zero permanently. All recover over time regardless of hero engagement. Consequence without punishment applies at neighborhood level as well as city level.
+
+DATE: May 6, 2026
+
+WHY: City-wide morale tracking alone felt too abstract — the city is a place with distinct neighborhoods, and the hero's presence should be felt at street level. Per-neighborhood tracking makes the world feel inhabited and responsive without adding optimization complexity. The XP multiplier gives morale a run-layer mechanical hook that rewards city engagement without gating anything.
+
+REPLACES: Nothing — expands existing morale entries.
+
+STATUS: DRAFT
