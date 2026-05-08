@@ -514,6 +514,10 @@ REPLACES: Nothing — new decision
 
 STATUS: DRAFT
 
+NOTE: This entry is superseded by "The three feedback channels — Citizens,
+Superhero Community, and Rex Flynn / Exposed" (May 3, 2026). Retained for
+historical record only.
+
 ---
 
 DECISION LOG ENTRY
@@ -531,6 +535,10 @@ different timescales.
 REPLACES: Nothing — new decision
 
 STATUS: DRAFT
+
+NOTE: This entry is superseded by "The three feedback channels — Citizens,
+Superhero Community, and Rex Flynn / Exposed" (May 3, 2026). Retained for
+historical record only.
 
 ---
 
@@ -573,8 +581,8 @@ STATUS: DRAFT
 DECISION LOG ENTRY
 
 DECISION: Superhero name options emerge from three distinct in-world sources:
-citizens (warm, local, affectionate), Rex Flynn / Exposed (editorial, slightly
-damning, viral-optimized), and the Superhero Community (peer/professional).
+citizens (warm, local, affectionate), Rex Flynn / Exposed (editorial, chaotic,
+meme-driven, viral-optimized), and the Superhero Community (peer/professional).
 Players choose from whichever options have emerged. Early names skew silly —
 players are expected to outgrow their first designation. The influencer reacts
 differently depending on which name the player adopts.
