@@ -1024,3 +1024,15 @@ REPLACES: Minor objective output list in Camera and Combat Model (May 5, 2026). 
 STATUS: DRAFT
 
 ---
+
+DECISION LOG ENTRY
+
+DECISION: The Training Center is the canonical name for the hero power deepening building across all four stage evolutions. "Gym" refers to its Stage One physical form only — not its canonical name. The building follows a Hades headquarters model: atmosphere, narrative, and interface, not an arena. The hero power deepening system operates across five steps — prove a power in a run, receive a sponsor message from the Superhero Community channel, visit the activated Training Center section, wait for the challenge to surface in a future run through the standard run pool, and complete the challenge to earn power deepening or run boosts at cap. Sponsor presence scales with stage progression: remote contact at Stages Two and Three, potential in-person appearance at Stage Four as an earned moment. The Training Center's mastery scope is hero power deepening and sponsor challenges only — distinct from Class Mentor Buildings (class primary power advancement) and the Hero's Lair (combo discovery log). The Superhero Community channel gains mechanical function through the sponsorship and power deepening notification system, operating in parallel with cosmetics, which remain its primary reward pillar.
+
+DATE: May 6, 2026
+
+WHY: The Hades-style headquarters model contains build complexity while delivering narrative richness. Placing challenges in the run layer rather than the building preserves player agency — the run pool operates as always, and the queued challenge creates pull without mandate. Sponsor scaling with stage progression ensures earned moments feel earned rather than given. The three-building mastery split (Training Center, Class Mentor Buildings, Hero's Lair) keeps each system's scope clean and non-overlapping. Giving the Superhero Community channel mechanical function through sponsorship adds genuine stakes to an existing reward pillar beyond cosmetics.
+
+REPLACES: All earlier Training Center and Gym entries. "Boxing Gym" and "Gym" as canonical building names are superseded. The Stage One physical form is a gym. The building is always the Training Center.
+
+STATUS: DRAFT
