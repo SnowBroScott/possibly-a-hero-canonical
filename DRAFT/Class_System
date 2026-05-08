@@ -1,17 +1,8 @@
-DESIGN EXPANDER OUTPUT
-
-SECTION: Class_System
-
-STATUS: Draft
-
-CONTENT:
-
-───────────────────────────────────────────────────────────────
 CLASS SYSTEM
 Apex Chronicles | Class Mechanics Specification
 STATUS: Draft
-───────────────────────────────────────────────────────────────
 
+───────────────────────────────────────────────────────────────
 
 1. FOUNDATIONAL CONTEXT
 
@@ -33,13 +24,12 @@ four classes. They are not the foundation. They are everything that gets added
 to it. The layers are distinct. They stay distinct. No hero power encroaches
 on what the class primary suite owns, and no support crosses that line either.
 
-Mastery accumulated through successful runs is permanent. The class
-itself is per-run. The record of what a player has done with a class — the
-unlocks earned, the progression logged — does not reset between runs and does
-not reset when the player picks a different class. A player can spend a week
+Mastery accumulated through successful runs is permanent. The class itself is
+per-run. The record of what a player has done with a class — the unlocks
+earned, the progression logged — does not reset between runs and does not
+reset when the player picks a different class. A player can spend a week
 running Speedster and return to Brawler with exactly as many Brawler unlocks
 as they had before they left. The class waits. The record holds.
-
 
 ───────────────────────────────────────────────────────────────
 2. THE FOUR CLASSES
@@ -118,7 +108,6 @@ Flight is not in the movement pool. Wall crawling is not in the movement pool.
 Both have been removed entirely. The Tactician's vehicle is permanent — there
 is no exit mechanic, no dismount option, and no run state in which the
 Tactician is not in the vehicle.
-
 
 ───────────────────────────────────────────────────────────────
 3. PRIMARY OFFENSIVE SUITES
@@ -252,7 +241,6 @@ that removes entire sections of an encounter from consideration. The Rocket
 Launcher is not imprecision — it is scale. The Tactician who reaches thirty
 runs knows exactly when to stop being surgical and start being structural.
 
-
 ───────────────────────────────────────────────────────────────
 4. CLASS MASTERY AND UNLOCK STRUCTURE
 ───────────────────────────────────────────────────────────────
@@ -276,7 +264,6 @@ new on top of it. Thirty successful runs is enough to have genuinely developed
 a playstyle — to have arrived at the point where the third power expands a
 real identity rather than a theoretical one. The progression gate is designed
 around what the player has actually learned by the time the unlock fires.
-
 
 ───────────────────────────────────────────────────────────────
 5. THE THREE POWER LAYERS
@@ -315,7 +302,7 @@ from run one — no city building controls which powers can appear. Every power
 in the pool has standalone offensive value before combo value. The ridiculous
 combination the player didn't plan for is not a malfunction. It is the point.
 
-Full pool (10 powers):
+Full pool (eleven powers):
 
 MAGNETISM
 Pull enemies together. Redirect projectiles back at their sources. Strip
@@ -355,20 +342,21 @@ SONIC SCREAM
 Stuns. Disorients. Chain damages through a cluster. The Sonic Scream does
 not pick one target — it addresses the room.
 
-CLASS SUMMONS (one per class, native to class identity):
-GORILLA — Brawler. Animal companion. A second thing in the fight that the
-enemy has to account for.
-DOUBLE TIME — Speedster. Speed clone. Another version of the problem, running
-at full speed in a direction the enemy didn't anticipate.
-SPECTER — Blaster. Spectral ally. Phases through walls. Attacks from
-positions that do not have conventional access.
-SENTINEL — Tactician. Combat drone. Autonomous, tactical, already deployed
-before the enemy arrived.
+SUMMON
+One pool entry. Class-adaptive expression. The player picks up Summon and
+gets the version native to their class: Gorilla (Brawler — animal companion,
+a second thing in the fight the enemy has to account for), Double Time
+(Speedster — speed clone, another version of the problem running at full
+speed in a direction the enemy didn't anticipate), Specter (Blaster —
+spectral ally, phases through walls, attacks from positions without
+conventional access), Sentinel (Tactician — combat drone, autonomous,
+tactical, already deployed before the enemy arrived). One slot in the pool.
+Four expressions.
 
-Class summons are hero powers. They appear in the shared random pool. They
-are unique per class and native to class identity — but they are not class
-primary powers. The distinction matters. The summon is something the run adds
-on top of the foundation, not something the class came in with.
+Summon is a hero power. It appears in the shared random pool. It is
+class-adaptive in expression and native to class identity — but it is not
+a class primary power. The distinction matters. The summon is something the
+run adds on top of the foundation, not something the class came in with.
 
 ---
 
@@ -386,7 +374,6 @@ The support pool uses names the genre already knows. A player who has run
 a roguelite before understands what Blast Radius does before the tooltip
 finishes loading. That legibility is intentional. The support layer should not
 require explanation — it should invite experimentation.
-
 
 ───────────────────────────────────────────────────────────────
 6. THE MENTOR SYSTEM
@@ -499,7 +486,6 @@ The building that looked like maintenance infrastructure turns out to be
 nothing like maintenance infrastructure. It has been operational this whole
 time. The player just didn't have clearance to see it.
 
-
 ───────────────────────────────────────────────────────────────
 
 CANONICAL DEPENDENCIES:
@@ -520,11 +506,13 @@ Additional canonical sources (all DRAFT):
 - Class Offensive Suites — all four classes
 - Three Power Layers — primary, hero powers, support
 - Support Pool — eight supports, final naming
-- Hero Powers Pool — ten powers, final naming
+- Hero Powers Pool — eleven powers, class-adaptive summon
 - Class Mentor System — Framework and Introduction Triggers
 - Post-Tutorial City Structure and Class-Specific Buildings
 - City Buildings — Mirrors Not Gates (Amendment)
 - Camera and Combat Model
+- Power Proving — Three-Condition Definition (May 8, 2026)
+- Class Summons — Single Pool Entry, Class-Adaptive Expression (May 8, 2026)
 - DRAFT/Run_Design (full document)
 
 RECOMMENDED NEXT STEP:
