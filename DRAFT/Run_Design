@@ -209,6 +209,10 @@ Minor objectives feed:
   completed means more power selection opportunities within a run. A player
   who stays engaged with the city between missions levels up faster and builds
   more.
+- Hero Points — guaranteed drop from every minor objective completed, at 100%
+  rate. Rewards meaningfully more than a single mob drop. Full carry between
+  runs — what the player earns is theirs permanently, regardless of run
+  outcome.
 - City morale (Citizens channel) — citizens saw what the hero did, or didn't
   do, on their block
 - Recognition (Superhero Community channel) — the community tracks patterns
@@ -235,8 +239,10 @@ of the record before the player realizes they're writing one.
 
 7. RUN TIME STRUCTURE — THREE ACTS
 
-A single run is twenty minutes. Every run has the same shape. The map, the
-mission locations, and the build are different every time. The shape is not.
+A run targets twenty minutes. Every run has the same shape — not a hard
+mechanical clock, but a design target that a well-executed run naturally
+follows. The map, the mission locations, and the build are different every
+time. The shape is not.
 
 ACT ONE — PREP PERIOD (0:00 – 5:00)
 
@@ -269,32 +275,37 @@ ready for. There is no mechanical penalty for waiting. There is no mechanical
 bonus for rushing. The Open Window is ten minutes of genuine player choice —
 the longest sustained period of player agency in the run.
 
-ACT THREE — FORCED COMMITMENT (15:00 – 20:00)
+ACT THREE — FORCED COMMITMENT (15:00 onward)
 
 At the fifteen-minute mark, the window closes. The game forces a mission
 choice. Whatever the player built across the first fifteen minutes is the build
-going in. Loadout development stops. Five minutes to execute.
+going in. Loadout development stops. Failure to commit results in run failure.
 
 The forced commitment is the run's dramatic spine. Every milestone choice,
 every minor objective taken or passed, every second spent developing versus
-rotating — it lands here. The build meets the mission. Success or failure
-resolves in Act Three.
-
-The run ends at twenty minutes regardless of outcome.
+rotating — it lands here. The build meets the mission. A prepared player
+resolves the mission in approximately five minutes. There is no hard timer on
+the mission itself — the twenty-minute figure is the natural rhythm of a
+well-executed run, not a death clock. Success or failure resolves in Act Three.
 
 ---
 
 8. RUN RESOLUTION
 
-Every run resolves with outputs that feed the city layer.
+Every run resolves with outputs that feed the city layer and the player's
+permanent currency.
 
 Successful run: Generates resources, morale, or intel depending on mission
-type completed. City development advances. The mirror gets brighter.
+type completed. City development advances. Hero Points accumulate from mob
+drops and minor objectives completed during the run — full carry, no reduction.
+The mirror gets brighter.
 
 Failed or abandoned run: Atmospheric consequence only. No progress is reversed.
-No construction is undone. No city building disappears. The city absorbs the
-loss without surrendering it. The player returns to a city that knows things
-went badly, not a city that was set back.
+No construction is undone. No city building disappears. Hero Points earned
+during the run carry forward in full — what the player earned while the run
+lasted is theirs permanently. The city absorbs the loss without surrendering
+it. The player returns to a city that knows things went badly, not a city
+that was set back.
 
 Run patterns accumulate. A streak of bad runs darkens the city over a short
 window — citizens pull indoors, visual tone shifts, Rex Flynn has opinions he
@@ -322,6 +333,8 @@ Additional canonical sources (all DRAFT):
 - Tutorial Arc — World-Based Nudges and Run Structure
 - Three mission type and city output decisions
 - Intel and area boss progression decision
+- Hero Points Currency System (May 8, 2026)
+- Run Completion and Success Criteria (May 8, 2026)
 
 RECOMMENDED NEXT STEP:
 Recommend Cross-System Auditor before Canon Guard. This document touches run
