@@ -1306,3 +1306,49 @@ Four ensures it feels earned and keeps early game expectations humble.
 REPLACES: Nothing — new decision
 
 STATUS: DRAFT
+
+---
+
+Log this decision:
+
+Morale — XP Multiplier and Per-Neighborhood Geography
+
+MORALE XP MULTIPLIER:
+High morale produces a small XP multiplier for runs. This multiplier 
+is modest — it rewards sustained city engagement without making morale 
+a mandatory optimization target. Low morale does not penalize XP. 
+The multiplier is a reward for positive patterns, not a punishment 
+for negative ones. Consistent with consequence without punishment.
+
+PER-NEIGHBORHOOD MORALE GEOGRAPHY:
+Morale tracks at neighborhood level, not city-wide only. A hero who 
+consistently engages with minor objectives and escort missions in one 
+district builds morale there specifically. A district the hero rarely 
+visits holds at baseline. The city can have pockets of high morale 
+alongside areas that haven't felt the hero's presence yet.
+
+This geographic granularity means:
+- Citizens in high-morale neighborhoods are visibly warmer and more 
+  active in the run environment
+- Name emergence through the Citizens channel is more likely in 
+  high-morale neighborhoods
+- Rex Flynn notices and covers geographic disparity if the algorithm 
+  suggests it will perform
+
+Per-neighborhood morale does not create punishing states. No 
+neighborhood crashes to zero permanently. All recover over time 
+regardless of hero engagement. Consequence without punishment applies 
+at neighborhood level as well as city level.
+
+DATE: May 7, 2026
+
+WHY: City-wide morale tracking alone felt too abstract — the city 
+is a place with distinct neighborhoods, and the hero's presence 
+should be felt at street level. Per-neighborhood tracking makes the 
+world feel inhabited and responsive without adding optimization 
+complexity. The XP multiplier gives morale a run-layer mechanical 
+hook that rewards city engagement without gating anything.
+
+REPLACES: Nothing — expands existing morale entries.
+
+STATUS: DRAFT
