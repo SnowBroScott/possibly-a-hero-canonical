@@ -1379,3 +1379,67 @@ WHY: City-wide morale tracking alone felt too abstract — the city is a place w
 REPLACES: Nothing — expands existing morale entries.
 
 STATUS: DRAFT
+
+---
+
+ENTRY 1 OF 4
+
+DECISION LOG ENTRY
+
+DECISION: Hero Points are the player-facing currency of Apex Chronicles. They accumulate across runs — through random mob drops (physical collectibles, auto-collect off) and guaranteed drops from minor objectives (muggings, citizen assists, environmental incidents) — and are spent in the Training Center on tiered hero power upgrades. Hero points carry permanently between runs with no loss on failure. Design target: approximately 15 hero points per active run across both avenues. Illustrative upgrade tier costs: Tier 1 ~5 HP / Tier 2 ~10 HP / Tier 3 ~15 HP / Tier 4 ~20 HP — subject to balancing. Quantity per minor objective drop TBD. "Hero Points" is a placeholder name; final in-game naming TBD.
+
+DATE: May 8, 2026
+
+WHY: Hero points give every run a floor of value regardless of outcome. Physical mob drops preserve the satisfying collection loop established by genre references (VS, DRGS, Hades). Guaranteed minor objective drops create a direct incentive to engage with the city as a living place rather than just a combat arena. Full carry between runs with no loss on failure is consistent with consequence without punishment — the locked core principle. Tiered upgrade costs per power create meaningful investment decisions without prescribing a build path.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+ENTRY 2 OF 4
+
+DECISION LOG ENTRY
+
+DECISION: A run is successfully completed when the player commits to one of the three main missions (Boss Fight, Escort Defense, or Horde Survival) and successfully executes it. Completion of any one main mission is the sole success criterion. A run is failed when the player commits to a mission and fails to execute it, or is defeated before committing. Failed runs do not count toward class mastery progress, power proving, or city outputs — but do generate hero points based on run activity and city atmospheric consequence. No progress is set back on failure. The 20-minute run time is a design target and natural rhythm, not a hard mechanical timer. Structure: Act One (0–5 min) free prep; Act Two (5–15 min) open window with missions revealed; Act Three (15 min onward) forced commitment gate — the only hard mechanical enforcement. Mission execution itself carries no hard timer.
+
+DATE: May 8, 2026
+
+WHY: Defining completion clearly is load-bearing for class mastery tracking, power proving, city outputs, and hero point accumulation. The DRGS extraction model is the correct reference — you committed to a mission, you executed it, you succeeded. Reframing the 20-minute structure as soft pressure rather than a hard timer preserves player agency and avoids the punishing feeling of a countdown clock while maintaining the dramatic shape of the three-act run structure.
+
+REPLACES: Any prior implication that 20 minutes is a hard mechanical timer. The timer is a design target. The Act Three commitment gate is the only hard mechanical enforcement.
+
+STATUS: DRAFT
+
+---
+
+ENTRY 3 OF 4
+
+DECISION LOG ENTRY
+
+DECISION: A hero power is proven when all three of the following conditions are met within a single run: (1) the power randomly appears in the run's milestone offering; (2) the player selects the power; (3) the player successfully completes a main mission in that run. All three conditions are required. Selection without run success does not qualify. Discovery without selection does not qualify. When proven: the corresponding Training Center section activates, a Superhero Community sponsor message surfaces, and the hero power deepening system becomes available for that power.
+
+DATE: May 8, 2026
+
+WHY: Proving a power requires genuine engagement — not just receiving it randomly and surviving. The three-condition definition ensures that sponsor messages and Training Center unlocks feel earned rather than accidental. Active selection and successful run completion are both meaningful thresholds that reflect real player investment in that power.
+
+REPLACES: The two-condition definition (discovery plus run completion) used in City Layer Section 5 Step 1 and earlier Decision Log entries. Those definitions are superseded by this three-condition model.
+
+STATUS: DRAFT
+
+---
+
+ENTRY 4 OF 4
+
+DECISION LOG ENTRY
+
+DECISION: The four class summon powers (Gorilla, Double Time, Specter, Sentinel) exist as a single pool entry in the shared hero power pool — not as four separate competing entries. The summon offering appears for any class. What is summoned is determined by the active class: Brawler receives Gorilla (animal companion); Speedster receives Double Time (speed clone); Blaster receives Specter (spectral ally, phases through walls); Tactician receives Sentinel (combat drone). The power is not class-restricted in availability — it is class-adaptive in expression.
+
+DATE: May 8, 2026
+
+WHY: Four separate summon powers competing in the pool would create situations where a Brawler receives Gorilla and the three other classes receive each other's summons as irrelevant offerings. A single adaptive summon entry ensures the offering is always relevant to the class receiving it while keeping the pool clean and uncluttered.
+
+REPLACES: Earlier description of class summons as four separate named powers in the shared pool. The pool entry is one summon power with four class-adaptive expressions.
+
+STATUS: DRAFT
