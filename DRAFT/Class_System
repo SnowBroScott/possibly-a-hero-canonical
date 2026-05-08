@@ -1,5 +1,5 @@
 CLASS SYSTEM
-Apex Chronicles | Class Mechanics Specification
+Possibly a Hero | Class Mechanics Specification
 STATUS: Draft
 
 ───────────────────────────────────────────────────────────────
@@ -491,7 +491,7 @@ time. The player just didn't have clearance to see it.
 CANONICAL DEPENDENCIES:
 
 Locked decisions this document draws from and must remain consistent with:
-- "Apex Chronicles is a superhero roguelite city-building game. Runs shape
+- "Possibly a Hero is a superhero roguelite city-building game. Runs shape
   the city, the city shapes the runs." (LOCKED)
 - "Negative run outcomes affect the city atmospherically. Nothing is
   permanently lost. No progress is set back. No construction is reversed.
