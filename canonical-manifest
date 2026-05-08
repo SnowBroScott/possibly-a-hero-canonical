@@ -1,7 +1,7 @@
 # Apex Chronicles — Canonical Manifest
 *Single source of truth for all pipeline documents*
 
-Last updated: May 5, 2026
+Last updated: May 6, 2026
 
 ---
 
@@ -32,55 +32,77 @@ Every agent fetches this manifest before doing any work.
 
 ## Active Documents
 
-### decision-log
-- **Status:** CANONICAL SOURCE — contains entries of mixed status. 
-  LOCKED entries within are non-negotiable. Document grows 
+### decision-log.md
+- **Status:** CANONICAL SOURCE — contains entries of mixed status.
+  LOCKED entries within are non-negotiable. Document grows
   continuously as decisions are recorded.
 - **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/decision-log.md
-- **Notes:** Primary record of all design decisions. Every agent 
-  fetches this document directly. Do not rely on summaries 
-  or static uploads as substitutes for a live fetch.
+- **Notes:** Primary record of all design decisions. Every agent
+  fetches this document directly. Do not rely on summaries or
+  static uploads as substitutes for a live fetch. Entries append
+  to the bottom — newest entries are always at the end of the file.
+
+---
+
+## Draft Documents
+
+### Run_Design
+- **Status:** DRAFT
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/DRAFT/Run_Design
+- **Notes:** Canonical specification for run mechanics — 20 minute
+  arc, three acts, mission types, camera and combat model, power
+  selection, minor objectives. Canon Guard cleared. Awaiting
+  Cross-System Auditor review before lock.
+
+### Class_System
+- **Status:** DRAFT
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/DRAFT/Class_System
+- **Notes:** Canonical specification for class mechanics — four
+  classes, movement, offensive suites, mastery progression, mentor
+  system, power layers, combo system. Canon Guard cleared. Awaiting
+  Cross-System Auditor review before lock.
+
+### City_Layer
+- **Status:** DRAFT
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/DRAFT/City_Layer
+- **Notes:** Canonical specification for city mechanics — mirrors
+  not gates philosophy, tutorial arc buildings, four city stages,
+  Training Center system, Hero's Lair, restoration model. Canon
+  Guard cleared. Awaiting Cross-System Auditor review before lock.
+
+### World_Feedback
+- **Status:** DRAFT
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/DRAFT/World_Feedback
+- **Notes:** Canonical specification for world feedback — three
+  channels, name emergence, morale system, Rex Flynn character
+  specification. In generation. Canon Guard review pending.
 
 ---
 
 ## Pending Documents
-*Documents to be created as the pipeline develops*
-
-### run-design
-- **Status:** NOT YET CREATED
-- **Purpose:** Complete run structure specification — 20 minute arc, 
-  three acts, mission types, power selection, player agency model.
-
-### class-system
-- **Status:** NOT YET CREATED
-- **Purpose:** Four classes, movement, offensive suites, unlock 
-  structure, mentor system.
-
-### city-layer
-- **Status:** NOT YET CREATED
-- **Purpose:** Building model, mirror not gate philosophy, four stages, 
-  restoration model, tutorial arc buildings.
-
-### world-feedback
-- **Status:** NOT YET CREATED
-- **Purpose:** Citizens, Superhero Community, Rex Flynn, name emergence.
 
 ### CLAUDE.md
 - **Status:** NOT YET CREATED
-- **Purpose:** Project brief for Claude Code. Lives at repo root. 
-  Engineering directives, tech stack, system specifications, 
+- **Purpose:** Project brief for Claude Code. Lives at repo root.
+  Engineering directives, tech stack, system specifications,
   document access protocol.
-- **Trigger:** After core design systems are locked and build work 
+- **Trigger:** After core design systems are locked and build work
   is ready to begin.
 
 ### locked/ directory
 - **Status:** NOT YET CREATED
-- **Purpose:** Canonical, non-negotiable documents.
-
-### draft/ directory
-- **Status:** NOT YET CREATED
-- **Purpose:** Directionally committed documents still in refinement.
+- **Purpose:** Canonical, non-negotiable documents. Will contain
+  finalized system specifications as they exit the pipeline.
 
 ### reference/ directory
 - **Status:** NOT YET CREATED
-- **Purpose:** Supporting material. Not subject to pipeline validation.
+- **Purpose:** Supporting material. Not subject to pipeline
+  validation.
+
+---
+
+## Repo Structure
+
+/DRAFT          — directionally committed documents in refinement
+/canonical-manifest — master index of all documents (this file)
+/decision-log.md    — permanent record of all decisions
