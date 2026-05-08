@@ -163,8 +163,14 @@ committed to.
 HERO POWER DEEPENING SYSTEM — FIVE STEPS:
 
 STEP 1 — PROVE A POWER IN A RUN
-When a player discovers a hero power and completes a run with it, that power
-is considered proven. The corresponding Training Center section activates.
+Three conditions must be met for a power to be considered proven:
+1. The power appears randomly in the run's milestone offering
+2. The player selects the power
+3. The player successfully completes a main mission in that run
+
+All three conditions required. A power selected but carried through a failed
+run does not qualify. The corresponding Training Center section activates when
+all three conditions are met.
 
 STEP 2 — SPONSOR MESSAGE SURFACES
 A Superhero Community message arrives from a hero who embodies that power
@@ -178,8 +184,8 @@ briefing, a challenge upload. They do not appear in person. An established
 hero does not grace an unknown fledgling with a personal visit.
 Stage Four — this dynamic may shift. A sponsor who has watched the player's
 career develop across dozens of runs may eventually appear in person. This
-is an earned moment, not a given one. It requires sustained demonstrated
-mastery across the full run record.
+is an earned moment, not a given one. See Stage Four Sponsor In-Person
+Visit entry.
 
 STEP 3 — PLAYER VISITS THE TRAINING CENTER
 The player finds the activated section and interacts with whatever the sponsor
@@ -339,13 +345,17 @@ WHAT DOES NOT PROPAGATE FROM CITY TO RUN LAYER:
 
 WHAT FLOWS FROM RUN TO CITY:
 - Resources (from Boss Fight) — feeds city construction
-- Morale (from Escort Defense) — sustains city atmospheric state
+- Morale (from Escort Defense) — primary driver of city atmospheric state
+- Morale (from minor objectives) — secondary contribution; citizens in
+  the area where the engagement happened noticed, and the neighborhood
+  reflects it
 - Intel (from Horde Survival) — identifies area villain, triggers area
   boss encounter
 
-NOTE: XP from minor objectives feeds intra-run power selection — 
-it is a run-layer output, not a city-layer input. See Run Design 
-document for full minor objectives specification.
+NOTE: XP and Hero Points from minor objectives feed intra-run progression
+and the player's permanent currency — they are run-layer outputs, not
+city-layer inputs. See Run Design document for full minor objectives
+specification.
 
 ---
 
@@ -360,9 +370,9 @@ mechanism for the hero power deepening sponsorship system:
 - Sponsorship announcements are world events the channel broadcasts
 - The community has opinions about mentors taking on unknown heroes
 
-The channel is additionally a name emergence source. Names that 
-surface through the Superhero Community carry a peer/professional 
-register — how the hero world itself decides to categorize this 
+The channel is additionally a name emergence source. Names that
+surface through the Superhero Community carry a peer/professional
+register — how the hero world itself decides to categorize this
 new arrival.
 
 Cosmetics remain the primary reward pillar. Sponsorship and discipleship
@@ -406,6 +416,8 @@ CANONICAL DEPENDENCIES:
 - Hero Power Deepening — Cap and Temporary Run Boost Mechanic (DRAFT,
   May 6, 2026)
 - Stage Four Sponsor In-Person Visit (DRAFT, May 6, 2026)
+- Power Proving — Three-Condition Definition (DRAFT, May 8, 2026)
+- Morale — XP Multiplier and City-Wide Scope (DRAFT, May 8, 2026)
 
 PIPELINE NOTE FOR CANON GUARD:
 Fetch decision log from:
@@ -413,7 +425,7 @@ https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/he
 The manifest URL is serving a cached outdated version.
 
 RECOMMENDED NEXT STEP:
-Cross-System Auditor after World Feedback document is generated.
+Cross-System Auditor after World Feedback document is updated.
 All four documents should be audited simultaneously.
 
 STATUS: DRAFT
