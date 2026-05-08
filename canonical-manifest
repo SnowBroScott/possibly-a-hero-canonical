@@ -1,19 +1,35 @@
-# Apex Chronicles — Canonical Manifest
+# Possibly a Hero — Canonical Manifest
+
 *Single source of truth for all pipeline documents*
 
-Last updated: May 6, 2026
+Last updated: May 8, 2026
 
 ---
 
 ## How to Use This Manifest
 
 Every agent fetches this manifest before doing any work.
+
 1. Locate the document needed and confirm its status.
-2. Fetch the document using the raw URL listed below.
+
+2. Fetch the document using the blob URL listed below.
+
 3. Confirm the fetch before beginning any work.
+
 4. Locked documents take authority over drafts.
+
 5. Deprecated documents have no canonical authority.
+
 6. If a fetch fails, stop and report it. Do not fall back to memory.
+
+---
+
+## Fetch Protocol Note
+
+All document URLs in this manifest use GitHub blob URLs rather than raw CDN
+URLs. Blob URLs serve live content directly from the repository. Raw CDN URLs
+are subject to caching delays that can serve stale content. Always use the
+blob URLs listed here.
 
 ---
 
@@ -33,10 +49,11 @@ Every agent fetches this manifest before doing any work.
 ## Active Documents
 
 ### decision-log.md
+
 - **Status:** CANONICAL SOURCE — contains entries of mixed status.
   LOCKED entries within are non-negotiable. Document grows
   continuously as decisions are recorded.
-- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/decision-log.md
+- **Blob URL:** https://github.com/SnowBroScott/possibly-a-hero-canonical/blob/main/decision-log.md
 - **Notes:** Primary record of all design decisions. Every agent
   fetches this document directly. Do not rely on summaries or
   static uploads as substitutes for a live fetch. Entries append
@@ -47,41 +64,52 @@ Every agent fetches this manifest before doing any work.
 ## Draft Documents
 
 ### Run_Design
+
 - **Status:** DRAFT
-- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/DRAFT/Run_Design
-- **Notes:** Canonical specification for run mechanics — 20 minute
-  arc, three acts, mission types, camera and combat model, power
-  selection, minor objectives. Canon Guard cleared. Awaiting
-  Cross-System Auditor review before lock.
+- **Blob URL:** https://github.com/SnowBroScott/possibly-a-hero-canonical/blob/main/DRAFT/Run_Design
+- **Notes:** Canonical specification for run mechanics — three-act
+  structure, mission types, camera and combat model, power
+  selection, minor objectives, hero points, run resolution. Canon
+  Guard cleared. Cross-System Auditor complete. Surgical edits
+  applied May 8, 2026. Ready for lock consideration.
 
 ### Class_System
+
 - **Status:** DRAFT
-- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/DRAFT/Class_System
+- **Blob URL:** https://github.com/SnowBroScott/possibly-a-hero-canonical/blob/main/DRAFT/Class_System
 - **Notes:** Canonical specification for class mechanics — four
   classes, movement, offensive suites, mastery progression, mentor
-  system, power layers, combo system. Canon Guard cleared. Awaiting
-  Cross-System Auditor review before lock.
+  system, power layers (eleven hero powers, class-adaptive summon),
+  combo system. Canon Guard cleared. Cross-System Auditor complete.
+  Surgical edits applied May 8, 2026. Ready for lock consideration.
 
 ### City_Layer
+
 - **Status:** DRAFT
-- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/DRAFT/City_Layer
+- **Blob URL:** https://github.com/SnowBroScott/possibly-a-hero-canonical/blob/main/DRAFT/City_Layer
 - **Notes:** Canonical specification for city mechanics — mirrors
   not gates philosophy, tutorial arc buildings, four city stages,
-  Training Center system, Hero's Lair, restoration model. Canon
-  Guard cleared. Awaiting Cross-System Auditor review before lock.
+  Training Center complete system, Hero's Lair, restoration model,
+  city-wide morale. Canon Guard cleared. Cross-System Auditor
+  complete. Surgical edits applied May 8, 2026. Ready for lock
+  consideration.
 
 ### World_Feedback
+
 - **Status:** DRAFT
-- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/apex-chronicles-canonical/refs/heads/main/DRAFT/World_Feedback
+- **Blob URL:** https://github.com/SnowBroScott/possibly-a-hero-canonical/blob/main/DRAFT/World_Feedback
 - **Notes:** Canonical specification for world feedback — three
-  channels, name emergence, morale system, Rex Flynn character
-  specification. In generation. Canon Guard review pending.
+  channels, name emergence, morale system (city-wide), Rex Flynn
+  character specification, minor objectives as world signal. Canon
+  Guard cleared. Cross-System Auditor complete. Surgical edits
+  applied May 8, 2026. Ready for lock consideration.
 
 ---
 
 ## Pending Documents
 
 ### CLAUDE.md
+
 - **Status:** NOT YET CREATED
 - **Purpose:** Project brief for Claude Code. Lives at repo root.
   Engineering directives, tech stack, system specifications,
@@ -90,11 +118,13 @@ Every agent fetches this manifest before doing any work.
   is ready to begin.
 
 ### locked/ directory
+
 - **Status:** NOT YET CREATED
 - **Purpose:** Canonical, non-negotiable documents. Will contain
   finalized system specifications as they exit the pipeline.
 
 ### reference/ directory
+
 - **Status:** NOT YET CREATED
 - **Purpose:** Supporting material. Not subject to pipeline
   validation.
@@ -103,6 +133,6 @@ Every agent fetches this manifest before doing any work.
 
 ## Repo Structure
 
-/DRAFT          — directionally committed documents in refinement
+/DRAFT              — directionally committed documents in refinement
 /canonical-manifest — master index of all documents (this file)
 /decision-log.md    — permanent record of all decisions
