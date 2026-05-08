@@ -63,7 +63,7 @@ STATUS: DRAFT
 
 DECISION LOG ENTRY
 
-DECISION: Hero Powers pool finalized at ten powers — shared pool, fully
+DECISION: Hero Powers pool finalized at eleven powers — shared pool, fully
 random: Magnetism, Freeze Frame, Tempest, Tremor, Rift, Toxin, Sonic Scream,
 Gorilla (Brawler class summon), Double Time (Speedster class summon), Specter
 (Blaster class summon), Sentinel (Tactician class summon). No mission-type
@@ -87,32 +87,32 @@ DECISION LOG ENTRY
 
 DECISION: Support Pool and Hero Powers — Complete Layer Definitions
 
+NOTE: Support pool naming in this entry uses earlier generic stat language.
+The finalized comic book native naming is established in the Support Pool
+entry above and supersedes this entry's support pool naming. Hero power
+content remains valid.
+
 Three-layer system confirmed:
 - Class Primary — class-specific offensive powers
 - Hero Powers — offensive with utility upside, mid-run pickups, shared pool,
   fully random
 - Support Pool — genre-legible enhancements, class-agnostic
 
-SUPPORT POOL (8 total — shared across all classes):
-Combat: Attack Speed, Attack Damage, Impact Area/AOE, Critical Hit Chance,
-Cooldown Reduction
-Utility: Movement Speed, Experience Multiplier
-Safety: Revive
-
-HERO POWERS (9 total — shared pool, fully random):
+HERO POWERS (shared pool, fully random):
 1. Magnetism — pull enemies together, redirect projectiles, strip weapons
-2. Time Slow — brief local time dilation; everything slows, player doesn't
-3. Weather Control — lightning strikes, wind gusts, localized storms
-4. Earth/Ground Manipulation — fissures, tremors, terrain as weapon
-5. Portal Creation — displaces and moves enemies around the map; chaotic
-6. Venom/Toxin — damage over time, spreads between enemies
+2. Freeze Frame — brief local time dilation; everything stops, player doesn't
+3. Tempest — lightning strikes, wind gusts, localized storms. Environmental
+   and atmospheric — the storm answers the hero rather than coming from them.
+   Thor's lightning bolt, not force lightning.
+4. Tremor — fissures, earthquakes, terrain as weapon
+5. Rift — displaces and moves enemies around the map; intentionally chaotic
+6. Toxin — damage over time, spreads between enemies
 7. Sonic Scream — stuns, disorients, chain damages
-8. Light Manipulation — blinds enemies, creates decoys
-9. Class-Specific Summon (unique per class):
-   - Brawler: Animal Companion
-   - Speedster: Speed Clone
-   - Blaster: Spectral Ally
-   - Tactician: Combat Drone
+8. Class-Specific Summons (unique per class):
+   - Brawler: Gorilla — animal companion
+   - Speedster: Double Time — speed clone
+   - Blaster: Specter — spectral ally, phases through walls
+   - Tactician: Sentinel — combat drone
 
 Hero power design principles:
 - Every hero power has standalone offensive value before combo value
@@ -130,15 +130,34 @@ Cuts (with reasoning):
 - Density Wave — doesn't fit
 - Adrenaline — renamed Attack Damage, moved to support pool
 
-COMBO SYSTEM NOTE (flagged for future development):
-Combination abilities emerge from mastery of multiple power types
-simultaneously. Not designed yet.
+ELEMENTAL DISTINCTION NOTE:
+Elemental Surge (Blaster class primary, lightning variant) and Tempest are
+not redundant powers. Elemental Surge is force lightning — directed, precise,
+projected from the hero's body at a target. Tempest is Thor's lightning bolt —
+called from above, environmental, affects the space rather than a single
+target. They share an element. They are emphatically not the same power.
+A Blaster running both in the same run is not doubling up — they are a
+precision energy projector who can also call storms.
+
+COMBO SYSTEM NOTE:
+Combos are discovered organically during runs — Vampire Survivors style.
+The right combination of powers held simultaneously triggers a combo —
+unannounced, emergent, discoverable by accident. Once discovered, the combo
+is permanently logged in the Hero's Lair including what was required to
+trigger it. The lair does not unlock combos. It records them.
+
+Example of emergent combo discovery — Blaster + Elemental Surge (lightning)
++ Tempest: The Blaster projects directed lightning from below while a storm
+responds from above. Two directions. Same frequency. Discovered in a run,
+logged in the lair. Rex Flynn has a video about the first time someone found
+it. Twelve million views. Unhinged thumbnail.
 
 DATE: May 3, 2026
 
-WHY: Support pool uses genre-legible framing so players understand mechanics
-immediately. Hero powers stay offensive with utility upside to protect class
-identity and keep the three layers distinct.
+WHY: Hero powers stay offensive with utility upside to protect class identity
+and keep the three layers distinct. A fully random hero power pool creates
+genuine surprise and ridiculous combo potential — standalone value for every
+power is the baseline protection against dead draws.
 
 REPLACES: Nothing — new decision
 
@@ -164,7 +183,10 @@ SPEEDSTER (Movement: Super Speed)
 
 BLASTER (Movement: Teleportation)
 - Starter: Energy Blast — single target precision
-- 10 runs: Elemental Surge — choose fire, ice, or lightning per run
+- 10 runs: Elemental Surge — choose fire, ice, or lightning per run, each
+  with distinct status effects. Directed elemental projection — force
+  lightning, concentrated fire, precision ice. Comes from the hero's body
+  and is aimed at targets. Not environmental, not atmospheric.
 - 30 runs: Gravity Well — AOE tactical, pulls and detonates
 
 TACTICIAN (Movement: Vehicle)
@@ -222,7 +244,7 @@ offset incompatibility. Wall crawling removed due to verticality requirements
 and IP adjacency concerns. Locking movement to class simplifies systems and
 strengthens class identity.
 
-REPLACES: Flight and wall crawling as movement pool options — both removed
+REPLACES: Flight and wall crawling as movement pool options — both removed.
 
 STATUS: DRAFT
 
@@ -259,7 +281,7 @@ WHY: Removing Guardian streamlines the class roster without eliminating its
 design contribution. Distributing defensive powers across all pools preserves
 tonal and mechanical variety.
 
-REPLACES: Guardian as a standalone selectable class
+REPLACES: Guardian as a standalone selectable class.
 
 STATUS: DRAFT
 
@@ -269,12 +291,11 @@ DECISION LOG ENTRY
 
 DECISION: Run Camera Transition — Visual and Mechanical Structure
 
-Every run opens in a low-to-the-ground third-person perspective. The intro
-scene plays — third person, brief, cinematic. Hero arrives via their class
-movement type. Camera swings up to isometric offset play mode. The city layer
-operates on a separate camera (top-down or angled). Third-person assets are
-scoped to the brief intro sequence only; the isometric offset angle handles
-all run gameplay.
+Every run opens with a brief third-person cinematic intro. The hero arrives
+via their class movement type. Camera swings up to isometric offset play mode.
+The city layer operates on a separate camera (top-down or angled).
+Third-person assets are scoped to the brief intro sequence only; the isometric
+offset angle handles all run gameplay.
 
 DATE: May 3, 2026
 
@@ -315,17 +336,17 @@ STATUS: DRAFT
 DECISION LOG ENTRY
 
 DECISION: The three feedback channels — Citizens, Superhero Community, and
-Social Media Influencer — each anchor a distinct primary reward track, with
-name emergence shared as a secondary reward track across all three. Citizens
-reward city aesthetics and development. The Superhero Community rewards player
-cosmetics. The Social Media Influencer rewards run modifier unlocks. Name
-unlock options are channel-specific in register, unlock permanently once
-surfaced, and only surface when conditions are right.
+Rex Flynn / Exposed — each anchor a distinct primary reward track, with name
+emergence shared as a secondary reward track across all three. Citizens reward
+city aesthetics and development. The Superhero Community rewards player
+cosmetics. Rex Flynn rewards run modifier unlocks. Name unlock options are
+channel-specific in register, unlock permanently once surfaced, and only
+surface when conditions are right.
 
 DATE: May 3, 2026
 
 WHY: Pillar structure ties reward source to reward type. Modifier unlocks give
-the influencer mechanical teeth and add replayability depth critical to the
+Rex Flynn mechanical teeth and add replayability depth critical to the
 roguelite format.
 
 REPLACES: Nothing — new decision
@@ -338,8 +359,12 @@ DECISION LOG ENTRY
 
 DECISION: Apex Chronicles is a superhero roguelite city-building game. Players
 go on runs that generate resources and outcomes that feed city building. The
-city built shapes the hero's available powers and abilities. The two halves
-are inseparable — runs shape the city, the city shapes the runs.
+city built shapes the hero's identity, development, and mastery. The two
+halves are inseparable — runs shape the city, the city shapes the runs.
+
+NOTE: The clause "shapes the hero's available powers and abilities" from the
+original locked entry is superseded by the LOCKED amendment dated May 6, 2026.
+The foundational inseparability of runs and city remains locked.
 
 DATE: May 3, 2026
 
@@ -387,9 +412,10 @@ STATUS: NOTED
 
 DECISION LOG ENTRY
 
-DECISION: Every run map contains three path types: boss fight, passive escort
-defense, and horde survival. These are not separate modes — they are locations
-and activities discoverable within a single run map.
+DECISION: Every run map contains three mission types: boss fight, passive
+escort defense, and horde survival. These are not separate modes — they are
+locations and activities discoverable within a single run map. All three exist
+on the map simultaneously after the tutorial arc.
 
 DATE: May 3, 2026
 
@@ -405,15 +431,15 @@ STATUS: DRAFT
 
 DECISION LOG ENTRY
 
-DECISION: Each run path type feeds a distinct city system: boss fights
+DECISION: Each run mission type feeds a distinct city system: boss fights
 generate resources for city construction, escort defense missions sustain city
 morale, horde survival missions generate intel.
 
 DATE: May 3, 2026
 
 WHY: Creates genuine strategic tension during runs. Players are making city
-management decisions through their path choices without the game feeling like
-a management game.
+management decisions through their mission choices without the game feeling
+like a management game.
 
 REPLACES: Nothing — new decision
 
@@ -425,12 +451,12 @@ DECISION LOG ENTRY
 
 DECISION: Intel gathered through horde survival missions identifies the area's
 super villain. Sufficient intel is required to trigger the area boss encounter.
-The area boss gates progression to the next area or level.
+The area boss gates progression to the next stage.
 
 DATE: May 3, 2026
 
 WHY: Makes intel missions load-bearing for progression, not optional. All
-three path types become necessary rather than preferential.
+three mission types become structurally necessary rather than preferential.
 
 REPLACES: Nothing — new decision
 
@@ -547,8 +573,8 @@ STATUS: DRAFT
 DECISION LOG ENTRY
 
 DECISION: Superhero name options emerge from three distinct in-world sources:
-citizens (warm, local, affectionate), the social media influencer (editorial,
-slightly damning), and social media (chaotic, meme-driven, no dignity).
+citizens (warm, local, affectionate), Rex Flynn / Exposed (editorial, slightly
+damning, viral-optimized), and the Superhero Community (peer/professional).
 Players choose from whichever options have emerged. Early names skew silly —
 players are expected to outgrow their first designation. The influencer reacts
 differently depending on which name the player adopts.
@@ -571,7 +597,8 @@ run start and expands the pool of powers available to appear during a run.
 Powers not unlocked through city building do not appear in runs.
 
 NOTE: This entry is superseded by "City Buildings — Mirrors Not Gates"
-(May 5, 2026). Retained for historical record only.
+(May 5, 2026) and the LOCKED amendment (May 6, 2026). Retained for
+historical record only.
 
 DATE: May 3, 2026
 
@@ -586,7 +613,8 @@ loop. Starting loadout is set by the city but the run determines how those
 powers develop and what combinations emerge.
 
 NOTE: This entry is superseded by "City Buildings — Mirrors Not Gates"
-(May 5, 2026). Retained for historical record only.
+(May 5, 2026) and the LOCKED amendment (May 6, 2026). Retained for
+historical record only.
 
 DATE: May 3, 2026
 
@@ -602,7 +630,8 @@ merges are not available regardless of what powers the player holds during
 a run.
 
 NOTE: This entry is superseded by "City Buildings — Mirrors Not Gates"
-(May 5, 2026). Retained for historical record only.
+(May 5, 2026) and the LOCKED amendment (May 6, 2026). Retained for
+historical record only.
 
 DATE: May 3, 2026
 
@@ -637,14 +666,15 @@ The tutorial arc consists of four restorable buildings and one area boss
 defeat, each unlocked by specific run type completion:
 
 1. Science Lab — unlocked by completing an Intel run. Teaches support skills.
-2. Boxing Gym — unlocked by completing a Boss Fight run. Teaches hero powers.
+2. Training Center (Gym — Stage One form) — unlocked by completing a Boss
+   Fight run. Teaches hero powers.
 3. Tailor Shop — unlocked by completing an Escort Defense run. Teaches
    cosmetics and appearance customization.
 4. Area Boss Defeated — completes the tutorial arc. Player has demonstrated
    mastery across all three run path types.
 5. Hero's Lair — unlocked upon area boss defeat. Serves as headquarters.
-   Houses combo development, mastery mechanics, achievement displays,
-   cosmetic loadout management, and run statistics review.
+   Houses combo discovery log, achievement displays, unlocked name history,
+   and cosmetic loadout management.
 
 Each building restoration is a hard gate tied to its corresponding run type.
 The lair does not follow the restoration model — it is earned as a reward for
@@ -699,15 +729,14 @@ DECISION LOG ENTRY
 DECISION: Post-Tutorial City Structure and Class-Specific Buildings
 
 ESSENTIAL BUILDINGS (Tutorial Arc + Headquarters):
-1. Science Lab — unlocked by completing an Intel run. Houses support skills.
-2. Boxing Gym — unlocked by completing a Boss Fight run. Houses hero powers.
+1. Science Lab — unlocked by Intel run. Houses support skills.
+2. Training Center — unlocked by Boss Fight run. Houses hero power deepening.
    Every hero power selected during a run is logged here for deepening and
-   training.
-3. Tailor Shop — unlocked by completing an Escort Defense run. Houses
-   cosmetics and appearance customization.
+   training. See Training Center — Complete System Definition for full spec.
+3. Tailor Shop — unlocked by Escort Defense run. Houses cosmetics.
 4. Hero's Lair — unlocked upon area boss defeat. Serves as headquarters.
    Houses combo discovery log, achievement displays, unlocked name history,
-   and cosmetic loadout management. The most dramatic mirror in the city.
+   and cosmetic loadout management.
 
 CLASS-SPECIFIC NARRATIVE LOCATIONS (Post-Tutorial):
 Four additional buildings, one per class, providing narrative context for
@@ -730,8 +759,7 @@ progression without requiring strategic building prioritization.
 DATE: May 5, 2026
 
 WHY: Essential buildings form a complete progression arc. Class-specific
-buildings add world depth without overcomplicating the design. Lean initial
-scope allows for organic expansion if needed.
+buildings add world depth without overcomplicating the design.
 
 REPLACES: Nothing — new decision
 
@@ -765,8 +793,10 @@ discovered, the combo is permanently logged in the lair including the exact
 power combination required to trigger it. The lair does not unlock combos.
 It records them.
 
-THE GYM — Every hero power a player selects during a run is added to the gym.
-Players can deepen, train, and improve powers they have already encountered.
+THE TRAINING CENTER — Every hero power a player selects during a run is logged
+here. Players can deepen, train, and improve powers they have already
+encountered through the sponsor challenge system. See Training Center —
+Complete System Definition for full spec.
 
 THE LAIR — A special trophy case for discovered combos. Logs each combo, its
 trigger conditions, and its effects.
@@ -792,8 +822,9 @@ DECISION LOG ENTRY
 DECISION: Map Structure — City Stages as Run Progression System
 
 The run layer and city layer share the same map. The street layout, road
-routing, and Core Four buildings (Lab, Gym, Tailor Shop, Lair) are consistent
-landmarks across all stages and recognizable within the run layer.
+routing, and Core Four buildings (Science Lab, Training Center, Tailor Shop,
+Hero's Lair) are consistent landmarks across all stages and recognizable
+within the run layer.
 
 The city develops through four visual stages. Each stage is mechanically a
 distinct run environment layered on top of the same underlying street
@@ -801,12 +832,13 @@ geography.
 
 STAGE ONE — Rundown. Tutorial environment. One mission type per run, heavily
 nudged. Lowest difficulty.
-STAGE TWO — Developing. Mid-game. All three mission types available. 
+STAGE TWO — Developing. Mid-game. All three mission types available.
 Increasing enemy density and challenge.
 STAGE THREE — Refined. Late mid-game. Full mechanical complexity. Higher
 difficulty.
-STAGE FOUR — Modern. Endless live game tail. Rex Flynn modifiers. Procedurally
-generated missions and bosses. Maximum difficulty and replayability.
+STAGE FOUR — Modern. Endless live game tail. Rex Flynn modifiers.
+Procedurally generated missions and bosses. Maximum difficulty and
+replayability.
 
 Cosmetic city improvements do not propagate granularly into the run layer
 beyond stage-level visual identity.
@@ -815,8 +847,7 @@ DATE: May 5, 2026
 
 WHY: Sharing the same street map creates spatial memory and narrative
 coherence. City growth does double duty — rewarding progression and raising
-stakes simultaneously. Stage Four ensures a live game tail without requiring
-separate mode development.
+stakes simultaneously.
 
 REPLACES: Nothing — new decision
 
@@ -851,7 +882,7 @@ DATE: May 5, 2026
 
 WHY: The three-act structure gives every run dramatic shape. The forced choice
 at 15 minutes ensures build decisions carry weight. Randomized mission
-locations support narrative variety and prevent the world from feeling scripted.
+locations support narrative variety.
 
 REPLACES: Nothing — new decision
 
@@ -865,8 +896,9 @@ DECISION: Class Mentor System — Framework and Introduction Triggers
 
 Each of the four classes has a corresponding mentor character who occupies a
 class-specific building in the city. These buildings exist from early
-progression but appear non-descript until the mentor relationship unlocks. At
-unlock, the building reveals what it actually is — hidden in plain sight.
+progression but appear non-descript until the mentor relationship unlocks
+through class progression and playtime. At unlock, the building reveals what
+it actually is — hidden in plain sight.
 
 Mentor relationships unlock through class progression and playtime. Each
 introduction is native to its class and functions as a three-panel comic book
@@ -896,15 +928,14 @@ MENTOR NARRATIVE FUNCTION:
 Each mentor provides narrative justification for why advanced class powers
 exist and are teachable. Mechanically, class mastery remains tied to run
 completion (10 runs / 30 runs). The mentor is the story of why the unlock
-happens — not the gate that controls it. Mentor introductions are world
-events that generate content across all three feedback channels.
+happens — not the gate that controls it. Mentor introductions are world events
+that generate content across all three feedback channels.
 
 DATE: May 5, 2026
 
 WHY: The mentor system transforms class mastery unlocks from arbitrary
 progression gates into relationships with narrative weight. The
-hidden-in-plain-sight building reveal rewards city exploration. Mentor
-introductions as world events connect the system to the feedback channels.
+hidden-in-plain-sight building reveal rewards city exploration.
 
 REPLACES: Nothing — new decision
 
@@ -915,6 +946,10 @@ STATUS: DRAFT
 DECISION LOG ENTRY
 
 DECISION: Camera and Combat Model
+
+NOTE: The minor objectives output list in this entry is superseded by the
+amendment dated May 6, 2026. See "Amendment — Camera and Combat Model:
+Minor Objective Outputs" for the complete and current output list.
 
 CAMERA:
 Run gameplay uses a Hades-style camera — closer and more angled than Deep
@@ -942,27 +977,14 @@ No option is obviously correct. Build identity emerges from accumulated
 choices across a run, not from a preset loadout.
 
 MINOR OBJECTIVES:
-The closer camera opens the city to minor objectives — incidental heroic
-moments alongside the three main mission types. Muggings, citizens in danger,
-environmental incidents. These are opportunities, not formal missions.
-
-Minor objectives feed:
-- Morale (Citizens channel)
-- Recognition (Superhero Community channel)
-- Clickbait (Rex Flynn channel)
-
-Minor objectives do not generate intel. Intel remains exclusively tied to
-the horde survival mission. Minor objectives are a natural source of early
-name emergence — patterns of incidental heroism citizens notice before any
-formal mission is completed.
+See amendment dated May 6, 2026 for complete and current output list.
 
 DATE: May 5, 2026
 
 WHY: Camera distance determines combat philosophy, movement identity, and
 world legibility. Hades distance makes the city feel inhabited and the hero
 feel powerful. Intentional skill-based combat creates genuine mastery
-expression. Minor objectives make the city feel alive and feed the feedback
-channel ecosystem naturally.
+expression.
 
 REPLACES: DRGS as primary camera reference — superseded by Hades with open
 world scope.
@@ -973,31 +995,47 @@ STATUS: DRAFT
 
 DECISION LOG ENTRY
 
-DECISION: The Training Center is a single building with four distinct visual states — The Gym (Stage One), The Complex (Stage Two), The Facility (Stage Three), and The Tower (Stage Four) — that evolves across all city stages proportional to the hero's story and proven run history. The Hero Power Deepening System activates at Stage Two: when a player proves a hero power in a run, a Superhero Community message surfaces from a thematically matched hero, directing the player to a newly activated section of the training center. Sections remain dark and gated until the corresponding power is proven. The building is explorable at every stage and reads as a cumulative map of the player's run history. Hero power deepening (mastery development) is housed here; primary class power improvement is not.
+DECISION: Training Center — Building Evolution and Hero Power Deepening System
 
-DATE: May 6, 2026
+The Training Center is the canonical name for the building that houses hero
+power deepening. "Gym" refers to its Stage One physical form only — not its
+canonical name. The building is always the Training Center. It starts as a
+gym. See Training Center — Complete System Definition (May 6, 2026) for full
+specification. This entry is retained for historical record.
 
-WHY: One building with four visual states maps cleanly to the existing four-stage city progression without adding build complexity. The explorable building model (Hades reference) is proven to work at this scale. The Superhero Community message trigger gives an existing reward channel mechanical significance. Keeping discovery free and deepening housed in the building preserves the mirrors-not-gates philosophy while resolving the Canon Guard conflict around city-gated power access.
+DATE: May 5, 2026
 
-REPLACES: Earlier gym model that contained hero powers without a deepening system or stage-based evolution.
-
-STATUS: DRAFT
+STATUS: DRAFT — SEE COMPLETE SYSTEM DEFINITION (MAY 6, 2026)
 
 ---
 
 DECISION LOG ENTRY
 
-DECISION: The city and runs are inseparable. Runs shape the city. The city shapes the hero's identity, development, and mastery. The city does not control what powers appear in runs. The full hero power pool is available from run one. No city building gates a power from appearing. Discovery is always free.
+DECISION: The city and runs are inseparable. Runs shape the city. The city
+shapes the hero's identity, development, and mastery. The city does not
+control what powers appear in runs. The full hero power pool is available from
+run one. No city building gates a power from appearing. Discovery is always
+free.
 
-What the city provides is the infrastructure for mastery. Powers discovered and proven in runs find their home in the city — in the training center, in the lair, in the buildings the hero has restored and the relationships they have built. The city deepens what the player has earned. It does not withhold what the player hasn't yet unlocked.
+What the city provides is the infrastructure for mastery. Powers discovered
+and proven in runs find their home in the city — in the Training Center, in
+the lair, in the buildings the hero has restored and the relationships they
+have built. The city deepens what the player has earned. It does not withhold
+what the player hasn't yet unlocked.
 
 The relationship is: runs write the story, the city remembers it.
 
 DATE: May 6, 2026
 
-WHY: The original locked entry was written before the mirrors-not-gates philosophy was established. The design evolved to separate discovery (always free, full pool available) from mastery (housed in the city, earned through proven use). This amendment preserves the foundational inseparability of runs and city while correcting the gate implication that the original language carried. The training center evolution model and the hero power deepening system are the canonical expression of how the city shapes the hero — through deepening, not gating.
+WHY: The original locked entry was written before the mirrors-not-gates
+philosophy was established. The design evolved to separate discovery (always
+free, full pool available) from mastery (housed in the city, earned through
+proven use). This amendment preserves the foundational inseparability of runs
+and city while correcting the gate implication that the original language
+carried.
 
-REPLACES: "The city built shapes the hero's available powers and abilities." — LOCKED entry dated May 3, 2026, superseded by this amendment.
+REPLACES: "The city built shapes the hero's available powers and abilities."
+— LOCKED entry dated May 3, 2026, superseded by this amendment.
 
 STATUS: LOCKED
 
@@ -1005,21 +1043,29 @@ STATUS: LOCKED
 
 DECISION LOG ENTRY
 
-DECISION: AMENDMENT — Camera and Combat Model: Minor Objective Outputs. The minor objective output list recorded in the Camera and Combat Model entry (May 5, 2026) was incomplete. The confirmed, complete output list is:
+DECISION: AMENDMENT — Camera and Combat Model: Minor Objective Outputs
+
+The minor objective output list in the Camera and Combat Model entry
+(May 5, 2026) was incomplete. The confirmed complete output list is:
 
 Minor objectives feed:
-- XP — direct boost to run progression. Minor objective XP feeds the same milestone-based power selection system as combat XP. More minor objectives completed means more power selection opportunities within a run.
+- XP — direct boost to run progression. Minor objective XP feeds the same
+  milestone-based power selection system as combat XP. More minor objectives
+  completed means more power selection opportunities within a run.
 - Morale (Citizens channel)
 - Recognition (Superhero Community channel)
 - Clickbait (Rex Flynn channel)
 
-Minor objectives do not generate intel. Intel remains exclusively tied to horde survival.
+Minor objectives do not generate intel. Intel remains exclusively tied to
+horde survival.
 
 DATE: May 6, 2026
 
-WHY: XP was confirmed as a minor objective output during Run Design document generation. The Camera and Combat Model entry did not include it. This amendment corrects the omission to ensure consistency across all documents referencing minor objective behavior.
+WHY: XP was confirmed as a minor objective output during Run Design document
+generation. The Camera and Combat Model entry did not include it.
 
-REPLACES: Minor objective output list in Camera and Combat Model (May 5, 2026). That list is superseded by this complete version.
+REPLACES: Minor objective output list in Camera and Combat Model (May 5,
+2026). That list is superseded by this complete version.
 
 STATUS: DRAFT
 
@@ -1027,12 +1073,236 @@ STATUS: DRAFT
 
 DECISION LOG ENTRY
 
-DECISION: The Training Center is the canonical name for the hero power deepening building across all four stage evolutions. "Gym" refers to its Stage One physical form only — not its canonical name. The building follows a Hades headquarters model: atmosphere, narrative, and interface, not an arena. The hero power deepening system operates across five steps — prove a power in a run, receive a sponsor message from the Superhero Community channel, visit the activated Training Center section, wait for the challenge to surface in a future run through the standard run pool, and complete the challenge to earn power deepening or run boosts at cap. Sponsor presence scales with stage progression: remote contact at Stages Two and Three, potential in-person appearance at Stage Four as an earned moment. The Training Center's mastery scope is hero power deepening and sponsor challenges only — distinct from Class Mentor Buildings (class primary power advancement) and the Hero's Lair (combo discovery log). The Superhero Community channel gains mechanical function through the sponsorship and power deepening notification system, operating in parallel with cosmetics, which remain its primary reward pillar.
+DECISION: Training Center — Complete System Definition
+
+The Training Center is the canonical name for the hero power deepening
+building across all four stage evolutions. "Gym" refers to its Stage One
+physical form only — not its canonical name. The building follows the Hades
+headquarters model: atmosphere, narrative, and interface, not an arena.
+
+STAGE EVOLUTION:
+
+STAGE ONE — THE GYM
+Basic. Functional. Recently rescued. Humble in scale. The hero power
+deepening system is not active during the tutorial stage. The building
+matches the hero's status — unknown, unproven, just getting started.
+
+STAGE TWO — THE COMPLEX
+The gym gets built out. The hero power deepening system comes online for the
+first time. Sections begin activating as powers are proven in runs. The
+building starts reading like a map of the player's run history.
+
+STAGE THREE — THE FACILITY
+Multi-story. Serious infrastructure. More sections active. The hero is
+established. The building reflects that.
+
+STAGE FOUR — THE TOWER
+Avengers Tower / SHIELD headquarters scale. Every proven power section active
+and visible. The hero is a civic institution. Rex Flynn has a series about
+the building. Citizens take photos outside it.
+
+HERO POWER DEEPENING SYSTEM — FIVE STEPS:
+
+STEP 1 — PROVE A POWER IN A RUN
+When a player discovers a hero power and completes a run with it, that power
+is considered proven. The corresponding Training Center section activates.
+
+STEP 2 — SPONSOR MESSAGE SURFACES
+A Superhero Community message arrives from a hero who embodies that power
+archetype — a Storm equivalent for Tempest, a Banshee equivalent for Sonic
+Scream. The message is personalized and invites the player to find what the
+sponsor left at the activated section.
+
+Sponsor presence scales with progression:
+- Stages Two and Three — the sponsor leaves something. A message, a recorded
+  briefing, a challenge upload. They do not appear in person. An established
+  hero does not grace an unknown fledgling with a personal visit.
+- Stage Four — this dynamic may shift. A sponsor who has watched the player's
+  career develop across dozens of runs may eventually appear in person. This
+  is an earned moment, not a given one. See Stage Four Sponsor In-Person
+  Visit entry.
+
+STEP 3 — PLAYER VISITS THE TRAINING CENTER
+The player finds the activated section and interacts with whatever the sponsor
+left — a screen, a terminal, a recorded message, a physical note. The
+interaction queues a challenge to surface in a future run.
+
+STEP 4 — CHALLENGE SURFACES IN A RUN
+The challenge surfaces in the run layer during a future run — not inside the
+Training Center. The player must have the relevant power active to engage with
+it. Because powers are random, the player cannot force the power to appear.
+The challenge is queued. The run serves its pool as always.
+
+When the power appears in a level up offer with a challenge queued, a new
+layer of decision surfaces alongside the usual three-way tension — take this
+power because the challenge is waiting, or take something the current build
+needs more. Player agency stays fully intact.
+
+STEP 5 — COMPLETE THE CHALLENGE
+The player completes the challenge mid-run. Success rewards power deepening —
+the power grows stronger in future runs. After reaching its deepening cap,
+subsequent completions reward temporary run boosts to that power's
+effectiveness instead.
+
+SPONSORSHIP AND WORLD TEXTURE:
+Heroes loosely vying for disciples is native to the Apex Chronicles world.
+The sponsorship isn't altruistic — it's reputation, legacy, and the quiet
+politics of a superhero community that existed long before this hero arrived.
+Rex Flynn covers sponsorship announcements with unhinged energy.
+
+MASTERY SCOPE BOUNDARIES:
+- Training Center — hero power deepening and sponsor challenges only
+- Class Mentor Buildings — class primary power advancement
+- Hero's Lair — combo discovery log
+These three buildings handle mastery between them. Their scopes do not
+overlap.
 
 DATE: May 6, 2026
 
-WHY: The Hades-style headquarters model contains build complexity while delivering narrative richness. Placing challenges in the run layer rather than the building preserves player agency — the run pool operates as always, and the queued challenge creates pull without mandate. Sponsor scaling with stage progression ensures earned moments feel earned rather than given. The three-building mastery split (Training Center, Class Mentor Buildings, Hero's Lair) keeps each system's scope clean and non-overlapping. Giving the Superhero Community channel mechanical function through sponsorship adds genuine stakes to an existing reward pillar beyond cosmetics.
+WHY: The Hades-style headquarters model contains build complexity while
+delivering narrative richness. Placing challenges in the run layer preserves
+player agency. Sponsor scaling with stage progression ensures earned moments
+feel earned. The three-building mastery split keeps each system's scope clean.
 
-REPLACES: All earlier Training Center and Gym entries. "Boxing Gym" and "Gym" as canonical building names are superseded. The Stage One physical form is a gym. The building is always the Training Center.
+REPLACES: All earlier Training Center and Gym entries. "Boxing Gym" and "Gym"
+as canonical building names are superseded. The Stage One physical form is a
+gym. The building is always the Training Center.
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Superhero Community Channel — Expanded Scope
+
+AMENDS: Feedback Channels — reward pillar definition (May 3, 2026)
+
+The Superhero Community channel's primary reward pillar remains player
+cosmetics. The channel additionally serves as the delivery mechanism for the
+hero power deepening sponsorship system:
+
+- Sponsor messages surface through this channel when a hero power is proven
+  in a run
+- The channel tracks discipleship — whose disciples are proving themselves,
+  whose aren't
+- Sponsorship announcements are world events the channel broadcasts
+- The community has opinions about mentors taking on unknown heroes and
+  expresses them through this channel
+
+The channel does two distinct jobs: cosmetics as primary reward pillar,
+sponsorship and discipleship tracking as mechanical function. These are
+parallel, not competing.
+
+DATE: May 6, 2026
+
+WHY: The Training Center hero power deepening system requires a delivery
+mechanism for sponsor messages. The Superhero Community channel is the natural
+and canonical home for this function. Expanding its scope here gives the
+channel mechanical teeth beyond cosmetics without displacing its primary
+reward function.
+
+REPLACES: Nothing — expands existing entry.
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Explorable City Buildings — Hades Headquarters Model
+
+The explorable buildings in Apex Chronicles follow the Hades headquarters
+model. Key principles:
+
+- Buildings are spaces that grow and reflect the player's run history
+- Mechanical action does not happen inside the buildings — it happens in runs
+- Buildings are atmosphere, narrative, and interface
+- Walking through a building at Stage Four tells the story of everything the
+  player has done across their full run record
+- New content surfaces in buildings between runs — messages, challenges
+  queued, sections activating — giving the player a reason to visit without
+  requiring them to manage systems there
+
+This model applies to the Training Center, the Hero's Lair, and any other
+explorable city building. The run is always where the story happens. The
+building is always where the story lives.
+
+DATE: May 6, 2026
+
+WHY: The Hades headquarters model was established informally during Training
+Center design but not captured canonically. This entry makes it load-bearing
+and applicable across all explorable city buildings.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Hero Power Deepening — Cap and Temporary Run Boost Mechanic
+
+The hero power deepening system has two phases:
+
+PHASE ONE — DEEPENING
+The player proves a power, accepts a sponsor challenge, completes it in a run.
+Each completion deepens that power — it grows stronger in future runs. This
+continues until the power reaches its deepening cap.
+
+PHASE TWO — TEMPORARY RUN BOOSTS
+After a power reaches its deepening cap, subsequent sponsor challenge
+completions for that power reward temporary run boosts to its effectiveness
+instead. The boost applies to the run in which the challenge is completed.
+It does not permanently alter the power beyond its cap.
+
+The cap exists to bound permanent power growth while keeping the sponsor
+challenge system engaging and rewarding indefinitely. Players who have
+maximized a power still have reason to take it in runs and engage with its
+sponsor challenge when it surfaces.
+
+DATE: May 6, 2026
+
+WHY: Without a cap, permanent power deepening becomes an unbounded progression
+system that could destabilize run balance over time. The temporary boost model
+keeps the challenge loop active and rewarding past the cap without compounding
+permanent power inflation.
+
+REPLACES: Nothing — new decision
+
+STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Stage Four Sponsor In-Person Visit
+
+In Stages Two and Three, sponsors communicate through messages, recorded
+briefings, and challenge uploads left at the Training Center. They do not
+appear in person. An established hero does not grace an unknown fledgling
+with a personal visit.
+
+In Stage Four, this dynamic may shift. A sponsor who has watched the player's
+career develop across dozens of runs — who has seen their challenges
+completed, their power mastered, their name recognized by the city — may
+eventually appear in person at the Training Center. This is an earned moment,
+not a given one. It requires sustained demonstrated mastery of that power
+across the full run record.
+
+The in-person visit is a narrative milestone, not a mechanical gate. It does
+not unlock new content. It is the world acknowledging who the player has
+become.
+
+DATE: May 6, 2026
+
+WHY: The sponsor relationship should feel like it develops over time — not a
+static delivery mechanism. The Stage Four in-person visit is the culmination
+of a relationship that started with a message left by someone who wasn't sure
+the hero was worth their time. By Stage Four they know. Scaling this to Stage
+Four ensures it feels earned and keeps early game expectations humble.
+
+REPLACES: Nothing — new decision
 
 STATUS: DRAFT
