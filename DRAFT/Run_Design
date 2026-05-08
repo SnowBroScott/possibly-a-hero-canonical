@@ -1,12 +1,12 @@
 RUN DESIGN
-Apex Chronicles | Canonical Run Mechanics Specification
+Possibly a Hero | Canonical Run Mechanics Specification
 STATUS: Draft
 
 ---
 
 1. FOUNDATIONAL CONTEXT
 
-Apex Chronicles is two games fused into one. The run is the action half. The
+Possibly a Hero is two games fused into one. The run is the action half. The
 city is the consequence half. Neither functions without the other — not
 thematically, not mechanically, not in how the player understands what they're
 doing or why it matters.
@@ -101,7 +101,7 @@ Reference hierarchy:
 
 4. COMBAT PHILOSOPHY
 
-Combat in Apex Chronicles is intentional. Nothing procs automatically. Nothing
+Combat in Possibly a Hero is intentional. Nothing procs automatically. Nothing
 kills enemies the player wasn't involved in killing.
 
 Powers are tools. Players aim them, time them, position them, and combine them
@@ -112,7 +112,7 @@ Only one reflects mastery.
 
 A skilled player with a mediocre power selection outperforms an unskilled
 player with a great one. This is a design commitment, not an aspiration.
-Mastery is real in Apex Chronicles and it is expressible. The game does not
+Mastery is real in Possibly a Hero and it is expressible. The game does not
 paper over player error with automatic output.
 
 Power selection at milestone (level up):
@@ -318,7 +318,7 @@ last run was the best one or the worst one in the record.
 CANONICAL DEPENDENCIES:
 
 Locked decisions this document draws from and must remain consistent with:
-- "Apex Chronicles is a superhero roguelite city-building game. Runs shape the
+- "Possibly a Hero is a superhero roguelite city-building game. Runs shape the
   city, the city shapes the runs." (LOCKED)
 - "Negative run outcomes affect the city atmospherically. Nothing is
   permanently lost. No progress is set back. No construction is reversed.
