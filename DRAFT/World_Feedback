@@ -1,0 +1,574 @@
+WORLD FEEDBACK
+Apex Chronicles — Canonical Specification
+
+STATUS: Draft
+
+
+────────────────────────────────────────
+1. FOUNDATIONAL PHILOSOPHY
+────────────────────────────────────────
+
+The city is watching.
+
+Not in a surveillance-state way. In a neighborhood way. The kind of watching
+where someone sees what happened on their block and has opinions about it by
+morning. The kind of watching where a twenty-three-year-old with a camera runs
+toward the explosion because it's going to perform incredibly well.
+
+The world of Apex Chronicles observes what the player does and responds to it.
+This is not a reward system with a feedback UI. There is no approval meter.
+There is no reputation bar. There is no popup that reads YOUR STANDING WITH
+THE CITIZENS HAS IMPROVED. There is a city that reacts the way cities actually
+react — unevenly, emotionally, with strongly held opinions that sometimes
+contradict each other entirely.
+
+Three channels carry that reaction. Each has a distinct voice, a distinct
+timescale, and a distinct relationship with the hero. Together they create the
+sensation that the city is inhabited — that the runs are happening somewhere
+real, to someone the world has decided it has feelings about.
+
+The feedback system is observational, not prescriptive. It notices patterns and
+reflects them back. It does not tell the player who to be. It tells the player
+who the world thinks they're becoming.
+
+Those are not the same thing. The tension between them is the point.
+
+
+────────────────────────────────────────
+2. THE THREE FEEDBACK CHANNELS
+────────────────────────────────────────
+
+──────────────
+CITIZENS
+──────────────
+
+Voice: Ground level. Personal. The kind of opinions that form over a cup of
+coffee about something that happened on the way to the coffee shop. Citizens
+saw something. They have a perspective on it. It is specific to their block,
+their building, their dog who will not stop barking about what happened last
+Tuesday.
+
+Citizens are warm toward the hero in a way the other channels are not — not
+because they're easy to please, but because they have a direct stake in what
+happens here. This is where they live. The hero kept something bad from
+happening, or didn't, and the neighborhood noticed either way.
+
+Timescale: Slow burn. Citizens do not post while the run is still happening.
+They process. They talk to each other. Opinion forms across patterns — not from
+a single moment, but from the accumulated weight of moments. A hero who
+consistently shows up for the neighborhood builds something real here. A hero
+who treats the block like a fast-travel waypoint on the way to the boss fight
+builds something else.
+
+Primary Reward Pillar: City aesthetics and development. Citizen channel
+engagement shapes how the city looks and feels as it develops across stages.
+Not the structural stage progression — that runs on its own track — but the
+lived-in quality of the city, the warmth or quiet of it, the way streets read
+as home or as somewhere abandoned.
+
+Name Emergence Register: Warm, local, affectionate. Based on what someone saw
+on their block. Occasionally based on a single moment that got retold enough
+times to stick. Never professional. Never editorial. Always personal to the
+point of embarrassing.
+
+The first citizen name is often something like "the one who stopped the thing."
+It gets more specific as morale builds. Citizens eventually start working in a
+descriptor — the neighborhood the hero keeps coming back to, the thing they kept
+doing, the moment everyone still talks about. Early citizen names are silly.
+This is correct. Players are expected to outgrow their first designation. The
+citizens will not be offended. They'll come up with another one.
+
+Secondary Functions: Morale tracking. City atmospheric response to run
+patterns. See Morale System (Section 5).
+
+
+──────────────────────
+SUPERHERO COMMUNITY
+──────────────────────
+
+Voice: Collective, credible, occasionally intimidating. This is the assembled
+signal of heroes who have been doing this longer than the player. They have
+standards. They have professional opinions. They do not hand out endorsements.
+They occasionally have invitations, and the player is expected to understand
+the weight of receiving one.
+
+The community does not react emotionally. It assesses. The hero proved
+something, or didn't. The pattern is consistent, or inconsistent. The community
+has seen a thousand first runs and it knows what they usually mean. It is not
+unkind. It is accurate.
+
+Timescale: Mid-range. Individual runs register. Sustained behavior defines
+reputation. The community is building a picture of the hero across the full run
+record. A single exceptional run lands as data. Twenty exceptional runs land as
+a conclusion.
+
+Primary Reward Pillar: Player cosmetics. The community shapes how the hero
+looks — the visual expression of peer recognition. Cosmetic rewards through
+this channel represent the hero earning the right to look the part.
+
+Name Emergence Register: Peer/professional. Names from the Superhero Community
+carry weight and credibility. They are the names that follow a hero into rooms
+full of other heroes. They imply demonstrated capability — not a viral moment,
+not a neighborhood nickname, but a pattern the community tracked and decided
+deserved a designation. These names travel.
+
+Secondary Functions:
+
+Hero power deepening sponsorship. When a player proves a hero power in a run —
+discovers it, uses it, completes a run with it active — a Superhero Community
+message surfaces from a thematically matched sponsor hero. A Storm-equivalent
+for Tempest. A Banshee-equivalent for Sonic Scream. The message is
+personalized. The invitation is to find what the sponsor left at the Training
+Center's newly activated section.
+
+Sponsor presence scales with stage progression. In Stages Two and Three, the
+sponsor leaves something — a message, a recorded briefing, a challenge upload.
+They do not appear in person. An established hero does not grace an unknown
+fledgling with a personal visit. In Stage Four, this dynamic may shift. A
+sponsor who has watched the player's career develop across dozens of runs, who
+has seen their challenges completed and their name recognized by the city, may
+eventually show up. That is an earned moment, not a given one.
+
+The community tracks discipleship publicly — whose disciples are proving
+themselves, whose aren't. Sponsorship announcements are world events the
+channel broadcasts. The community has opinions about mentors taking on unknown
+heroes and expresses them through this channel. Rex Flynn has opinions about
+those opinions. The community does not respond to Rex Flynn directly. This also
+tells the player something.
+
+
+────────────────────────
+REX FLYNN / EXPOSED
+────────────────────────
+
+Voice: Male, early-to-mid twenties, loud, confident in direct proportion to
+his incorrectness. Rex Flynn runs Exposed. He did not plan to become the
+primary media voice covering an actual superhero. He planned to cover content
+that performed. A superhero performing heroic acts in a city that was visibly
+dying turned out to perform extremely well. Rex adapted.
+
+Rex has no fixed ideological position. This is a feature. His lack of a
+position makes him more dangerous than a consistent critic would be — there is
+no angle to anticipate, no position to predict, no stable ground to stand on in
+relation to him. He is capable of defending the hero to the death in one video
+and questioning everything about them in the next if the algorithm supports it.
+He has never admitted to being wrong. He has, on five separate occasions,
+deleted videos without comment. The comments on the deletion notices have more
+views than most of the deleted videos.
+
+He is also, by accident, occasionally right. Usually while reaching for
+something else entirely.
+
+Platform — Two Registers:
+
+TikTok / Exposed Shorts: Three sentences maximum. Punchy. Immediate. Usually a
+hot take delivered with the confidence of someone who has not thought about it
+very long. Often wrong in specific and entertaining ways. The comment section
+agrees with him violently.
+
+YouTube / Exposed Long-Form: Unhinged. Sprawling. Rex has opinions that take
+forty minutes to fully express and are never fully expressed. The thumbnail
+involves an expression Rex made while genuinely surprised. The comments are a
+disaster. The video has twelve million views. Rex has never re-watched it.
+
+Timescale: Immediate. Rex reacts to single runs, single moments, single
+choices. He does not wait for patterns. He does not build to conclusions. He
+posts while the run is still happening if the algorithm suggests it. Rex's
+timescale is the opposite of the city's — where the city shifts slowly across
+patterns, Rex shifts constantly within moments. This is not a flaw. This is
+his function.
+
+Primary Reward Pillar: Run modifier unlocks. Rex publicly demands the hero
+complete specific challenges — arbitrary tests framed with the logic of someone
+who has thought about engagement optimization and nothing else. The challenges
+are justified by reasoning that only makes sense within the context of Rex's
+channel. They are not balanced challenges. They are content challenges. Rex
+wants to see something happen because it would be interesting to film. The hero
+completing a Rex challenge unlocks the run modifier Rex was demanding. The
+modifier then shapes future runs. Rex takes credit for this.
+
+Name Emergence Register: Editorial, chaotic, meme-driven, viral-optimized.
+Rex names based on the clip. Whatever thumbnail worked. Whatever moment the
+algorithm pushed before Rex fully processed what he was watching. Rex names are
+meme-adjacent. They are accurate in the way a meme is accurate — capturing
+something real through an unflattering lens. They are the silliest names of all
+three channels, and they tend to stick longer than the hero would prefer.
+Adopting a Rex name tells the world something specific about the kind of hero
+this player has decided to be.
+
+Secondary Functions: Rex covers everything. Mentor introductions. Sponsorship
+announcements. Minor objective moments that happened to be filmed, or that Rex
+reconstructed from secondhand accounts and his own imagination. Area boss
+defeats. He was there, or he found the footage, or the footage found him. Rex
+is everywhere the algorithm says to be, and the algorithm says to be everywhere
+the hero is.
+
+
+────────────────────────────────────────
+3. HOW THE CHANNELS INTERACT
+────────────────────────────────────────
+
+The three channels operate in parallel, not in sequence and not in competition.
+A single run generates reactions across all three simultaneously. The reactions
+do not agree.
+
+A mugging stopped on the way to a boss fight generates:
+- A morale lift in that neighborhood. Citizens in a three-block radius noticed.
+  The person involved told someone. Word traveled the way word travels in a
+  neighborhood.
+- A Rex Flynn short, if he was nearby, or if the clip reached him. The
+  thumbnail is the hero mid-motion. The caption asks a question Rex will not
+  fully answer. Four hundred thousand views by morning.
+- A note in the Superhero Community's running assessment. Pattern recognition.
+  The hero keeps doing this on the way to objectives. The community has a word
+  for heroes who do that. Whether the word is complimentary depends on the
+  community member.
+
+These reactions do not align. Citizens may love what Rex is using as a
+punchline. The Superhero Community may respect what Rex made into content. Rex
+may mock what citizens consider a defining moment for their block. The community
+may assess what the citizens found terrifying as technically sound but
+tactically questionable.
+
+The disagreement is the world feeling real.
+
+The player navigates all three simultaneously — not by managing them, but by
+playing. The channels react to what the player does. They are not systems to
+optimize. They are audiences to ignore or perform for, as the player chooses.
+Some players will care enormously about what the community thinks. Some will
+play entirely for Rex's reaction. Some will play for the neighborhood and ignore
+the rest. The game does not judge the choice. It just shows the player what
+each choice produces.
+
+
+────────────────────────────────────────
+4. NAME EMERGENCE
+────────────────────────────────────────
+
+Players begin without a superhero name. The absence is intentional and
+motivating. The name is what the world decides to call the hero based on what
+they actually did — not what the hero declared themselves to be.
+
+Core Mechanics:
+
+Names emerge from all three channels as conditions develop — morale state,
+reputation level, run patterns, channel engagement. A name never surfaces
+before its time. The right pattern has to have played out. The right audience
+has to have been watching.
+
+Once a name surfaces, it is permanently available. It never expires. New
+options layer on top of old ones as the player's run record builds. The player
+chooses which name to adopt from those that have emerged. They are never
+assigned a name.
+
+Adopting a name is an act. The world reacts to it. Rex has opinions on every
+possible choice and expresses them within the week. Citizens react to the
+adopted name differently depending on whether it came from them or from
+somewhere else. The community has a read on what the choice implies about the
+hero's self-perception. None of these reactions gate mechanical content. They
+are the world responding to a decision.
+
+When Names Surface:
+
+Early names skew silly. This is by design. The hero has not done enough yet to
+earn a serious designation. The city is naming them based on what little it
+knows, filtered through whichever channel saw it first.
+
+Minor objectives are the single most natural source of early name emergence.
+Citizens name the hero based on patterns of incidental heroism before any
+formal mission is completed. The first name often comes from a citizen who saw
+something happen on their block three times and decided the hero needed a name
+for what they kept doing. That name is usually not the name the hero would have
+chosen. That is correct.
+
+Name Registers by Channel:
+
+Citizens: What happened on their street. First names are often referential —
+the incident, the location, the repeated behavior. "The one who keeps showing
+up on Maple" becomes "Maple Street's person" becomes something with genuine
+warmth once the morale is high enough. Citizens are not trying to name a
+legend. They're naming someone they recognize.
+
+Superhero Community: Pattern recognition across the run record. These names
+imply capability. They carry weight because the people assigning them have
+credibility. A community-sourced name follows the hero into rooms full of
+people who understand what it means. These names are the ones that end up on
+the wiki pages of future superhero generations trying to understand what this
+hero was.
+
+Rex Flynn: Whatever the clip was. Whatever the thumbnail captured. Whatever
+moment Rex decided was the story. Rex names are embarrassing in the best
+possible way. Adopting one is a statement. Some players adopt Rex names
+immediately and commit to the bit. The community has thoughts about this.
+
+
+────────────────────────────────────────
+5. MORALE SYSTEM
+────────────────────────────────────────
+
+Morale is the city's relationship with the hero made visible. Not a number.
+Not a bar. A temperature. The city feels warmer or colder depending on the
+pattern of runs, and the player feels the difference in the environment rather
+than reading it on a screen.
+
+What Drives Morale:
+
+Escort defense missions are the primary driver. Protecting people directly —
+putting the hero between citizens and something that wants to hurt them —
+builds morale faster than anything else. It is the most direct possible
+expression of the relationship between the hero and the city they're supposedly
+protecting.
+
+Minor objective engagement also contributes. A hero who consistently addresses
+situations in the neighborhood, even incidentally, builds morale in specific
+areas. The city doesn't average this out. A hero who ignores their home block
+but completes missions across town registers that disparity.
+
+What Morale Produces:
+
+A small XP multiplier for runs. High morale makes the city a slightly more
+generous training environment — not dramatically, not in a way that breaks run
+balance, but in a way that communicates the city is pulling for the hero.
+Low morale doesn't punish. It just doesn't help.
+
+City cosmetic rewards. Morale shapes how the city looks as it recovers —
+distinct from stage progression. Stage progression is structural. Morale is
+warmth. A city at high morale looks lived-in and cared for. A city at low
+morale looks like it's waiting to see what happens next.
+
+Citizen name emergence. The citizen channel's name emergence is specifically
+tied to morale state. High morale surfaces names. Low morale doesn't — not
+because the citizens are withholding, but because they haven't made up their
+minds yet. The neighborhood names the hero when it trusts the hero. That trust
+is built through patterns, not declarations.
+
+Morale Timescale:
+
+Slower than Rex Flynn. Faster than stage progression. A streak of escort
+defense completions builds morale meaningfully over several runs. A streak of
+ignoring escort opportunities lets it drift over the same window.
+
+Morale never crashes to zero permanently. It never stays low permanently. The
+city recovers. The hero keeps going. This is consequence without punishment —
+the player feels the weight of neglect without being set back in ways that
+damage the long-term investment.
+
+Morale in the Run Environment:
+
+High morale: Citizens visible, active, warm. Streets feel inhabited. The run
+map reads as a place people live rather than a map cleared for combat.
+
+Low morale: Citizens pull indoors. The city feels quieter. Colder. The hero
+runs through spaces that feel like they're waiting for something better to
+happen. No morale number appears on screen. The player feels the difference.
+
+
+────────────────────────────────────────
+6. MINOR OBJECTIVES AS WORLD SIGNAL
+────────────────────────────────────────
+
+Minor objectives — muggings, citizens in danger, environmental incidents,
+situations that are not missions but are very much happening — are how the
+world signals that it's alive between formal objectives. They are not assigned.
+They are not tracked as quest markers. They appear because the city is a place
+and things happen in places.
+
+Outputs on Engagement:
+- XP — feeds the same milestone-based power selection system as combat XP.
+  More minor objectives completed means more power selection opportunities
+  within a run.
+- Morale — builds in the area where the engagement happened.
+- Recognition — registers in the Superhero Community's running assessment.
+- Clickbait — Rex Flynn channel signal. Rex may or may not have been there.
+  Rex may or may not have footage. Rex will have an opinion regardless.
+
+The World Reacts to Non-Engagement Too:
+
+Non-engagement is a pattern the city notices. Morale in that neighborhood holds
+or dips slightly. Rex may have filmed the non-engagement if the inaction
+performed better than the alternative. The community notes what the hero
+prioritized. Nobody sends a message about it. Nobody says anything directly.
+The city just gets a little colder in that block, and the player feels it the
+next time they run through.
+
+Minor objectives are the single most natural source of early name emergence.
+Formal missions complete objectives. Minor objectives reveal character. The
+first citizen name almost always comes from a minor objective — something the
+hero did incidentally, without being asked, in a neighborhood that noticed.
+
+
+────────────────────────────────────────
+7. REX FLYNN — DETAILED CHARACTER SPECIFICATION
+────────────────────────────────────────
+
+Rex Flynn built Exposed on the premise that attention is the only currency that
+matters and he is very good at acquiring it. He was covering local outrage
+content when the hero showed up. He pivoted. The channel exploded.
+
+Rex did not plan to become the defining media voice of a superhero's emergence.
+He planned to cover whatever performed. An actual superhero performing actual
+heroics in a city that was visibly, cinematically dying performed better than
+anything he had ever covered. Rex is many things. Slow to adapt is not one
+of them.
+
+Character Specifics:
+
+Rex is in his early-to-mid twenties and operates with the confidence of someone
+who has been told he is right so many times by the comment section that the
+concept of being wrong has become somewhat abstract to him. He is loud. He is
+immediate. He is capable of genuine insight by accident, usually while reaching
+for something more sensational. He has never admitted to being wrong. He has,
+on five separate occasions, deleted videos without comment. The comments on the
+deletion notices have more views than most of the deleted videos.
+
+He has no fixed position on the hero. The hero is content. The hero performs.
+Rex will defend the hero against coordinated criticism in one video and be the
+source of coordinated criticism in the next if the algorithm supports it. This
+is not cynicism. Rex does not experience what he does as cynical. Rex
+experiences what he does as honest — he honestly reports what performs, and
+what performs reflects what people honestly care about. He has constructed a
+philosophy around this that he has explained on multiple long-form videos and
+that does not survive close examination.
+
+Rex and Modifiers:
+
+Rex's primary mechanical function is generating run modifier unlocks. He
+publicly demands the hero complete specific challenges. The framing is always a
+test of character. The logic is always traceable back to engagement optimization
+if you pull the thread. The hero cannot argue with him. The hero can only
+complete the challenge or not, and the city reacts to both.
+
+Rex modifiers are arbitrary by design. Rex is not designing fair tests. Rex is
+designing content. If the modifier makes for a memorable run that he can cover,
+the modifier is a success regardless of whether it was a reasonable constraint.
+The challenge is always something Rex could frame as the hero making an effort
+— or making an excuse not to.
+
+Rex and World Events:
+
+Rex covers everything. Mentor introductions get a fifteen-minute video with a
+clickbait title that nonetheless contains three accurate observations buried in
+the middle. Sponsorship announcements get a breakdown of the community politics
+Rex barely understands and a hot take about what it means that is approximately
+forty percent accurate. Area boss defeats get same-day coverage. Rex was there,
+or Rex found the footage, or Rex built a twenty-minute video around secondhand
+accounts and his own speculation about what it must have felt like. Rex is
+everywhere the algorithm says to be. The algorithm says to be wherever the
+hero is.
+
+
+────────────────────────────────────────
+8. WORLD FEEDBACK ACROSS CITY STAGES
+────────────────────────────────────────
+
+The feedback system operates across all four stages, but its character shifts
+as the city develops and the hero's reputation grows.
+
+Stage One — Rundown:
+
+The world barely knows the hero exists. Citizens are cautious — not unfriendly,
+but not yet invested. Rex has footage but his angle is still forming. The
+Superhero Community has noted the new arrival and reserved judgment in the way
+the community always reserves judgment: completely, and with the quiet weight
+of people who have seen new arrivals before.
+
+Name emergence is unlikely in Stage One. The hero hasn't done enough yet. The
+absence of a name is felt. It is supposed to be.
+
+Stage Two — Developing:
+
+The world is paying attention. Citizens have opinions now — actual opinions,
+based on actual patterns they've observed. Rex has found his angle and is
+running with it. The Superhero Community has a preliminary read and the first
+sponsorship messages are beginning to surface. First names are likely emerging.
+The hero is becoming someone the city can describe.
+
+Stage Three — Refined:
+
+The world has a position. Citizens have a relationship with the hero — something
+built across enough patterns that it doesn't require active maintenance to
+sustain. Rex has a narrative he returns to, a frame he applies to the hero, an
+established angle the comment section either loves or disputes loudly. The
+community has made formal assessments. The hero's name is known. The question
+at this stage is which name.
+
+Stage Four — Modern:
+
+The hero is a civic institution. Citizens take the hero's presence for granted
+in the way cities take their defining features for granted — not with
+indifference, but with the deep familiarity of something that has been woven
+into the neighborhood for long enough that imagining the city without it
+requires effort.
+
+Rex has built a partial media empire on covering this one hero. The hero is
+Rex's most consistent content. Rex would not admit this matters to him. Rex
+does not examine what matters to him. Rex posts.
+
+The Superhero Community has fully integrated the hero into its collective
+reputation. Sponsors who spent Stages Two and Three communicating through
+recorded messages and Training Center uploads may appear in person now. The
+name is permanent. The question is whether the hero still identifies with the
+name they adopted first, or whether they've earned something better since.
+
+
+────────────────────────────────────────
+9. NON-NEGOTIABLE CONSTRAINTS
+────────────────────────────────────────
+
+The following constraints are load-bearing for every system this document
+specifies. They do not flex.
+
+The feedback system observes and reflects. It does not prescribe who the player
+should be. The world notices. The world has opinions. The world does not issue
+directives.
+
+Names are never assigned. They emerge from the world and are chosen by the
+player. Once surfaced, a name never expires. The player may outgrow it. The
+name remains available anyway.
+
+Early names skew silly. This is intentional. The hero hasn't earned serious
+designations yet. The world is naming based on what little it knows. This is
+correct.
+
+Rex Flynn has no fixed position. On the hero. On anything. Ever. A Rex who
+maintains a stable position is not Rex Flynn.
+
+The three channels do not agree with each other. The disagreement is the world
+feeling real. A feedback system where all three channels converge on the same
+read is a feedback system that feels like a UI, not a city.
+
+Minor objectives are opportunities. They are not assignments. The world reacts
+to engagement and non-engagement alike. Neither reaction is a punishment. Both
+are the city being honest about what it noticed.
+
+Morale follows consequence without punishment. It never crashes permanently. It
+always recovers. The city always recovers. The hero keeps going.
+
+
+────────────────────────────────────────
+CANONICAL DEPENDENCIES
+────────────────────────────────────────
+
+- Three feedback channels and reward pillars — DRAFT, May 3, 2026
+- Rex Flynn / Exposed character establishment — DRAFT, May 3, 2026
+- Superhero name emergence, three sources — DRAFT, May 3, 2026
+- City reacts to run patterns — DRAFT, May 3, 2026
+- Negative run outcomes affect city atmospherically, nothing permanently lost
+  — LOCKED, May 3, 2026
+- Camera and Combat Model — minor objectives — DRAFT, May 5, 2026
+- Amendment — minor objective outputs including XP — DRAFT, May 6, 2026
+- Superhero Community Channel — expanded scope — DRAFT, May 6, 2026
+- Training Center — complete system definition — DRAFT, May 6, 2026
+- Stage Four Sponsor In-Person Visit — DRAFT, May 6, 2026
+- Explorable city buildings — Hades headquarters model — DRAFT, May 6, 2026
+
+
+────────────────────────────────────────
+RECOMMENDED NEXT STEP
+────────────────────────────────────────
+
+Recommend Cross-System Auditor before Canon Guard. This document touches the
+Training Center deepening system, the run output structure (XP, Morale,
+Recognition, Clickbait), the name emergence system, and the morale/city
+aesthetics system. Cross-system consistency check across Run_Design,
+City_Layer, and Class_System is warranted before Canon Guard locks.
