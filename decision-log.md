@@ -1481,3 +1481,60 @@ and Per-Neighborhood Geography entry (May 8, 2026). City-wide morale
 supersedes neighborhood-level morale tracking.
 
 STATUS: DRAFT
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The game's full title is Possibly a Hero. The working 
+shorthand within the design pipeline is Hero. All prior references 
+to Apex Chronicles and Apex as the working title are superseded 
+by this entry.
+
+DATE: May 8, 2026
+
+WHY: Apex Chronicles was retired on two grounds. First, genre 
+confusion — Apex Legends occupies the word Apex in gaming culture 
+regardless of genre distinction, diluting any brand impact the 
+title could establish. Second, and more importantly, the name did 
+not reflect the register the game actually lives in.
+
+Possibly a Hero was selected through a naming exploration that 
+tested arc-register names, act-register names, comic-native names, 
+humorous names, and single-word options. Possibly a Hero emerged 
+as the name that most accurately communicates the emotional premise 
+of the game — an unnamed, unproven hero arriving in a city that 
+hasn't decided about them yet — while carrying the humor and 
+lightness that is native to the game's tone.
+
+Three factors confirmed the decision:
+
+1. Visual identity alignment — the shadow logo concept (civilian 
+figure casting a superhero shadow) was already in use in the 
+designer's personal brand before this game existed. The name and 
+the visual language arrived at the same place independently.
+
+2. Non-gamer accessibility — the title communicates the full 
+emotional premise of the game without genre knowledge required. 
+Tested immediately with a non-gamer who connected with it 
+instinctively.
+
+3. Register commitment — Possibly a Hero is a deliberate and 
+conscious choice to name the game from a position of vulnerability 
+and humor rather than authority and aspiration. This is a 
+design-level decision about what the game is, not just what it 
+is called. The name serves as a standing commitment to the game's 
+tone and a check against pretension in future design decisions. 
+When a decision feels too serious for a game called Possibly a 
+Hero, that is useful information.
+
+The working shorthand "Hero" functions cleanly in development 
+conversation — "how's Hero coming," "Project Hero" — without 
+the acronym problems of the full title.
+
+REPLACES: "The game's full title is Apex Chronicles. Working 
+designation within the design pipeline is Apex." — STATUS: LOCKED. 
+That entry is hereby superseded and should be treated as 
+DEPRECATED.
+
+STATUS: LOCKED
