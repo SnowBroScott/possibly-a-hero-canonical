@@ -114,12 +114,14 @@ deserved a designation. These names travel.
 
 Secondary Functions:
 
-Hero power deepening sponsorship. When a player proves a hero power in a run —
-discovers it, uses it, completes a run with it active — a Superhero Community
-message surfaces from a thematically matched sponsor hero. A Storm-equivalent
-for Tempest. A Banshee-equivalent for Sonic Scream. The message is
-personalized. The invitation is to find what the sponsor left at the Training
-Center's newly activated section.
+Hero power deepening sponsorship. A power is proven when three conditions are
+met in a single run: the power appears randomly in the run's milestone
+offering, the player selects it, and the player successfully completes a
+main mission in that run. When all three conditions are met, a Superhero
+Community message surfaces from a thematically matched sponsor hero. A
+Storm-equivalent for Tempest. A Banshee-equivalent for Sonic Scream. The
+message is personalized. The invitation is to find what the sponsor left at
+the Training Center's newly activated section.
 
 Sponsor presence scales with stage progression. In Stages Two and Three, the
 sponsor leaves something — a message, a recorded briefing, a challenge upload.
@@ -213,9 +215,8 @@ A single run generates reactions across all three simultaneously. The reactions
 do not agree.
 
 A mugging stopped on the way to a boss fight generates:
-- A morale lift in that neighborhood. Citizens in a three-block radius noticed.
-  The person involved told someone. Word traveled the way word travels in a
-  neighborhood.
+- A morale lift in that area. Citizens nearby noticed. The person involved
+  told someone. Word traveled the way word travels in a neighborhood.
 - A Rex Flynn short, if he was nearby, or if the clip reached him. The
   thumbnail is the hero mid-motion. The caption asks a question Rex will not
   fully answer. Four hundred thousand views by morning.
@@ -283,23 +284,24 @@ chosen. That is correct.
 
 Name Registers by Channel:
 
-Citizens: What happened on their street. First names are often referential —
-the incident, the location, the repeated behavior. "The one who keeps showing
-up on Maple" becomes "Maple Street's person" becomes something with genuine
-warmth once the morale is high enough. Citizens are not trying to name a
-legend. They're naming someone they recognize.
+Citizens: Warm, local, affectionate. What happened on their street. First
+names are often referential — the incident, the location, the repeated
+behavior. "The one who keeps showing up on Maple" becomes "Maple Street's
+person" becomes something with genuine warmth once the morale is high enough.
+Citizens are not trying to name a legend. They're naming someone they recognize.
 
-Superhero Community: Pattern recognition across the run record. These names
-imply capability. They carry weight because the people assigning them have
-credibility. A community-sourced name follows the hero into rooms full of
-people who understand what it means. These names are the ones that end up on
-the wiki pages of future superhero generations trying to understand what this
-hero was.
+Superhero Community: Peer/professional. Pattern recognition across the run
+record. These names imply capability. They carry weight because the people
+assigning them have credibility. A community-sourced name follows the hero into
+rooms full of people who understand what it means. These names are the ones
+that end up on the wiki pages of future superhero generations trying to
+understand what this hero was.
 
-Rex Flynn: Whatever the clip was. Whatever the thumbnail captured. Whatever
-moment Rex decided was the story. Rex names are embarrassing in the best
-possible way. Adopting one is a statement. Some players adopt Rex names
-immediately and commit to the bit. The community has thoughts about this.
+Rex Flynn: Editorial, chaotic, meme-driven, viral-optimized. Whatever the clip
+was. Whatever the thumbnail captured. Whatever moment Rex decided was the
+story. Rex names are embarrassing in the best possible way. Adopting one is a
+statement. Some players adopt Rex names immediately and commit to the bit. The
+community has thoughts about this.
 
 
 ────────────────────────────────────────
@@ -311,6 +313,10 @@ Not a bar. A temperature. The city feels warmer or colder depending on the
 pattern of runs, and the player feels the difference in the environment rather
 than reading it on a screen.
 
+Morale is city-wide. There are no district-level morale states. The player
+experiences one morale state that reflects the city's overall relationship with
+the hero across the run record.
+
 What Drives Morale:
 
 Escort defense missions are the primary driver. Protecting people directly —
@@ -320,9 +326,8 @@ expression of the relationship between the hero and the city they're supposedly
 protecting.
 
 Minor objective engagement also contributes. A hero who consistently addresses
-situations in the neighborhood, even incidentally, builds morale in specific
-areas. The city doesn't average this out. A hero who ignores their home block
-but completes missions across town registers that disparity.
+situations in the city, even incidentally, builds morale. The city notices the
+pattern.
 
 What Morale Produces:
 
@@ -339,8 +344,8 @@ morale looks like it's waiting to see what happens next.
 Citizen name emergence. The citizen channel's name emergence is specifically
 tied to morale state. High morale surfaces names. Low morale doesn't — not
 because the citizens are withholding, but because they haven't made up their
-minds yet. The neighborhood names the hero when it trusts the hero. That trust
-is built through patterns, not declarations.
+minds yet. The city names the hero when it trusts the hero. That trust is
+built through patterns, not declarations.
 
 Morale Timescale:
 
@@ -377,24 +382,26 @@ Outputs on Engagement:
 - XP — feeds the same milestone-based power selection system as combat XP.
   More minor objectives completed means more power selection opportunities
   within a run.
-- Morale — builds in the area where the engagement happened.
+- Hero Points — guaranteed drop at 100% rate. Rewards meaningfully more
+  than a single mob drop. Full carry between runs regardless of outcome.
+- Morale — builds city-wide morale. The city notices the pattern of
+  engagement across the run record.
 - Recognition — registers in the Superhero Community's running assessment.
 - Clickbait — Rex Flynn channel signal. Rex may or may not have been there.
   Rex may or may not have footage. Rex will have an opinion regardless.
 
 The World Reacts to Non-Engagement Too:
 
-Non-engagement is a pattern the city notices. Morale in that neighborhood holds
-or dips slightly. Rex may have filmed the non-engagement if the inaction
-performed better than the alternative. The community notes what the hero
-prioritized. Nobody sends a message about it. Nobody says anything directly.
-The city just gets a little colder in that block, and the player feels it the
-next time they run through.
+Non-engagement is a pattern the city notices. Morale holds or dips slightly.
+Rex may have filmed the non-engagement if the inaction performed better than
+the alternative. The community notes what the hero prioritized. Nobody sends a
+message about it. Nobody says anything directly. The city just gets a little
+colder, and the player feels it the next time they run through.
 
 Minor objectives are the single most natural source of early name emergence.
 Formal missions complete objectives. Minor objectives reveal character. The
 first citizen name almost always comes from a minor objective — something the
-hero did incidentally, without being asked, in a neighborhood that noticed.
+hero did incidentally, without being asked, in a city that noticed.
 
 
 ────────────────────────────────────────
@@ -472,10 +479,10 @@ Superhero Community has noted the new arrival and reserved judgment in the way
 the community always reserves judgment: completely, and with the quiet weight
 of people who have seen new arrivals before.
 
-Name emergence in Stage One comes primarily through minor objectives — patterns 
-of incidental heroism that citizens notice before any formal mission is completed. 
-These names surface early and skew silliest of all. The hero is unknown and the 
-names reflect that.
+Name emergence in Stage One comes primarily through minor objectives — patterns
+of incidental heroism that citizens notice before any formal mission is
+completed. These names surface early and skew silliest of all. The hero is
+unknown and the names reflect that.
 
 Stage Two — Developing:
 
@@ -543,8 +550,10 @@ Minor objectives are opportunities. They are not assignments. The world reacts
 to engagement and non-engagement alike. Neither reaction is a punishment. Both
 are the city being honest about what it noticed.
 
-Morale follows consequence without punishment. It never crashes permanently. It
-always recovers. The city always recovers. The hero keeps going.
+Morale is city-wide. There are no district-level morale states. The player
+experiences one morale temperature reflecting the city's overall relationship
+with the hero. Morale follows consequence without punishment — it never crashes
+permanently, it always recovers.
 
 
 ────────────────────────────────────────
@@ -563,6 +572,9 @@ CANONICAL DEPENDENCIES
 - Training Center — complete system definition — DRAFT, May 6, 2026
 - Stage Four Sponsor In-Person Visit — DRAFT, May 6, 2026
 - Explorable city buildings — Hades headquarters model — DRAFT, May 6, 2026
+- Power Proving — Three-Condition Definition — DRAFT, May 8, 2026
+- Hero Points Currency System — DRAFT, May 8, 2026
+- Morale — XP Multiplier and City-Wide Scope — DRAFT, May 8, 2026
 
 
 ────────────────────────────────────────
@@ -570,7 +582,7 @@ RECOMMENDED NEXT STEP
 ────────────────────────────────────────
 
 Recommend Cross-System Auditor before Canon Guard. This document touches the
-Training Center deepening system, the run output structure (XP, Morale,
-Recognition, Clickbait), the name emergence system, and the morale/city
-aesthetics system. Cross-system consistency check across Run_Design,
-City_Layer, and Class_System is warranted before Canon Guard locks.
+Training Center deepening system, the run output structure (XP, Hero Points,
+Morale, Recognition, Clickbait), the name emergence system, and the
+morale/city aesthetics system. Cross-system consistency check across
+Run_Design, City_Layer, and Class_System is warranted before Canon Guard locks.
