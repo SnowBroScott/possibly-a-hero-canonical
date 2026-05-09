@@ -419,9 +419,3 @@ CANONICAL DEPENDENCIES:
 - Power Proving — Three-Condition Definition (DRAFT, May 8, 2026)
 - Morale — XP Multiplier and City-Wide Scope (DRAFT, May 8, 2026)
 
-PIPELINE NOTE FOR CANON GUARD:
-Fetch decision log from:
-https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/decision-log.md
-The manifest URL is serving a cached outdated version.
-
-STATUS: DRAFT
