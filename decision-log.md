@@ -389,7 +389,7 @@ book format of the player's story being written run by run.
 
 REPLACES: Nothing — new decision
 
-STATUS: LOCKED
+STATUS: DEPRECATED
 
 ---
 
