@@ -1538,3 +1538,82 @@ That entry is hereby superseded and should be treated as
 DEPRECATED.
 
 STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Mission locations spawn at the Act Two reveal (five-minute mark),
+not at run start. Each mission spawns outside the hero's current proximity
+trigger radius — guaranteed safe distance at spawn. From that moment, missions
+are live and triggerable by player movement. No mission can be triggered
+during the prep period. No mission can blindside the player at the moment
+of reveal.
+
+DATE: May 9, 2026
+
+WHY: The previous model allowed mission locations to exist on the map during
+the prep period, triggerable by proximity. Playtesting instinct identified
+this as a "feels bad man" moment — a consequence-without-punishment violation
+dressed up as emergent gameplay. The fix preserves tension during the prep
+period through enemies and minor objectives while ensuring mission triggers
+are always a result of player choice and movement, not accidental discovery.
+Proximity placement at spawn means the close mission creates immediate
+strategic tension at reveal without being an ambush.
+
+REPLACES: Run Time Structure — Act One stumble mechanic language
+
+STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The fifteen-minute forced commitment gate is correct and intentional.
+It is a hard gate, not a soft clock. Failure to commit to at least one mission
+at fifteen minutes results in run failure. The mission itself has no hard
+timer. The twenty-minute figure is the natural rhythm of a well-executed
+minimum run, not a death clock.
+
+DATE: May 9, 2026
+
+WHY: The forced commitment gate is the game asking the question the whole run
+was building toward — "you've been building, now what are you going to do
+with it?" Not committing is not a neutral choice in a game about becoming a
+hero. It is a refusal to be the thing the game is about. The gate is not a
+penalty. It is the point. Document language should reflect this framing
+rather than hedging between soft and hard clock language.
+
+REPLACES: Run Time Structure — soft clock framing language in Act Three
+
+STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: All three missions are completable within a single run. Run
+completion tiers are: minimum success (one mission complete), exceptional
+(two missions complete), perfect (three missions complete). The forced
+commitment gate at fifteen minutes is the minimum commitment threshold —
+the player must attempt at least one. The run ends on extraction or time
+expiry. Mission outputs stack — a perfect run feeds all three city systems
+simultaneously. Mission priority is a player-driven strategic decision
+tied to their own progression goals.
+
+DATE: May 9, 2026
+
+WHY: The previous model forced an either/or choice at the moment the game
+asks the player to be a hero — philosophically backwards. A hero doesn't
+triage the city and abandon two thirds of it by design. The new model
+preserves the forced commitment gate while expanding what commitment means.
+Players who need intel prioritize Horde Survival. Players who need resources
+hit the Boss Fight first. The city provides the context, the run provides
+the opportunity, and sequencing three real missions under time pressure is
+genuinely the player's to figure out. The "feels bad man" of leaving citizens
+or villains unaddressed dissolves — the player ran out of time, not out of
+options.
+
+REPLACES: Run structure — single mission completion as run end condition
+
+STATUS: LOCKED
