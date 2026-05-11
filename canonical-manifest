@@ -2,7 +2,7 @@
 
 *Single source of truth for all pipeline documents*
 
-Last updated: May 8, 2026
+Last updated: May 11, 2026
 
 ---
 
@@ -12,7 +12,7 @@ Every agent fetches this manifest before doing any work.
 
 1. Locate the document needed and confirm its status.
 
-2. Fetch the document using the blob URL listed below.
+2. Fetch the document using the raw URL listed below.
 
 3. Confirm the fetch before beginning any work.
 
@@ -26,10 +26,15 @@ Every agent fetches this manifest before doing any work.
 
 ## Fetch Protocol Note
 
-All document URLs in this manifest use GitHub blob URLs rather than raw CDN
-URLs. Blob URLs serve live content directly from the repository. Raw CDN URLs
-are subject to caching delays that can serve stale content. Always use the
-blob URLs listed here.
+All document URLs in this manifest use raw GitHub URLs. Fetch each
+document directly using the raw URL listed below.
+
+GitHub CDN caching is inconsistent regardless of URL format — both
+raw and blob URLs can serve stale content. After fetching any
+document, verify it is current by checking the last entry or section
+against known project state. If the content appears out of date,
+do not proceed. Request a manual paste from the designer instead.
+Manual paste is authoritative. Never fall back to memory.
 
 ---
 
@@ -53,11 +58,13 @@ blob URLs listed here.
 - **Status:** CANONICAL SOURCE — contains entries of mixed status.
   LOCKED entries within are non-negotiable. Document grows
   continuously as decisions are recorded.
-- **Blob URL:** https://github.com/SnowBroScott/possibly-a-hero-canonical/blob/main/decision-log.md
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/decision-log.md
 - **Notes:** Primary record of all design decisions. Every agent
   fetches this document directly. Do not rely on summaries or
   static uploads as substitutes for a live fetch. Entries append
   to the bottom — newest entries are always at the end of the file.
+  Verify currency by confirming the final entry matches known
+  project state. If stale, request manual paste.
 
 ---
 
@@ -66,17 +73,18 @@ blob URLs listed here.
 ### Run_Design
 
 - **Status:** DRAFT
-- **Blob URL:** https://github.com/SnowBroScott/possibly-a-hero-canonical/blob/main/DRAFT/Run_Design
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/DRAFT/Run_Design
 - **Notes:** Canonical specification for run mechanics — three-act
   structure, mission types, camera and combat model, power
   selection, minor objectives, hero points, run resolution. Canon
   Guard cleared. Cross-System Auditor complete. Surgical edits
-  applied May 8, 2026. Ready for lock consideration.
+  applied May 8, 2026. Awaiting further surgical edits for May 9
+  decisions before lock consideration.
 
 ### Class_System
 
 - **Status:** DRAFT
-- **Blob URL:** https://github.com/SnowBroScott/possibly-a-hero-canonical/blob/main/DRAFT/Class_System
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/DRAFT/Class_System
 - **Notes:** Canonical specification for class mechanics — four
   classes, movement, offensive suites, mastery progression, mentor
   system, power layers (eleven hero powers, class-adaptive summon),
@@ -86,18 +94,18 @@ blob URLs listed here.
 ### City_Layer
 
 - **Status:** DRAFT
-- **Blob URL:** https://github.com/SnowBroScott/possibly-a-hero-canonical/blob/main/DRAFT/City_Layer
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/DRAFT/City_Layer
 - **Notes:** Canonical specification for city mechanics — mirrors
   not gates philosophy, tutorial arc buildings, four city stages,
   Training Center complete system, Hero's Lair, restoration model,
   city-wide morale. Canon Guard cleared. Cross-System Auditor
-  complete. Surgical edits applied May 8, 2026. Ready for lock
-  consideration.
+  complete. Surgical edits applied May 8, 2026. Awaiting review
+  for May 9 mission stacking impact before lock consideration.
 
 ### World_Feedback
 
 - **Status:** DRAFT
-- **Blob URL:** https://github.com/SnowBroScott/possibly-a-hero-canonical/blob/main/DRAFT/World_Feedback
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/DRAFT/World_Feedback
 - **Notes:** Canonical specification for world feedback — three
   channels, name emergence, morale system (city-wide), Rex Flynn
   character specification, minor objectives as world signal. Canon
