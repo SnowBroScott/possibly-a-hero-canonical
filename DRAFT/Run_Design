@@ -239,90 +239,137 @@ of the record before the player realizes they're writing one.
 
 7. RUN TIME STRUCTURE — THREE ACTS
 
-A run targets twenty minutes. Every run has the same shape — not a hard
-mechanical clock, but a design target that a well-executed run naturally
-follows. The map, the mission locations, and the build are different every
-time. The shape is not.
+A run is twenty minutes. Not a target, not a rhythm — a wall. The run ends
+at the wall, on player-chosen extraction, or when the hero is taken out of
+the fight, whichever comes first. Every run has the same shape. The map,
+the mission spawns, and the build are different every time. The shape is
+not.
+
+The three acts are information states, not rule states. Nothing the player
+can do in one act is forbidden in another. What changes is what the player
+knows and what exists on the map. Build development is continuous for the
+entire run — milestone level-ups fire whenever XP earns them, from the
+first minute to the last. There is no build phase. There is no point at
+which loadout development stops.
 
 ACT ONE — PREP PERIOD (0:00 – 5:00)
 
-Mission locations are hidden. The player does not know where the Boss Fight,
-the Escort Defense, or the Horde Survival will be. They know all three exist
-somewhere on the map. They don't know where.
+The three missions have not spawned. They are not hidden somewhere on the
+map waiting to be found — they do not exist yet. Nothing the player does
+during the prep period can trigger a mission, and nothing can blindside
+them.
 
-The player moves through the city freely, leveling up through milestone-based
-power selections. Minor objectives are live. The build is forming. The city
-is already reacting to the fact that someone is out there.
-
-Stumbling into a mission location before the prep period ends makes that
-mission live immediately. The map does not protect the player from finding it
-early. The mission does not wait for the five-minute mark. A player who blunders
-into a horde zone at minute two with two powers and a support is going to find
-out what those two powers and a support can do under pressure. This is not a
-punishment. This is how the city keeps the run from feeling like a menu with
-a countdown.
+The player moves through the city freely, leveling up through milestone-
+based power selections. Minor objectives are live. Enemies are live. The
+build is forming. The city is already reacting to the fact that someone is
+out there. The prep period has tension — it comes from the streets, not
+from a mission waiting to ambush a two-power hero around the wrong corner.
 
 ACT TWO — OPEN WINDOW (5:00 – 15:00)
 
-At the five-minute mark, all three mission locations reveal simultaneously on
-the map. Full information. Full agency. The player now knows exactly where
-everything is.
+At the five-minute mark, all three missions spawn and reveal
+simultaneously. Each spawns outside the hero's current proximity trigger
+radius — guaranteed safe distance at the moment of reveal. From that
+moment, every mission is live and triggerable by player movement. A
+mission trigger is always the result of the player's choice to approach.
+Never an accident. Never an ambush.
 
-They can attempt a mission immediately with whatever they've built. They can
-keep developing the loadout and hold the decision. They can hit a minor
-objective on the way across the map to a mission they're not sure they're
-ready for. There is no mechanical penalty for waiting. There is no mechanical
-bonus for rushing. The Open Window is ten minutes of genuine player choice —
-the longest sustained period of player agency in the run.
+Full information. Full agency. And a genuine decision with teeth: every
+minute spent building is a minute not spent executing. The player who
+commits at minute seven with a lean build is buying mission attempts with
+power they didn't take. The player who builds until the gate is buying
+power with attempts they may not get. The longer you wait, the stronger
+you get — and the less wall time remains to do anything with it. The Open
+Window is where that trade is made, remade, and lived with.
 
-ACT THREE — FORCED COMMITMENT (15:00 onward)
+THE GATE — FORCED COMMITMENT (15:00)
 
-At the fifteen-minute mark, the window closes. The game forces a mission
-choice. Whatever the player built across the first fifteen minutes is the build
-going in. Loadout development stops. Failure to commit results in run failure.
+At the fifteen-minute mark, the gate. It is hard. The player must have
+committed to at least one mission by the gate or the run fails. This is
+not a penalty for slow play. It is the game asking the question the entire
+run was building toward: you've been building — now what are you going to
+do with it? Not committing is not a neutral choice in a game about
+becoming a hero. It is a refusal to be the thing the game is about. The
+gate is not the punishment. The gate is the point.
 
-The forced commitment is the run's dramatic spine. Every milestone choice,
-every minor objective taken or passed, every second spent developing versus
-rotating — it lands here. The build meets the mission. A prepared player
-resolves the mission in approximately five minutes. There is no hard timer on
-the mission itself — the twenty-minute figure is the natural rhythm of a
-well-executed run, not a death clock. Success or failure resolves in Act Three.
+The gate is a minimum threshold, not a starting gun. Most runs commit long
+before it. The gate exists for the run where the player builds and builds
+and never answers the question.
+
+ACT THREE — EXECUTION (15:00 – 20:00)
+
+Committed play until the wall. No mission carries its own timer — the wall
+is the only clock, and it was always the only clock. The player sequences
+whatever missions remain against whatever time remains, with whatever
+they've built. Building between missions is sanctioned play. Pivoting from
+a completed mission back into development before attempting the next is
+sanctioned play. The wall makes every strategy honest.
+
+A prepared player resolves a single mission in roughly five minutes — the
+twenty-minute figure is the natural rhythm of a well-executed minimum run.
+The exceptional run and the perfect run are not longer runs. They are
+better ones.
 
 ---
 
 8. RUN RESOLUTION
 
-Every run resolves with outputs that feed the city layer and the player's
-permanent currency.
+A run ends at the wall, on extraction, or when the hero is taken out of
+the fight. Resolution grades what is true at that moment.
 
-Successful run: Generates resources, morale, or intel depending on mission
-type completed. City development advances. Hero Points accumulate from mob
-drops and minor objectives completed during the run — full carry, no reduction.
-The mirror gets brighter.
+Completion tiers:
+- MINIMUM SUCCESS — one mission complete
+- EXCEPTIONAL — two missions complete
+- PERFECT — three missions complete
 
-Failed or abandoned run: Atmospheric consequence only. No progress is reversed.
-No construction is undone. No city building disappears. Hero Points earned
-during the run carry forward in full — what the player earned while the run
-lasted is theirs permanently. The city absorbs the loss without surrendering
-it. The player returns to a city that knows things went badly, not a city
-that was set back.
+Mission outputs are earned at mission completion, not at run end. Outputs
+stack — a perfect run feeds resources, morale, and intel into the city
+simultaneously. Mission priority and sequencing are the player's strategic
+decision, tied to their own progression goals. A player who needs intel
+opens with Horde Survival. A player who needs construction resources hunts
+the Boss Fight first. The game does not rank the missions. The city does
+not care about the order. It cares about what got done.
 
-Run patterns accumulate. A streak of bad runs darkens the city over a short
-window — citizens pull indoors, visual tone shifts, Rex Flynn has opinions he
-broadcasts at volume. None of it is permanent. The city recovers. The hero
-goes again. The story keeps writing itself, one run at a time, whether the
-last run was the best one or the worst one in the record.
+Banked missions are permanent within the run. Being taken out of the fight
+after completing a mission costs the player the opportunity at a higher
+tier — never the tier already earned. The citizens a hero saved do not
+become unsaved because the hero got knocked out afterward. What was earned
+at the moment it was earned is the player's. Extraction exists for the
+player who is done — it ends the run early and grades it as it stands. It
+protects nothing, because nothing needs protecting.
+
+Hero Points accumulate from mob drops and minor objectives across the full
+run — full carry, no reduction, regardless of outcome.
+
+Failed run — zero missions complete, by gate refusal or by being taken out
+of the fight before banking a mission: atmospheric consequence only. No
+progress is reversed. No construction is undone. No city building
+disappears. Hero Points earned during the run carry forward in full. The
+city absorbs the loss without surrendering it. The player returns to a
+city that knows things went badly, not a city that was set back.
+
+Run patterns accumulate. A streak of bad runs darkens the city over a
+short window — citizens pull indoors, visual tone shifts, Rex Flynn has
+opinions he broadcasts at volume. None of it is permanent. The city
+recovers. The hero goes again. The story keeps writing itself, one run at
+a time, whether the last run was the best one or the worst one in the
+record.
 
 ---
 
 CANONICAL DEPENDENCIES:
 
 Locked decisions this document draws from and must remain consistent with:
-- "Possibly a Hero is a superhero roguelite city-building game. Runs shape the
-  city, the city shapes the runs." (LOCKED)
+- "Possibly a Hero is a superhero roguelite city-building game. Runs shape
+  the city, the city shapes the runs." (LOCKED)
 - "Negative run outcomes affect the city atmospherically. Nothing is
   permanently lost. No progress is set back. No construction is reversed.
   The city always recovers." (LOCKED)
+- Mission Spawn at Act Two Reveal (May 9, 2026) (LOCKED)
+- Forced Commitment Gate — Hard Gate (May 9, 2026) (LOCKED)
+- Run Completion Tiers — Three Missions Completable (May 9, 2026) (LOCKED)
+- Run Wall, Continuous Build, and Banked Mission Permanence
+  (June 12, 2026) (LOCKED)
 
 Additional canonical sources (all DRAFT):
 - Run Initiation Loop — Corrected Structure
@@ -334,6 +381,5 @@ Additional canonical sources (all DRAFT):
 - Three mission type and city output decisions
 - Intel and area boss progression decision
 - Hero Points Currency System (May 8, 2026)
-- Run Completion and Success Criteria (May 8, 2026)
-
-
+- Run Completion and Success Criteria (May 8, 2026 — gate-only enforcement
+  language superseded June 12, 2026)
