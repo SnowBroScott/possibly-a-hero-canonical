@@ -2,7 +2,7 @@
 
 *Single source of truth for all pipeline documents*
 
-Last updated: May 11, 2026
+Last updated: June 12, 2026
 
 ---
 
@@ -32,7 +32,9 @@ document directly using the raw URL listed below.
 GitHub CDN caching is inconsistent regardless of URL format — both
 raw and blob URLs can serve stale content. After fetching any
 document, verify it is current by checking the last entry or section
-against known project state. If the content appears out of date,
+against known project state. This applies to this manifest itself —
+verify the Last updated date against known project state before
+trusting document statuses. If any content appears out of date,
 do not proceed. Request a manual paste from the designer instead.
 Manual paste is authoritative. Never fall back to memory.
 
@@ -68,18 +70,25 @@ Manual paste is authoritative. Never fall back to memory.
 
 ---
 
-## Draft Documents
+## Locked Documents
 
 ### Run_Design
 
-- **Status:** DRAFT
-- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/DRAFT/Run_Design
+- **Status:** LOCKED — June 12, 2026
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/locked/Run_Design
 - **Notes:** Canonical specification for run mechanics — three-act
-  structure, mission types, camera and combat model, power
-  selection, minor objectives, hero points, run resolution. Canon
-  Guard cleared. Cross-System Auditor complete. Surgical edits
-  applied May 8, 2026. Awaiting further surgical edits for May 9
-  decisions before lock consideration.
+  structure as information states, hard twenty-minute run wall,
+  mission spawn at Act Two reveal, hard commitment gate, completion
+  tiers (minimum / exceptional / perfect) with stacking outputs,
+  continuous build development, banked mission permanence, camera
+  and combat model, minor objectives, Hero Points, run resolution.
+  Incorporates all May 9 and June 12 locked decisions. Canon Guard
+  PASS June 12, 2026. First locked document in the pipeline.
+  Constrains all draft documents.
+
+---
+
+## Draft Documents
 
 ### Class_System
 
@@ -89,7 +98,8 @@ Manual paste is authoritative. Never fall back to memory.
   classes, movement, offensive suites, mastery progression, mentor
   system, power layers (eleven hero powers, class-adaptive summon),
   combo system. Canon Guard cleared. Cross-System Auditor complete.
-  Surgical edits applied May 8, 2026. Ready for lock consideration.
+  Surgical edits applied May 8, 2026. Pending consistency review
+  against locked Run Design before lock consideration.
 
 ### City_Layer
 
@@ -99,8 +109,9 @@ Manual paste is authoritative. Never fall back to memory.
   not gates philosophy, tutorial arc buildings, four city stages,
   Training Center complete system, Hero's Lair, restoration model,
   city-wide morale. Canon Guard cleared. Cross-System Auditor
-  complete. Surgical edits applied May 8, 2026. Awaiting review
-  for May 9 mission stacking impact before lock consideration.
+  complete. Surgical edits applied May 8, 2026. Requires
+  reconciliation with locked Run Design — stacked mission outputs
+  and completion tiers affect the run-to-city flow.
 
 ### World_Feedback
 
@@ -110,7 +121,8 @@ Manual paste is authoritative. Never fall back to memory.
   channels, name emergence, morale system (city-wide), Rex Flynn
   character specification, minor objectives as world signal. Canon
   Guard cleared. Cross-System Auditor complete. Surgical edits
-  applied May 8, 2026. Ready for lock consideration.
+  applied May 8, 2026. Pending consistency review against locked
+  Run Design before lock consideration.
 
 ---
 
@@ -125,12 +137,6 @@ Manual paste is authoritative. Never fall back to memory.
 - **Trigger:** After core design systems are locked and build work
   is ready to begin.
 
-### locked/ directory
-
-- **Status:** NOT YET CREATED
-- **Purpose:** Canonical, non-negotiable documents. Will contain
-  finalized system specifications as they exit the pipeline.
-
 ### reference/ directory
 
 - **Status:** NOT YET CREATED
@@ -141,6 +147,7 @@ Manual paste is authoritative. Never fall back to memory.
 
 ## Repo Structure
 
+/locked             — canonical, non-negotiable documents
 /DRAFT              — directionally committed documents in refinement
 /canonical-manifest — master index of all documents (this file)
 /decision-log.md    — permanent record of all decisions
