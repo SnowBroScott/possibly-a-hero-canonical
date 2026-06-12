@@ -1617,3 +1617,55 @@ options.
 REPLACES: Run structure — single mission completion as run end condition
 
 STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The run has a hard outer wall at twenty minutes. The run ends at
+the wall, on player-chosen extraction, or when the hero is taken out of the
+fight — whichever comes first. Run completion tiers are graded at run end
+based on missions completed: minimum success (one), exceptional (two),
+perfect (three).
+
+Build development is continuous for the entire run. Milestone level-ups and
+power selection are available from the first minute to the last — there is
+no build phase and no point at which loadout development stops. Minor
+objectives continue spawning for the full run duration. The three acts are
+information states, not rule states: Act One is the period before missions
+spawn, Act Two is full information, the fifteen-minute gate is the minimum
+commitment threshold.
+
+Mission outputs are earned at mission completion, not at run resolution.
+Banked missions are permanent within the run — being taken out of the fight
+after completing a mission costs the player the opportunity at a higher
+tier, never the tier already earned. A run ending with zero completed
+missions remains a failed run under existing failed-run rules: Hero Points
+carry in full, atmospheric consequence only, no city outputs.
+
+The strategic core of the run is the allocation of wall time between
+building and executing. Committing early with a lean build and committing
+late with a developed build are both valid strategies. Mid-run pivots
+between building and executing are sanctioned play, not exploits.
+
+DATE: June 12, 2026
+
+WHY: The May 9 completion tiers decision referenced "time expiry" without
+defining it, and removed the implicit build bound the old single-mission
+model provided. The hard wall is that definition and that bound. It makes
+"sequencing three real missions under time pressure" mechanically true,
+makes the perfect run a genuine mastery expression rather than an endurance
+test, and keeps every run inside a twenty-minute pick-up-and-play promise.
+The wall is not a death clock — expiry grades the run, it does not fail it.
+Consequence without punishment: what the player earned at the moment they
+earned it is theirs. Continuous build development enables varied strategy
+(rush lean, build deep, pivot mid-run) with a single timer and no
+special-case rules.
+
+REPLACES: "The Act Three commitment gate is the only hard mechanical
+enforcement" (Run Completion and Success Criteria, May 8, 2026) — the wall
+is a second hard enforcement. All other May 8 language stands. Also
+replaces all "loadout development stops at the commitment gate" framing
+in Run Time Structure language.
+
+STATUS: LOCKED
