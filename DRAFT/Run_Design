@@ -140,13 +140,14 @@ These references describe different dimensions of the same game.
 
 5. THE THREE MISSION TYPES
 
-Post-tutorial, all three mission types exist on the map simultaneously in
-every run. They are not separate modes. They are discoverable locations within
-a single run environment. The player is always in the same run, on the same
-map, with all three available.
+Post-tutorial, all three mission types spawn in every run — simultaneously,
+at the Act Two reveal. They are not separate modes. They are live locations
+within a single run environment. The player is always in the same run, on
+the same map, with all three available from the moment they spawn.
 
-Mission locations are randomized each run. No mission type has a fixed
-geographic position.
+Mission spawn locations are randomized each run. No mission type has a
+fixed geographic position. Every spawn lands outside the hero's proximity
+trigger radius at the moment of reveal.
 
 BOSS FIGHT
 Type: Action combat encounter
