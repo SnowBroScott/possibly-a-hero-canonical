@@ -1669,3 +1669,36 @@ replaces all "loadout development stops at the commitment gate" framing
 in Run Time Structure language.
 
 STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The Run Design document is LOCKED. It is the first locked
+document in the Possibly a Hero pipeline. Run Design now constrains all
+draft documents and all future design work. Drafts that contradict it
+must conform to it or amend it through the formal pipeline.
+
+The document moves to the /locked directory. The canonical manifest
+reflects LOCKED status as of this entry.
+
+Canon Guard Caution 1 resolution: the language "meaningfully more than a
+single mob drop" for minor objective Hero Point rewards is retained
+deliberately. It is a design-intent constraint that future balancing must
+satisfy — the quantity per drop remains TBD per the Hero Points entry
+(May 8, 2026). The relative relationship is canon; the numbers are
+balancing.
+
+DATE: June 12, 2026
+
+WHY: Run Design has incorporated all four governing locked decisions —
+Mission Spawn at Act Two Reveal (May 9), Forced Commitment Gate (May 9),
+Run Completion Tiers (May 9), and Run Wall / Continuous Build / Banked
+Mission Permanence (June 12). It passed a full-document consistency sweep
+and a Canon Guard validation with zero conflicts. The run is the system
+every other system feeds or feeds from — locking it first gives City
+Layer, Class System, and World Feedback a fixed authority to conform to.
+
+REPLACES: Nothing — status change. Run_Design DRAFT status is superseded.
+
+STATUS: LOCKED
