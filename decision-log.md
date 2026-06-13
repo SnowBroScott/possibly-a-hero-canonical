@@ -1702,3 +1702,61 @@ Layer, Class System, and World Feedback a fixed authority to conform to.
 REPLACES: Nothing — status change. Run_Design DRAFT status is superseded.
 
 STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Combat philosophy and the skill-acquisition loop. Combat in
+Possibly a Hero follows a three-rung escalation defined by the player's
+relationship to their build, not by difficulty tiers:
+
+- Trash mobs = PRACTICE. Low-stakes encounters where the player learns
+  their powers, spacing, and combos. Skill is acquired here.
+  Experimentation is cheap.
+- Sub-missions (minor objectives) = VALIDATION. Confirmation that build
+  plus skill is cohering. The validation payoff is earned Hero Points —
+  permanent, cross-run progress. Validation is felt across runs, not via
+  in-run feedback: next run starts stronger.
+- Main missions = EXECUTION. The build and skill performed under the
+  wall, for completion tiers. Skill is spent here.
+
+Trash combat does NOT scale with the player. Late-run trivialization of
+trash is intentional and self-balancing: when trash stops being a
+challenge, the game is signalling the player is ready to turn toward
+missions. Trivial trash clears fast, so lingering past readiness carries
+an opportunity cost against the wall — combat pacing becomes a form of
+consequence without punishment. The trash stops paying; the clock keeps
+running.
+
+Framing thesis: in Possibly a Hero the player knows their WHY but not
+their HOW. The game teaches the how through repetition across runs, not
+through tutorial explanation — the player learns how the game speaks
+over multiple playthroughs (Vampire Survivors / Deep Rock Galactic
+Survivors learning model). Combat is intentional and skill-based with
+the build as vocabulary and player skill as expression (Hades texture).
+
+DATE: June 12, 2026
+
+WHY: The locked combat value ("intentional and skill-based, a skilled
+player with a mediocre build beats an unskilled player with a great
+one," May 2026) asserted that skill matters but did not define how skill
+is built up or how combat earns the player's time against the run wall.
+This establishes the texture and the loop. The three-rung ladder gives
+every combat layer a distinct role in the time economy rather than
+having trash combat compete with missions as a rival attraction. Trash
+as non-scaling practice resolves the wall tension: practice feeds toward
+execution rather than rivaling it. Hero Points as the validation
+currency aligns the reward with its persistence — validation is
+permanent progress, which is why it is felt across runs.
+
+REPLACES: Nothing — extends the locked combat value with structure.
+
+STATUS: NOTED
+
+OPEN QUESTIONS (to validate before this hardens to DRAFT):
+- Does trash trivialization pace correctly, or does late-run trash become
+  tedious before the player turns to missions?
+- Does the Hero Point validation payout feel meaningful, or invisible?
+- Does intentional combat survive translation to a low-fidelity
+  prototype, or does the feel require Unreal to read at all?
