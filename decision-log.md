@@ -1802,3 +1802,116 @@ prompts need updating to reflect the new top-of-stack authority and
 validation order. (3) Whether the layer's contents live as their own
 repo document or are enforced through Forge's disposition is a separate
 implementation question.
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Possibly a Hero adopts a three-rung event-and-reward model
+for what the player spends run time on. The three rungs are
+differentiated by EMOTIONAL REGISTER and REWARD KIND, not by amount
+of a shared reward.
+
+1. ENCOUNTERS — ambient combat. Thugs aggro the player; the fight is
+   reactive and about the player, with no victim and no moral stakes.
+   Encounters happen in transit, are NOT shown on the minimap, and are
+   deliberately forgettable. Reward: XP only (build/power progression).
+   No Hero Points. These are the "trash = practice" rung made
+   fiction-coherent — ambient danger in a crime-ridden city.
+
+2. MINOR OBJECTIVES — moral choices that contain a fight (or a non-
+   combat save). A citizen is in danger: mugging, robbery, fire,
+   runaway vehicle, etc. About the city, not the player. Shown on the
+   minimap AND announced by diegetic, type-bearing audio (scream,
+   siren, call for help, menacing threat) so the player can identify
+   the situation before committing. Reward: Hero Points (their
+   DEFINING and EXCLUSIVE source) + XP + recognition/morale/name-
+   emergence + hidden tracker movement, scaling by objective type.
+   Reward-dominant by design.
+
+3. MISSIONS — the run's structural purpose. Forced by the 15:00 gate,
+   graded in completion tiers at the wall. (Unchanged from locked Run
+   Design; included here for the full ladder.)
+
+SUPPORTING DECISIONS:
+
+- HERO POINTS ARE A CIVIC CURRENCY. HP is earned ONLY through minor
+  objectives (helping the city) and spent ONLY on power deepening
+  (Training Center). The player grows stronger by being trusted, not
+  by farming trash. This redefines HP from a generic combat reward
+  into the currency of having helped.
+
+- REWARD MATCHES THE ACT'S NATURE. Self-interested acts (encounters)
+  pay self-interested reward (your build). Other-directed acts (minor
+  objectives) pay other-directed reward (the city's recognition and
+  recovery). A pure power-optimizer levels fast but stays anonymous;
+  a hero who stops for everyone is slower but beloved. Neither is
+  wrong — they produce different KINDS of hero. This is consequence
+  without punishment and identity emerges through play expressed in
+  the moment-to-moment loop.
+
+- MINOR OBJECTIVES ARE HARDER THAN ENCOUNTERS — qualitatively, not
+  quantitatively. Not bigger swarms (that re-imports the conveyor
+  belt) but tougher enemies, hostage/constraint situations, and
+  precision demands (e.g. a citizen in the blast radius makes AOE a
+  liability). The added difficulty is what makes the reward-dominant
+  minor objective a real CHOICE rather than free upside: the cost is
+  real — wall-time, health, cooldowns, and tier-risk.
+
+- THE MORAL CHOICE IS WALL-TIME TRIAGE. Because minor objectives are
+  reward-dominant, the player always WANTS to stop. The only
+  constraint is whether they can AFFORD to — against the clock, the
+  15:00 gate, and their mission-tier ambitions. The dilemma is never
+  "is it worth it" (it always is) but "can I afford it." Difficulty
+  sharpens this naturally late-run: a hero who could save everyone at
+  minute 3 must make hard calls at minute 13.
+
+- MINIMAP / INFORMATION SPLIT. The minimap shows only missions and
+  minor objectives — the things worth navigating toward. Encounters
+  never appear, which structurally enforces their flatness (the map
+  cannot direct the player to farm trash). Minor-objective spawns get
+  a minimap flourish plus the diegetic audio cue on the main screen.
+
+DATE: June 13, 2026
+
+WHY: The session set out to fix prototype combat (an infinite-swarm
+"XP conveyor belt" producing 300+ kills and runaway leveling) and
+surfaced that the combat MODEL, not its tuning, was the problem. The
+fix is to make combat a chosen resource under time pressure rather
+than a survival swarm — and the act of designing that reframe revealed
+that the run's three time-sinks already wanted to be three distinct
+emotional registers. Locating the moral choice ("what kind of hero are
+you") in the minute-to-minute loop, rather than only in fiction or
+meta-progression, makes the title's question (Possibly a Hero) a thing
+the player answers continuously through play. The reward-by-kind split
+makes the three principles (consequence without punishment, mirrors not
+gates, identity emerges through play) do the balancing automatically.
+
+REPLACES: Nothing — new model. Sits atop and is consistent with locked
+Run Design (the 20-min wall, 15:00 gate, completion tiers). Sharpens
+the prior "combat as harvest, not threat" NOTED direction and the
+"trash = practice" combat-ladder entry by giving them a full reward
+architecture.
+
+STATUS: NOTED
+
+CARRIES OPEN (prototype must validate before any lock):
+1. Does wall-time triage actually FEEL like a choice, or does
+   "always stop" collapse the dilemma? This is the load-bearing
+   assumption; the prototype is the instrument.
+2. Does qualitative difficulty (constraints, tough types) read as
+   rising stakes late-run, or just as the game turning stingy?
+3. With encounters paying XP-only and minor objectives carrying most
+   of the XP+HP, does the leveling curve hold across a full 20-min
+   run? (Current swarm-model tuning is void once the model changes.)
+4. Does removing encounters from the minimap leave the player
+   under-informed, or does the diegetic-audio layer carry enough?
+5. Hidden-tracker movement "by objective type" implies minor
+   objectives have TYPES that move DIFFERENT trackers — a
+   characterization system seeded here but deliberately NOT designed
+   in this entry. Reserved for the dedicated minor-objectives session.
+
+NOT IN SCOPE OF THIS ENTRY: The design of minor objectives themselves
+— their types, moral textures, flavor, and emotional content — is a
+separate dedicated session. This entry defines only the architecture
+they operate within.
