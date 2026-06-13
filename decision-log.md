@@ -1760,3 +1760,45 @@ OPEN QUESTIONS (to validate before this hardens to DRAFT):
 - Does the Hero Point validation payout feel meaningful, or invisible?
 - Does intentional combat survive translation to a low-fidelity
   prototype, or does the feel require Unreal to read at all?
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Possibly a Hero adopts a Guiding Principles layer — a
+governing document that sits above all system documents. The
+established design principles (consequence without punishment;
+mirrors not gates; mastery is real and expressible; identity emerges
+through play; the name as tone guardrail) are relocated out of the
+system/state documents where they have been embedded and consolidated
+into this single governing document. Guiding Principles outranks
+LOCKED: any system document that contradicts a guiding principle is
+in error and gets corrected — the principle wins. Validation order:
+content is checked against Guiding Principles BEFORE it is checked
+against other system documents.
+
+DATE: June 13, 2026
+
+WHY: The principles have governed design decisions since early in the
+project (mirrors not gates and consequence without punishment have
+both killed real directions) but lived scattered inside system and
+state documents, discoverable only by reading the system that happened
+to mention them. They had authority without an address. The pipeline
+has matured to the point where principles must sit above the systems
+they govern rather than inside them — the same role guiding principles
+play in a mature operating philosophy. This is a structural maturation
+of the design machine, surfaced when a candidate design pillar had no
+appropriate layer to live in.
+
+REPLACES: Nothing — new structural layer. (Does not alter the contents
+of any system document; relocates principles already in force.)
+
+STATUS: LOCKED
+
+CARRIES OPEN: (1) The exact wording of each principle still needs a
+sharpening pass — each must be operative enough to reject a design,
+not merely descriptive. (2) Canon Guard and Cross-System Auditor system
+prompts need updating to reflect the new top-of-stack authority and
+validation order. (3) Whether the layer's contents live as their own
+repo document or are enforced through Forge's disposition is a separate
+implementation question.
