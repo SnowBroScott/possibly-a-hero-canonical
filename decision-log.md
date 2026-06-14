@@ -1939,3 +1939,39 @@ REPLACES: Carries Open item (3) from the Guiding Principles layer
 LOCKED entry, June 13, 2026.
 
 STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: "Unleash" is adopted as a Guiding Principle.
+
+Operative form: "You are always power — untrained, not underpowered."
+
+The principle governs how the game feels, not how it's played. Power
+is real from frame one. Early game is untrained, not weak. No power
+ramps up from a weak state. No power is "good later." The player is
+always being power — at varying magnitudes and coordination levels,
+never at zero.
+
+Distinct from "mastery is real and expressible," which governs
+execution and playstyle. Unleash governs feel and emotional register.
+A ramp-up power fails Unleash without failing Mastery. They guard
+different territory.
+
+Balancing law that falls out of this principle: every power must be
+potent and complete on its own from the first frame held. This
+sharpens the existing "every power has standalone value before combo
+value" from preference into requirement.
+
+DATE: June 14, 2026
+
+WHY: Two days cold it still holds. The distinction from mastery is
+clean and guards different design territory. The operative form is
+short enough to use as a quick check and sharp enough to reject a
+specific direction.
+
+REPLACES: Nothing — new principle. Extends and sharpens the NOTED
+Unleash pillar entry from June 12, 2026.
+
+STATUS: LOCKED
