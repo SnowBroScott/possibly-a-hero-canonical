@@ -2022,3 +2022,93 @@ REPLACES: Nothing — new framework. First explicit class balance
 specification.
 
 STATUS: NOTED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Tactician movement system — momentum framework.
+
+The Tactician's movement ability is a momentum-based vehicle system
+governed by acceleration, navigation, and commitment. It is the only
+class whose movement and combat systems are unified rather than
+distinct.
+
+CORE MECHANIC — MOMENTUM
+Toggle activates movement. Speed builds progressively from zero to
+a defined top speed cap — acceleration is not infinite. Navigation
+becomes increasingly demanding as speed increases. At top speed the
+vehicle is extremely difficult to control but reaches maximum
+offensive potential.
+
+STOPPING — TWO STATES
+Deliberate brake: toggle off triggers rapid deceleration (brake,
+not drift), short cooldown, position of the player's choice.
+Wall collision: hitting a wall stops movement immediately, triggers
+a longer cooldown than deliberate braking, position determined by
+the map. Wall collision is not exclusively a mistake — it is a
+valid tactical choice when the wall puts the player in a desirable
+engagement position. The cost is the longer cooldown. Skilled play
+means knowing when that tradeoff is worth it.
+
+RAM DAMAGE
+The vehicle deals damage to enemies on contact. Ram damage scales
+with speed at point of impact — a full-speed ram hits significantly
+harder than a low-speed brush. This makes the acceleration curve a
+triple-purpose system: traversal efficiency, navigation skill, and
+offensive charge. The approach IS the opener for skilled players.
+
+HIGH-SPEED PLAY
+At top speed the Tactician can clear encounters without stopping —
+threading through mob clusters, dealing ram damage on contact,
+never committing to a fixed position. This is the highest skill
+expression of the class. Navigation at top speed is extremely
+demanding. The players who master it present a completely different
+visual signature from conventional Tactician play. This mode is
+locked behind skill, not progression — available from run one,
+mastered over many.
+
+TACTICAL CHOICE AT EVERY ENCOUNTER
+The Tactician's core decision at each encounter:
+- Stay at speed — ram through, clear without stopping, maximum
+  mobility, maximum navigation demand
+- Brake deliberately — commit to position, deploy turrets,
+  conventional clear, shorter cooldown, controlled re-engagement
+
+Neither is correct. Both are powerful. The choice is the skill.
+
+SKILL ARC
+Untrained: drives to encounters, stops, fights conventionally.
+Developing: threading corridors, deliberate braking, occasional
+offensive rams.
+Skilled: the approach is the opener. Full speed down a corridor,
+ram damage into the cluster, brake into turret position, clean up.
+One continuous movement.
+Mastered: never stops. The map is the arena. Encounters are
+threading targets. The vehicle is the weapon system.
+
+DESIGN NOTES
+The Tactician has the highest skill ceiling in the roster. High
+complexity floor, enormous mastery ceiling. Attracts technical
+mastery players — those who master demanding mechanics on principle.
+Never underpowered: ram damage is real from the first run.
+Untrained not underpowered — Power Unleashed holds completely.
+The constraint IS the identity. The Tactician turns every
+limitation into a decision.
+
+DATE: June 14, 2026
+
+WHY: Momentum as the core mechanic unifies traversal, navigation,
+and offense into one skill system. Ram damage scaling with speed
+gives the acceleration curve triple purpose. High-speed encounter
+clearing without stopping creates a distinct high-skill expression
+unavailable to any other class. The two braking states (deliberate
+vs wall collision) create meaningful tactical choice rather than a
+pure avoidance mechanic. Top speed cap makes the skill ceiling
+legible and buildable.
+
+REPLACES: Prior Tactician movement note (DASH — continuous movement,
+toggle on/off, can't turn mid-dash, stops at walls). This entry
+supersedes and substantially expands that prototype validation.
+
+STATUS: NOTED
