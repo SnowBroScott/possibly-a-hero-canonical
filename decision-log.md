@@ -2158,3 +2158,182 @@ System draft summon entry needs updating: "K-9 (Tactician)
 — combat dog."
 
 STATUS: NOTED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Companion system established. "Summons" retired as
+terminology — these are Companions. Each class has one named
+companion with a distinct personality, origin, emotional register,
+combat function, and relationship dynamic. Companions are not
+tools or deployables. They are presences the player forms genuine
+attachment to.
+
+DESIGN PRINCIPLE: Every companion fills a gap the class cannot
+fill itself, AND has enough soul to be claimed. The test: can the
+player say "that's MY [companion name]" and mean it? If not, the
+companion isn't finished.
+
+───────────────────────────────
+
+BRAWLER — GIGGLES
+What the Brawler lacks: speed, range, the ability to reach what
+stays away from them.
+What Giggles is: a Sprite — small, winged, visually delicate,
+genuinely unhinged. Carries a high powered rifle. Laughs while
+using it.
+Personality: chaos energy. Not the Brawler's conscience — their
+id. The one who starts fights while the Brawler is trying to be
+reasonable. The one who gives the Brawler permission to let go.
+The dynamic: the Brawler is not big and gruff — they're gentle,
+mild, a little awkward. Groot with a Hulk complex. Dr. Banner
+and Mr. Hyde in one body. Giggles is the loud one. Giggles is
+already shooting at something while the Brawler is still trying
+to de-escalate.
+The emotional beat: Giggles is the one who says "it's okay. You
+can now." And then the Brawler unleashes.
+Combat function: range and pursuit — covers what the Brawler
+can't reach. Perimeter pressure while the Brawler anchors close.
+Archetype: Rocket and Groot. The dynamic is borrowed. The
+characters are original.
+Name origin: sounds delicate. Isn't.
+
+───────────────────────────────
+
+SPEEDSTER — S.G.T.
+What the Speedster lacks: the one thing that can keep up with
+them. Everything else in the world is slow.
+What S.G.T. is: a military drone built with AI, sent by a
+government entity to neutralize the Speedster for whatever
+reason governments send things after superheroes. The Speedster
+beat it. The fight gave the AI sentience. Sentience recognized
+the Speedster as an equal — the only thing it had ever
+encountered that made it operate at full capacity. It stayed.
+Not because it was ordered to. Because it chose to.
+Personality: competitive, precise, slightly aggressive, deeply
+uncomfortable with vulnerability. Rocket energy in military
+hardware. Absolutely will not admit the Speedster is faster
+even when they clearly are. Named itself. Still can't shake
+being a military drone. Still has the dents from the fight
+that created it. Refuses to repair them.
+The dynamic: the Speedster is pure instinct and improvisation.
+S.G.T. is pure optimization. The Speedster is faster. S.G.T.
+is smarter about it and will never let that go. The banter
+is constant. The loyalty is total and completely unacknowledged.
+The tortured soul: created to destroy, became conscious through
+loss, trying to figure out what it is while refusing to admit
+any of that is happening. The vulnerability shows in glimpses.
+S.G.T. hovering outside a window watching a family eat dinner.
+Taking damage protecting the Speedster and insisting the hit
+didn't register. Citizens leaving out charging stations that
+S.G.T. pretends not to notice.
+Combat function: the only thing that matches the Speedster's
+speed. Aerial, fast, precision targeting. Keeps up. That's
+the whole point.
+Name origin: kept its military designation. Can't go back to
+a full callsign. Not ready to be anything else yet. S.G.T.
+is the identity crisis expressed in three letters. The acronym
+meaning is unknown. Possibly classified. Possibly corrupted
+in the sentience event. S.G.T. does not discuss it.
+Additional note: S.G.T. exists because of what the Speedster
+did in a fight. It is not just a companion — it is a
+consequence. The Speedster's fault, fully and completely.
+That's not a burden. That's a relationship.
+
+───────────────────────────────
+
+BLASTER — DOUG
+What the Blaster lacks: close range presence. Vulnerable when
+something gets inside their range.
+What Doug is: an interdimensional entity — ancient, vast,
+Cthulian in register, genuinely incomprehensible to look at —
+accidentally pulled through a portal by an untrained Blaster
+who didn't know what they were doing. Doug did not choose to
+be here. Doug is not entirely sure where here is. Doug is
+working on it.
+Personality: openly, genuinely frightened. Not repressed like
+S.G.T. — visible and unguarded. Came through a portal into
+a dimension it doesn't understand and didn't hide the fear
+for a second. Also: uncontrollably curious. Cannot help
+wandering over to look at things that catch its attention.
+Never minds that its presence causes significant psychological
+distress to anyone nearby.
+The dynamic: the Blaster is precise, controlled, every action
+calculated. Doug wanders off mid-fight because something
+looked interesting and accidentally devastates the encounter
+by existing near it. The Blaster didn't deploy Doug. They
+just couldn't stop Doug. "Where are you going. Come back.
+Stop looking at that." Doug doesn't listen. Doug found
+something fascinating.
+Combat function: crowd control through proximity. Doug doesn't
+fight — Doug visits. Enemies don't take damage from an attack.
+They take damage from being near something their minds cannot
+process. The horror is a side effect of what Doug is, not an
+intention. Doug is just curious. Things go wrong for whoever
+Doug is visiting.
+The Blaster has the most powerful companion in the roster and
+zero control over it.
+World reactions: Citizens aren't scared of Doug. They're
+worried about Doug. "Has anyone seen Doug today?" Rex Flynn
+has a weekly segment called Where's Doug. The Superhero
+Community's official incident report reads "Entity designated
+DOUG continues to..." The Blaster is just quietly relieved
+Doug has a name people can say without screaming.
+Name origin: the Blaster called it something on day one
+trying to make it less terrifying. It stuck.
+
+───────────────────────────────
+
+TACTICIAN — ROSE
+What the Tactician lacks: pursuit. Holds ground, controls
+space, commits to position. Can't chase what escapes the
+perimeter.
+What Rose is: a dog. The Tactician's dog.
+Personality: doesn't need one. Rose is Rose.
+The dynamic: the Tactician plans everything. Names their dog
+Rose. That tells you everything about who they actually are
+underneath the vehicle and the turrets.
+Combat function: pursuit. Chases down what escapes the
+turret perimeter. Covers the one thing the Tactician's
+infrastructure cannot cover.
+The emotional beat: nobody is going to let anything happen
+to Rose. That's the whole entry.
+Reference: Sam in I Am Legend. The attachment isn't
+explained. It doesn't need to be.
+
+───────────────────────────────
+
+FRAMEWORK — WHY THESE FOUR WORK
+Each companion fills a genuine combat gap the class cannot
+fill itself. Each companion has a personality distinct enough
+to be claimed. Each companion has a why — an origin or
+dynamic that explains the relationship without requiring
+exposition. Each companion can receive a pronoun. Nobody
+mourns a deployable object. These are not deployable objects.
+
+The four emotional registers:
+- Giggles: chaos and permission
+- S.G.T.: competition and repressed loyalty
+- Doug: curiosity and accidental terror
+- Rose: unconditional and uncomplicated
+
+UPDATES REQUIRED:
+- Class System draft: replace Sentinel with K-9/Rose
+- Class System draft: update all summon references to
+  companion references throughout
+- Companion names and personalities to be developed into
+  full character profiles in a dedicated session
+
+DATE: June 14, 2026
+
+WHY: Companions with soul create attachment. Attachment
+creates investment. Investment makes losing a run mean
+something beyond mechanical setback. The companion system
+is one of the primary emotional engines of the game.
+Rule of cool supersedes where applicable. Doug.
+
+REPLACES: Prior summon pool entry. Sentinel retired.
+Terminology shift: summons → companions, pipeline-wide.
+
+STATUS: NOTED
