@@ -2,7 +2,7 @@
 
 *Single source of truth for all pipeline documents*
 
-Last updated: June 12, 2026
+Last updated: June 14, 2026
 
 ---
 
@@ -38,6 +38,10 @@ trusting document statuses. If any content appears out of date,
 do not proceed. Request a manual paste from the designer instead.
 Manual paste is authoritative. Never fall back to memory.
 
+Use bash_tool with curl for all GitHub raw URL fetches —
+web_fetch serves stale CDN content regardless of URL format.
+curl is the reliable path.
+
 ---
 
 ## Document Status Hierarchy
@@ -72,6 +76,19 @@ Manual paste is authoritative. Never fall back to memory.
 
 ## Locked Documents
 
+### Guiding_Principles
+
+- **Status:** LOCKED — June 14, 2026
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/locked/Guiding_Principles
+- **Notes:** Design authority layer. Sits above all system documents
+  in the pipeline. Six operative principles: Consequence without
+  punishment, Mirrors not gates, Mastery is real and expressible,
+  Identity emerges through play, Power Unleashed, The name as tone
+  guardrail. Enforced through Forge's disposition. Validation order:
+  content is checked against Guiding Principles BEFORE other system
+  documents. Principle conflicts surface through Forge in design
+  conversations.
+
 ### Run_Design
 
 - **Status:** LOCKED — June 12, 2026
@@ -96,10 +113,15 @@ Manual paste is authoritative. Never fall back to memory.
 - **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/DRAFT/Class_System
 - **Notes:** Canonical specification for class mechanics — four
   classes, movement, offensive suites, mastery progression, mentor
-  system, power layers (eleven hero powers, class-adaptive summon),
+  system, power layers (eleven hero powers, class-adaptive companion),
   combo system. Canon Guard cleared. Cross-System Auditor complete.
   Surgical edits applied May 8, 2026. Pending consistency review
-  against locked Run Design before lock consideration.
+  against locked Run Design and significant June 14 updates before
+  lock consideration. June 14 updates: companion system established
+  (summons → companions), Sentinel retired, K-9/Rose confirmed,
+  S.G.T. confirmed, Giggles confirmed, Doug confirmed. Tactician
+  movement system substantially redesigned — momentum framework,
+  ram damage, speed scaling. Class balance pendulum established.
 
 ### City_Layer
 
