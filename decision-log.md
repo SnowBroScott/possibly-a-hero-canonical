@@ -1974,3 +1974,51 @@ REPLACES: Nothing — new principle. Extends and sharpens the NOTED
 Unleash pillar entry from June 12, 2026.
 
 STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Class balance follows a speed-to-durability pendulum.
+The four classes sit on a single axis:
+
+Speedster → Blaster → Tactician → Brawler
+
+Left end: fastest traversal, squishiest, slowest mob clear.
+Right end: slowest traversal, tankiest, fastest mob clear.
+Blaster and Tactician occupy the middle in that order — Blaster
+closer to Speedster (range as defense, precision output), Tactician
+closer to Brawler (infrastructure and durability, systemic clear).
+
+Each class's defense mechanism matches its identity:
+- Speedster: don't be there
+- Blaster: keep distance
+- Tactician: have prepared
+- Brawler: outlast
+
+The wall is the equalizer. Every class spends roughly the same
+total wall-time, in different proportions of moving versus clearing.
+A Speedster crosses the map faster but clears slower. A Brawler
+clears faster but arrives later. The advantage is never free.
+
+Power Unleashed holds completely. The Speedster's strongest power
+signature is speed — real from frame one. The Brawler's is strength
+— real from frame one. Squishiness is not the absence of power. It
+is the shape of it. The tradeoff is part of the identity, not a
+limitation on it. Genre literacy does the teaching — players
+familiar with warlock/shaman and engineer/hunter archetypes
+understand the contract without instruction.
+
+DATE: June 14, 2026
+
+WHY: The wall creates natural balance — traversal speed advantage
+trades directly against clear speed, keeping total run time
+roughly equivalent across classes. Squishiness as class identity
+rather than early-game handicap preserves Power Unleashed while
+creating meaningful differentiation. The pendulum ordering maps to
+established genre archetypes players already understand.
+
+REPLACES: Nothing — new framework. First explicit class balance
+specification.
+
+STATUS: NOTED
