@@ -1915,3 +1915,27 @@ NOT IN SCOPE OF THIS ENTRY: The design of minor objectives themselves
 — their types, moral textures, flavor, and emotional content — is a
 separate dedicated session. This entry defines only the architecture
 they operate within.
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The Guiding Principles layer is implemented through Forge's
+disposition, not as a standalone repo document. Forge is the sole
+principle guardian across the pipeline. Canon Guard and Cross-System
+Auditor handle document and cross-document validation only — principle
+conflicts surface through Forge in design conversations. No separate
+Guiding Principles document will be created.
+
+DATE: June 14, 2026
+
+WHY: The principles are already operational in Forge's instructions and
+active in every design conversation. A standalone document adds fetch
+overhead without adding authority. Forge carries the appropriate context
+and disposition for principled pushback; fighting the same battle across
+multiple agents is unnecessary overhead.
+
+REPLACES: Carries Open item (3) from the Guiding Principles layer
+LOCKED entry, June 13, 2026.
+
+STATUS: LOCKED
