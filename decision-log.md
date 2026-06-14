@@ -2112,3 +2112,49 @@ toggle on/off, can't turn mid-dash, stops at walls). This entry
 supersedes and substantially expands that prototype validation.
 
 STATUS: NOTED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Tactician summon changed from Sentinel to K-9.
+
+Sentinel (combat drone) is retired. K-9 (combat dog) is the
+Tactician summon.
+
+The Tactician's identity evolved significantly this session —
+from tech class to momentum class. A drone is a tool. The
+Tactician already has turrets. K-9 is a partner: commits fully,
+pursues relentlessly, trained response. Same emotional register
+as the class itself — picks a line and goes, no hesitation.
+
+Tactician combat system now reads as three distinct layers:
+- Momentum and ram damage — the approach
+- Turrets — hold ground, cover perimeter
+- K-9 — pursue, chase down what escapes the perimeter
+
+Each layer does something the others can't. No redundancy.
+
+DESIGN INTENT — VISUAL REFERENCE
+Wrong-way highway at top speed. Cars threading past on both
+sides. Encounter cluster ahead — no brake, straight through.
+Bodies scatter. Vehicle hits the wall behind the pack. Hard
+stop. Cooldown. Then: calm. Turret. Turret. Turret. K-9
+deployed. The chaos of the approach gives way to cold
+efficiency. The fight was over before it started.
+
+This sequence is the Tactician fully expressed. It is the
+emotional target for the class at mastery.
+
+DATE: June 14, 2026
+
+WHY: Rule of cool supersedes. K-9 has character Sentinel
+never had. It's exclusively Tactician — no other class has
+a dog. The emotional register matches the class identity
+the momentum system created.
+
+REPLACES: Sentinel (Tactician) in the summon pool. Class
+System draft summon entry needs updating: "K-9 (Tactician)
+— combat dog."
+
+STATUS: NOTED
