@@ -1,0 +1,237 @@
+GUIDING PRINCIPLES
+Possibly a Hero | Design Authority Layer
+STATUS: LOCKED
+
+───────────────────────────────────────────────────────────────
+
+AUTHORITY
+
+This document sits above all system documents in the pipeline.
+A system document that contradicts a principle is in error and gets
+corrected — the principle wins. Validation order: content is checked
+against these principles BEFORE it is checked against other system
+documents.
+
+Principles are enforced through Forge's disposition in design
+conversations. Canon Guard and Cross-System Auditor handle document
+and cross-document validation. Principle conflicts surface here.
+
+───────────────────────────────────────────────────────────────
+
+1. CONSEQUENCE WITHOUT PUNISHMENT
+
+One-liner: Actions have weight. Progress is never taken back.
+
+What it protects against: Setback mechanics that discourage
+engagement. Penalties that make players afraid to try something. Any
+system that takes back what a player has earned.
+
+The distinction: consequence is the world responding to what the
+player does. Punishment is the game taking something away. A failed
+run that earns no class mastery progress is consequence — the run
+counted for nothing, which is appropriate. A failed run that resets
+class mastery progress would be punishment — the game taking back
+what was already earned. These are different things.
+
+Rejects: Hero points lost on death. Class mastery progress reset on
+failure. City restoration set back by a bad run. Permanent negative
+states that compound over time.
+
+Permits: Failed runs that don't count toward class unlock thresholds
+(consequence, not punishment — you didn't earn it yet). Morale
+dipping after failed escort missions (the city feels it, but it
+always recovers). The hard 15:00 commitment gate — failing to commit
+ends the run (consequence — you had time and didn't use it, but
+nothing you'd already earned is taken back).
+
+───────────────────────────────────────────────────────────────
+
+2. MIRRORS NOT GATES
+
+One-liner: City buildings reflect what you've done. They never
+control what you can access.
+
+What it protects against: The city layer becoming a progression wall.
+Powers or content locked behind building requirements. Players having
+to build specific things before they can play the way they want.
+
+The distinction: a mirror shows you something that already happened.
+A gate controls whether something can happen at all. The gym logs
+hero powers you've discovered — it doesn't unlock them. The lair logs
+combos you've stumbled into — it doesn't enable them. The full hero
+power pool is available from run one regardless of city state.
+
+Rejects: A building that unlocks a hero power not previously
+available. A city stage requirement before certain missions appear.
+Training Center upgrades that make a power available — they can only
+make an available power deeper.
+
+Permits: Training Center upgrades that extend powers already proven
+in runs (deepening what exists, not unlocking new access). The
+combo log in the lair (records discovery, does not enable it).
+Class-specific narrative buildings that reveal themselves when
+conditions are met (the reveal is a mirror of earned mastery — the
+building was always there).
+
+Scope: Mirrors not gates governs the post-tutorial city. The tutorial
+arc uses city buildings to introduce run types — that is onboarding
+structure, not a systemic gate. Once the tutorial resolves, no
+building ever controls access again. The principle was never meant
+to govern the tutorial. It governs everything after it.
+
+───────────────────────────────────────────────────────────────
+
+3. MASTERY IS REAL AND EXPRESSIBLE
+
+One-liner: A skilled player with a mediocre build outperforms an
+unskilled player with a great one.
+
+What it protects against: Luck-dominant outcomes. Auto-win builds
+that play themselves. Randomness overwhelming player decisions.
+Passive and auto-proc stacking that removes execution from the
+equation.
+
+The distinction: randomness in setup is fine — what powers appear is
+random, and that's a feature. Randomness in execution is what this
+principle prevents. The skill is in what the player does with what
+they get. The gap between a skilled and unskilled player using the
+same build should be visible and meaningful.
+
+Rejects: A build configuration so powerful it plays itself regardless
+of player decisions. An RNG outcome that makes a skilled player's run
+unwinnable no matter how well they play. Combat systems that reward
+auto-proc accumulation over active deployment.
+
+Permits: Powerful builds that still require skilled execution to
+maximize. Random power selection during runs (random input, skilled
+output — the gap shows up in execution). Hero powers that have high
+skill ceilings alongside accessible floors.
+
+───────────────────────────────────────────────────────────────
+
+4. IDENTITY EMERGES THROUGH PLAY
+
+One-liner: Who you are in the world is discovered through play, not
+declared at the start.
+
+What it protects against: Front-loading meaningful story and
+reputation decisions before the player has played. Locking the
+hero's place in the world to creation choices. Letting the player
+declare who they are to the city before the city has had a chance
+to decide for itself.
+
+Scope: This principle governs the city and story layer — name,
+reputation, relationships, how the world decides to see you. It
+does not govern per-run mechanical expression. The run layer is
+where the player declares how they want to fight today. The city
+layer is where identity accumulates over time. These are different
+layers with different rules. The principle was always about the
+latter.
+
+The distinction: aesthetic choices at creation are costume, not
+character. Class selection is a per-run mechanical declaration, not
+a story identity declaration. What this principle prevents is the
+player declaring meaningful narrative identity — name, reputation,
+moral texture, how the world sees them — before any of it has been
+earned in play.
+
+Rejects: Choosing your superhero name at character creation.
+Selecting a permanent reputation or alignment before any run has
+happened. Any system that lets the player define who they are to
+the city before the city has watched them do anything.
+
+Permits: Cosmetic creation choices — gender, mask, cape, costume
+style, civilian name (aesthetic, not identity). Class selection per
+run (per-run mechanical expression — the class is how you arrive
+today, not who you are in the world). Names emerging from Citizens,
+the Superhero Community, and Rex Flynn through accumulated play.
+
+───────────────────────────────────────────────────────────────
+
+5. POWER UNLEASHED
+
+One-liner: You are always power — untrained, not underpowered.
+
+What it protects against: Weak early states. Ramp-up powers that
+require investment before they feel good. The roguelite "start weak,
+snowball to strong" contract. Any design that makes the early game
+feel deliberately gimped so the late game feels impressive by
+contrast.
+
+The distinction: untrained and underpowered are not the same thing.
+A player who doesn't know how to use a power yet is untrained. A
+power that doesn't do anything meaningful yet is underpowered. The
+first is a player arc. The second is a design failure. Peter Parker
+had full spider-powers from the moment he was bitten — he just hadn't
+learned to use them. That's the model.
+
+Rejects: A power that deals low damage until upgraded. An early game
+that feels weak by design. Powers described as "getting good later."
+Any mechanic that makes the player feel like they're waiting to be
+powerful rather than learning to express power they already have.
+
+Permits: Training Center upgrades that extend what a power can do
+(extending power that's already real, not fixing power that was
+broken). Class offensive suite unlocking at 10 and 30 runs — one
+powerful tool is already being power. Unlocks add weapons to an
+already-full arsenal. The arc is addition, not correction. If the
+starter power doesn't feel powerful from the first use, that is a
+balancing failure, not a design question. Coordination growing over
+time — the player becomes more capable of expressing the power they
+always had.
+
+Balancing law: Every power is powerful from frame one. Upgrades
+extend, not fix.
+
+───────────────────────────────────────────────────────────────
+
+6. THE NAME AS TONE GUARDRAIL
+
+One-liner: If a direction feels too serious for a game called
+Possibly a Hero, that's a signal.
+
+What it protects against: Pretension drift. Design directions that
+belong in a different, more self-serious game. Lore-heaviness.
+Excessive gravitas. Systems that read as Batman when the game is
+Spider-Man.
+
+The distinction: stakes and consequence are not the same as
+seriousness. Spider-Man has genuine stakes — loss, failure, cost.
+What the name prevents is portentousness. The hero can fail. The
+city can hurt. Rex Flynn can be a problem. None of that requires the
+game to take itself seriously in a way the name doesn't support.
+
+Rejects: A sacred order of superheroes with ancient mythology.
+Mentor characters who speak in portentous riddles about the burden
+of power. A city trauma mechanic that's emotionally heavy and
+punishing. Any direction that would embarrass someone who named
+their game Possibly a Hero.
+
+Permits: Real stakes, real consequences, real emotional moments —
+all of it, as long as the register stays comic-book kinetic rather
+than prestige drama. Rex Flynn's unhinged commentary. Names that
+start silly. Humor as part of the world's DNA.
+
+───────────────────────────────────────────────────────────────
+
+SUMMARY — THE SIX CHECKS
+
+When evaluating any design direction, run it against these in order:
+
+1. Does it take back something the player already earned?
+   → Consequence without punishment
+
+2. Does it gate access behind city state?
+   → Mirrors not gates
+
+3. Does it reduce skill's role in outcomes?
+   → Mastery is real and expressible
+
+4. Does it declare identity before play has earned it?
+   → Identity emerges through play
+
+5. Does it make the player feel weak rather than untrained?
+   → Power Unleashed
+
+6. Does it feel too serious for a game called Possibly a Hero?
+   → The name as tone guardrail
