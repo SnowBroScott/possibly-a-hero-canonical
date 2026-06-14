@@ -1950,19 +1950,18 @@ Operative form: "You are always power — untrained, not underpowered."
 
 The principle governs how the game feels, not how it's played. Power
 is real from frame one. Early game is untrained, not weak. No power
-ramps up from a weak state. No power is "good later." The player is
-always being power — at varying magnitudes and coordination levels,
-never at zero.
+starts underpowered. The player is always being power — at varying
+magnitudes and coordination levels, never at zero.
 
 Distinct from "mastery is real and expressible," which governs
 execution and playstyle. Unleash governs feel and emotional register.
 A ramp-up power fails Unleash without failing Mastery. They guard
 different territory.
 
-Balancing law that falls out of this principle: every power must be
-potent and complete on its own from the first frame held. This
-sharpens the existing "every power has standalone value before combo
-value" from preference into requirement.
+Balancing law that falls out of this principle: every power is
+powerful from frame one. Upgrades extend, not fix. This sharpens
+the existing "every power has standalone value before combo value"
+from preference into requirement.
 
 DATE: June 14, 2026
 
