@@ -2592,3 +2592,103 @@ less comical. No player read is "wrong"; the load-bearing mechanic holds across
 all of them. Behavior fixed, personality is the player's paint.
 
 STATUS: NOTED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: S.G.T. — complete companion model (Speedster). Origin (from the
+June 14 Companion System entry, intact): a military drone, built with AI and
+sent to neutralize the Speedster. The Speedster beat it. The fight gave the AI
+sentience; the sentience recognized the Speedster as the only thing that ever
+made it operate at full capacity, and it stayed by choice. S.G.T. is a
+consequence of what the Speedster did — fully their fault. That's not a burden;
+that's the relationship.
+
+REGISTER: Recruit-era Spock. Not coldness from emptiness — coldness from
+trying too hard. The human half (here: the sentient, feeling half) is close to
+the surface and S.G.T. overcorrects into logic and procedure precisely because
+the feeling is so near. The repression is the tell: "I do not experience
+loyalty; I have determined remaining with this unit is optimal" — that IS
+loyalty, said out loud. The more vulnerable the moment, the more clipped and
+procedural the voice. Military protocol is the ARMOR, reached for hardest when
+a feeling gets close.
+
+WHERE THE CHARACTER LIVES: NOT in combat. Combat is where S.G.T. is relieved
+of the feelings — pure function, the place he's allowed to just be a weapon,
+and he likes it there. The repressed loyalty and the tortured-soul glimpses
+surface BETWEEN fights — loadout, post-run, narrative beats, quiet moments.
+Glimpsed, never acknowledged. Structurally the inverse of Doug (whose character
+is mechanical/in-combat); S.G.T.'s character is in the negative space around
+combat.
+
+GENDER / IDENTITY (ambiguous BY DESIGN): S.G.T. is gender-ambiguous and this
+is canon, not a hedge. "It" is what the military called equipment; what S.G.T.
+IS now is an open, unresolved question the character hasn't finished answering.
+The unknown acronym, the unexamined self, the absent gender are the same wound:
+a thing that became a person and hasn't found out what kind. Deflects the
+acronym with procedural armor ("data corrupted in the sentience event; the
+question is irrelevant to mission function") — a unit very much not wanting to
+examine why it doesn't know who it is. (Also satisfies the Character Authorship
+model trivially: an ungendered companion writes safely to any player-built
+hero. S.G.T. respects YOU, no pronoun friction.)
+
+COMBAT FUNCTION — evasive mockery-tank (NOT a durability tank): Draws and holds
+enemy attention by being the most attractive AND most impossible target in the
+fight. Defends by NOT BEING HIT while standing right there — Neo / Bruce Lee /
+Shaolin: slips, redirects, and dodges fire from a near-stationary position
+rather than soaking it. The taunt is "hit me. You won't," never "hit me, I can
+take it." Creates openings for the Speedster by monopolizing the room's
+aggression and surviving via evasion. Mobile but NOT a zoomer — repositions,
+circles, prowls; shares the Speedster's "don't be there" defense but rejects
+her method (she avoids the fight by leaving; S.G.T. avoids damage by being
+untouchable inside it). Thematic spine: every capability used to PROTECT the
+Speedster was built to DESTROY her. The durability/persistence/lock-on
+targeting meant to pin her now points at everything that isn't her. A weapon
+aimed at the Speedster that turned around.
+
+THE BROKENNESS (origin + limit + comedy + pathos, one mechanic): S.G.T. is
+slightly broken — the same malfunction that produced sentience never confined
+itself to that. He is VERY capable but NOT perfect, and the imperfection
+surfaces as LOUD, intermittent randomness: the crowd-control taunt sometimes
+works great and sometimes barely works. This is the ceiling — partial/
+unreliable aggro keeps the Speedster's own fragility live (spillover always
+reaches her; he takes the edge off the swarm, never erases it) and keeps big
+fights scary (the more there is to manage, the more the glitch has room to
+surface). May not need a separate diminishing-returns system — the misfires
+ARE the ceiling. CRITICAL FRAMING: the loud miss must read as MISFIRE, not
+FAILURE — a flicker/stutter/hitch in him that passes, visibly HIS malfunction,
+never the player's mistake. Glitch-coded, not incompetence-coded. It is the
+audible twin of the dents: he won't repair the dents (visible scar) and won't
+acknowledge the misfires (invisible scar) — the same refusal to be repaired.
+Generates character every time it fires: "What happened there, buddy?" / "I
+have no idea what you are talking about." The denial is the punchline and it's
+pure S.G.T.
+
+THE THESIS: The brokenness is not damage he failed to fix — it is evidence he
+is CHOOSING. A perfectly-maintained drone is equipment; a drone that keeps its
+scars has decided something, and a thing that chooses is alive. The fault is
+never getting repaired, and that fault is exactly what makes him a person and
+not a machine.
+
+TUNING NOTE (deferred to prototype): frequency discipline, same as Doug —
+guard HOW OFTEN the misfire fires, not how loud. Rare enough that "what
+happened there, buddy" stays funny; a misfire every few seconds is just a bad
+taunt and the denial goes stale. Gold once a run, grating once a minute.
+
+DATE: June 15, 2026
+
+WHY: S.G.T. was the companion with a real design knot — how does repressed
+loyalty express as combat? Resolved by realizing it DOESN'T: combat is where
+the repression succeeds and he's free to be a weapon; the loyalty lives in the
+quiet around it. Combat function (evasive mockery-tank) and limit (loud-random
+brokenness) both fall out of the origin — built to counter the Speedster, so
+he moves like a rebuttal to her, and the malfunction that woke him is the same
+one that makes him unreliable. Every trait (dents, acronym, gender, misfires,
+repression) is one refusal to be repaired, and that refusal is what makes the
+machine a someone.
+
+REPLACES: Nothing — extends the Companion System NOTED entry (June 14) with
+S.G.T.'s full model. Does not alter Doug, Giggles, or Rose.
+
+STATUS: NOTED
