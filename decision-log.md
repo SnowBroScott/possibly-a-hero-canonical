@@ -2583,4 +2583,12 @@ REPLACES: Nothing — new decision. Operationalizes the "identity emerges throug
 play" principle for the writing layer; constrains all future class and
 companion narrative.
 
+CLARIFICATION (open thread resolved): Class personality is a strong authored
+DEFAULT, not a fixed cage. The companion relationship anchors to BEHAVIOR
+(Brawler unleashes when Giggles instigates), not personality (gentle). Gentle-
+giant is the authored default because it makes the unleash most comedic and is
+most on-tone — but an unhinged-giant read is an equally valid partnership, just
+less comical. No player read is "wrong"; the load-bearing mechanic holds across
+all of them. Behavior fixed, personality is the player's paint.
+
 STATUS: NOTED
