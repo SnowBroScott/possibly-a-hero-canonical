@@ -2526,3 +2526,61 @@ Giggles' full character register and relationship. Does not alter the other
 three companions.
 
 STATUS: NOTED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Character authorship model — the hero is player-authored, the class
+is author-authored, and class narrative is written as a TEMPLATE with the
+player's creation choices as variables. The companion work surfaced a latent
+tension: companions are relational by nature (each is defined by who they're
+attached to), which seemed to require defined heroes — conflicting with the
+locked principle that identity emerges through play. Resolution: the companions
+define the CLASS (its behavioral register), not the PLAYER. The player authors
+their hero's identity (surface + emerged name + playstyle + arc); the class
+provides an author-authored role the player inhabits.
+
+THE WRITING CONSTRAINT: No class narrative — story, mentor beat, companion
+relationship, or any authored prose — may contradict, override, or hard-code
+anything the player set at creation or earned through play. Creation choices
+are SLOTS, never constants. The story flexes around the hero the player built;
+it never describes a different one. A completed class story must survive a
+trivial substitution pass (e.g. an easy pronoun swap) with no contradictions
+left behind.
+
+THE SLOTS (player-authored variables a class story must flex around):
+  - Gender — pronouns and all gendered language. Write neutral or trivially
+    swappable.
+  - Mask / no mask — no beat may depend on a mask the player didn't choose
+    (e.g. no "removed their mask" if no-mask was selected). Avoid or fork.
+  - Cape / no cape — minor, mostly visual; no prose beat may depend on a cape.
+  - Costume style — rarely narrative-load-bearing; generally safe.
+  - Civilian name — a real variable. Any reference to it is a slot, not a
+    constant.
+  - Emerged hero name — earned through play, NOT set at creation. A sequencing
+    constraint: prose written before emergence cannot assume a name; prose
+    after must use the player's chosen emerged name.
+
+HIGHEST-RISK SURFACE — COMPANIONS: Companions are the most likely place to
+hard-code a fixed "him"/"her" or a specific name, because their souls are
+relational and they reference the hero directly (Giggles on the Brawler's
+shoulders; S.G.T. respecting the Speedster; Doug as a consequence of the
+Blaster). These relationships must be written to YOUR hero, whoever was built.
+S.G.T. respects YOU — not "a guy." Discipline is tightest here.
+
+DATE: June 15, 2026
+
+WHY: Enforcement mechanism for the locked Guiding Principle "identity emerges
+through play / creation determines the surface." The principle asserts the
+player owns their identity; this entry makes the class prose actually honor it
+by forbidding any authored text from asserting an identity detail the player
+didn't choose. Distinguishes player-authored identity (open) from author-
+authored class role (fixed) — the companions attach to the role's register, so
+they stay coherent regardless of who the player builds.
+
+REPLACES: Nothing — new decision. Operationalizes the "identity emerges through
+play" principle for the writing layer; constrains all future class and
+companion narrative.
+
+STATUS: NOTED
