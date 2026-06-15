@@ -2461,9 +2461,68 @@ inferred — the most on-theme possible resolution of "you can't fully perceive
 Doug." A faithful elder god would be the most off-tone object in the game; the
 name forbids it. The caricature is the only honest answer and the buildable one.
 
-REPLACES: Supersedes the earlier June 15 Doug entry (perceiver rule + visual
-model + combat floor/spike + per-tier ceiling), which is now incomplete. This
-entry holds the full model. Extends the Companion System NOTED entry (June 14);
-does not alter Giggles, S.G.T., or Rose.
+REPLACES: Nothing - This entry holds the full model. Extends the Companion System NOTED entry
+(June 14); does not alter Giggles, S.G.T., or Rose.
+
+STATUS: NOTED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Giggles — character register and relationship locked (Brawler
+companion). A Sprite: small, winged, visually delicate — the kind of creature
+you'd expect to be sweet. The entire character is that she is not. Carries a
+high-powered rifle nearly her own size (load-bearing: the absurd over-scale
+of the gun is the joke — it must read as far too much gun for something her
+size, never a prop), handles it with total comfort, laughs while she uses it.
+
+REGISTER: Tiny Tina meets Calvin (& Hobbes). Tina supplies the manic-feral
+delight and cartoon menace; Calvin supplies the innocence underneath — she
+isn't cruel, she's a kid who genuinely believes mayhem is the best game ever
+invented and cannot fathom why anyone's upset. The darkness is real (she means
+it, the gun works) but the motive is pure childlike joy, so it never curdles.
+"Just dark enough." Triangulated by negative space: cuter than Rocket (less
+bitter, less wounded), more lovable than Tyrion/Bronn (less cynical, no angle),
+meaner than Chewbacca (loyal, but she'll start something).
+
+THE RELATIONSHIP (load-bearing): Giggles is not the Brawler's conscience —
+she's their id, and specifically the instigator who pretends to be a bystander.
+The Brawler is a gentle, mild, awkward giant held back not by lack of power but
+by decency — he'd genuinely rather not. Giggles keeps engineering situations
+where "rather not" is off the table: she starts the fight he was avoiding,
+looks up half-apologetically-but-definitely-not, and says "Well, I guess you
+gotta now." She does not grant permission (that would make her a conscience).
+She removes his choice and acts like the situation did it. She's the spark, he's
+the payload. Neither works alone. The dynamic is the relationship — borrowed
+from Rocket & Groot (small loud one + big gentle one), execution original.
+
+ESTABLISHING IMAGE (for art when they're shown together): Giggles sitting on
+the Brawler's shoulders, kicking her feet in pure childlike joy, while the city
+burns behind them. Her most peaceful moment, perched on her gentle giant amid
+devastation — the contradiction at rest. This is the key art for the pair.
+
+COMBAT FUNCTION: Range and pursuit. The Brawler is melee, grounded, close;
+Giggles is airborne, ranged, chases down what runs. She fills the gap his body
+leaves open.
+
+VISUAL: Validated against the June 15 Lovable concept sheet — landed her
+unmistakably (over-scaled gun, gleeful-feral expression range, fake-innocent
+"not working"). Note the page's "joyful mayhem" framing runs a hair warmer than
+the locked register; watch for soft drift from "feral thing you love" toward
+"manic pixie with a gun" before lock.
+
+DATE: June 15, 2026
+
+WHY: Giggles is a gut-punch, not a knot — her contradiction (delicate form,
+unhinged energy) is carried relationally by the gentle Brawler, so locking the
+register and the instigator-not-conscience relationship is what protects the
+character; the rest is visual and was resolved by the concept art. The
+Tina-plus-Calvin pairing fixes the cute-vs-cruel dial precisely: real darkness,
+innocent motive.
+
+REPLACES: Nothing — extends the Companion System NOTED entry (June 14) with
+Giggles' full character register and relationship. Does not alter the other
+three companions.
 
 STATUS: NOTED
