@@ -2342,76 +2342,128 @@ STATUS: NOTED
 
 DECISION LOG ENTRY
 
-DECISION: Doug — full companion model (Blaster). Doug is a caricature of an
-elder god, never the genuine article — the form reads cosmic-horror, the tone
-never plays dread straight. The character is built on a single contradiction:
-horrifying form, anxious-and-curious demeanor. "That comically terrifying
-monster is my friend and that's awesome."
+DECISION: Doug — complete companion model (Blaster). Supersedes the earlier
+June 15 Doug entry, which captured only the pre-dark-register half. Doug is a
+caricature of an elder god, never the genuine article — the form reads
+cosmic-horror, the tone never plays dread straight. The character is built on
+a single contradiction: horrifying form, anxious-and-curious demeanor. "That
+comically terrifying monster is my friend and that's awesome."
 
-Doug is the constant; the PERCEIVER is the variable. Doug emits the same
-unprocessable presence to everyone, always — intent and demeanor never change.
-Reception differs by the observer's spare mental capacity and whether they've
-decided the world must be comprehensible:
-  - Enemies: in a maxed-out hostile threat-state, no spare capacity to
-    withstand proximity to something they can't categorize. The harm is the
-    enemy's own nervous system failing under a load Doug isn't aware he's
-    applying. Doug doesn't attack — Doug visits.
-  - Children: no rigid categories to overload, never decided the world must
-    make sense — so the incomprehensible delights rather than threatens.
+PERCEIVER IS THE VARIABLE (foundation):
+Doug emits the same unprocessable presence to everyone, always — intent and
+demeanor never change. Reception differs by the observer's spare mental
+capacity and whether they've decided the world must be comprehensible:
+  - The Blaster: acclimated, bonded — full clarity, sees the friend. Doug
+    exists because of what an untrained Blaster did. Not a burden — the
+    relationship.
+  - Children: no rigid categories to overload — the incomprehensible delights
+    rather than threatens.
   - City adults: categories formed but not in mortal combat — the
     uncanny-but-survivable middle. Unsettled and fond.
-  - The Blaster: acclimated, bonded — full clarity. Doug exists because of
-    what an untrained Blaster did. That's not a burden; that's the relationship.
-This rule is the foundation the city fan-group layer hangs off.
+  - Enemies with dark intent: see the LUCIFER REGISTER (below).
+This rule is the foundation the city fan-group layer hangs off — four fan
+groups are one rule with four readouts, not four flavor calls.
+
+THE LUCIFER REGISTER (the dark side, the "do you want to see who I really am"):
+Doug has a register the player almost never sees — the true, unrounded thing
+behind the endearing surface. Modeled on the Lucifer "charming front / mind-
+breaking truth" duality: it is NOT a transformation. Doug doesn't change. The
+curtain simply drops for observers who can no longer hold it up. A mind that
+arrives already dark, hostile, maxed-out in combat has nothing left to filter
+the true thing with — so it gets shown. Dark intent is the KEY that unlocks
+the register; you don't earn the horror by being good, you earn it by being
+the kind of mind that breaks against it. This is consequence without
+punishment pointed outward: Doug never judges, never aims, is incapable of
+malice — the observer's own darkness does the judging. Doug would be horrified
+to learn he's horrifying. He never will.
+
+INFERRED, NEVER SHOWN — THE CAMERA IS THE MECHANISM:
+The dark register is never rendered to the player. This is enforced
+structurally, not by willpower: the Hades-offset camera sits up and behind
+Doug, so the player permanently shares Doug's vantage — the friend/bond side.
+Faces that break are downrange, turned toward Doug and away from the player.
+The player sees the ENEMY'S reaction (recoil, horror) and Doug's anxious back;
+the abyss happens in the gap the camera structurally cannot point at.
+Reference staging: the withheld Beetlejuice "scary face" — backs of the
+monster, full faces of the terrified, the audience building the unseen horror
+out of the reaction shot. We animate being-horrified-at-the-horror, never the
+horror. The thing never shown stays more powerful than anything we could build,
+and the camera makes "never shown" un-fumbleable by future impulse.
 
 COMBAT MODEL:
-  - Baseline (reliable): fear-based crowd control — slow/freeze on nearby
-    enemies. This is what the Blaster can count on.
-  - Spice (unpredictable): rare, punctuated "Doug takes a personal interest"
-    events — Doug notices one specific enemy, wanders over, and that enemy has
-    the worst moment of their life. Legible after the fact, unpredictable
-    before. The randomness IS the zero-control relationship: most powerful
-    companion in the roster, no control over it.
-  - Potentiality ceiling (per-tier): Doug's personal-interest events can reach
-    trash only — thugs and henchmen. Never hard mobs, never bosses. Reads as
-    character (Doug isn't curious about the boss), not as a balance patch.
-    Protects every class's actual combat expression against enemies that matter.
+  - Baseline floor (reliable): fear-based crowd control — slow/freeze on
+    nearby enemies. What the Blaster counts on. Centered on Doug.
+  - Spike (unpredictable): rare "Doug takes a personal interest" events — Doug
+    notices one downrange enemy and that enemy has the worst moment of its
+    life. The Lucifer register, inferred via reaction. Legible after, never
+    before. The randomness IS the zero-control relationship.
+  - Per-tier ceiling: interest-events reach trash only — thugs and henchmen,
+    never hard mobs, never bosses. Reads as character (Doug isn't curious
+    about the boss), protects every class's real combat expression.
+
+POSITIONING & MOVEMENT (loose-on-a-tracking-tether):
+  - Doug roams free — wanders, gets distracted, ambles toward shiny things.
+    Spawn location is implementation convenience, not a design constraint.
+  - Doug's roam is bounded by a movement radius that tracks the Blaster's
+    position. Loose moment-to-moment, structurally near the Blaster always.
+    The Blaster sets the boundary; Doug fills it unpredictably — the
+    zero-control relationship rendered as a movement rule.
+  - Crowd-control floor is centered on Doug, so the tracking radius keeps it
+    reliably in the fight without anchoring it rigidly to the Blaster.
+  - The dark-register trigger is purely positional/camera: the register is
+    only available when Doug is between the Blaster and a downrange enemy with
+    the camera behind him. The Blaster can SET UP Doug's worst moments by
+    controlling the room — never command the outcome. Influence over
+    conditions, zero control over results.
+  - The tracking radius raises the odds the geometry lines up (enemies are
+    near the Blaster, Doug is near the Blaster), making the dark register
+    emergent-but-frequent rather than a rare cosmic accident — and makes the
+    radius a tuning dial on spike frequency.
+
+TUNING NOTES (deferred to prototype):
+  - Guard FREQUENCY over magnitude. How often Doug gets curious matters far
+    more than whether the victim is deleted or merely wrecked. Doug is curious,
+    not lethal — the fiction's alibi for rarity is built in.
+  - The tracking radius is load-bearing on TWO systems: floor reliability AND
+    dark-register frequency. They can't be tuned fully independently through
+    radius alone. If "reliable floor but rare abyss" is wanted, the spike
+    likely needs its OWN rarity throttle on top of the positional gate —
+    geometry says CAN, throttle says DOES. Keeps the two systems separable
+    despite the shared radius.
 
 VISUAL MODEL (build-ready):
   - Fixed, instantly recognizable silhouette — this is what makes it MY Doug.
     Bond requires recognition; a fully-random Doug would be weather, not a
-    companion.
+    companion. (Validated against the June 15 Lovable concept sheet: landed
+    Doug unmistakably, on the endearing side of the line.)
   - Incomprehensibility expressed as randomized FORM parameters on the fixed
-    rig, in the unsettling register: eye count, limb count, skin tone, the
-    wrong-number-of-angles read. You always know it's Doug; you could never
-    fill out a police report. The randomness lives in details you can't pin
-    down, not in what Doug fundamentally is.
-  - Separate, RARE comedy-accessory pool — baseball cap, an "I ❤️ [City]"
-    tourist tee, etc. Sourced from Doug's curiosity: he saw the four-limbed
-    locals wearing things and is trying it out. Kept rare and kept in its own
-    pool so Doug stays "terrifying monster who sometimes wears a souvenir tee,"
-    never "wacky mascot who sometimes has extra eyes." Form register stays
-    unsettling; accessory register is pure comedy; the order matters.
-
-TUNING NOTE (deferred): guard FREQUENCY over magnitude. Whether a noticed
-enemy is deleted or merely wrecked matters far less than how often Doug gets
-curious at all. The fiction's alibi for rarity is built in — Doug is curious,
-not lethal; not hunting. Tune "how often does Doug get curious," answer
-"rarely enough that you turn to watch when he does."
+    rig, unsettling register: eye count, limb count, skin tone, edges that
+    don't fully settle. You always know it's Doug; you could never fill out a
+    police report.
+  - Separate, RARE comedy-accessory pool — baseball cap, tourist tee, etc.,
+    sourced from Doug's curiosity about the four-limbed locals. Kept rare and
+    in its own pool so Doug stays "terrifying monster who sometimes wears a
+    souvenir tee," never "wacky mascot who sometimes has extra eyes." Form
+    register stays unsettling; accessory register is pure comedy; order matters.
+  - OPEN (low stakes): tourist-tee canon — "blend in with the locals"
+    (assimilation comedy) vs. "I ❤️ Dimension X" homesick-for-home comedy. The
+    Lovable concept reached for the homesick read. City-feedback layer leans
+    differently depending which is canon. Decide before lock.
 
 DATE: June 15, 2026
 
-WHY: Doug's nature wants randomness; Doug's role as a companion wants
-recognizability. Resolved not by picking one but by separating constant core
-(silhouette, intent, demeanor) from variable surface (form parameters, rare
-accessories, rare interest-events) — the same constant-core/variable-surface
-logic as the perceiver rule. A faithful elder god would be the most off-tone
-object in the game; the name forbids it. The caricature is the only honest
-answer and also the buildable one. Per-tier ceiling keeps Doug from
-trivializing real combat. Perceiver-is-the-variable makes the four city fan
-groups one rule with four readouts rather than four separate flavor calls.
+WHY: Doug's nature wants randomness and horror; Doug's role as a companion
+wants recognizability and warmth. Every tension resolved by the same move —
+constant core (silhouette, intent, demeanor), variable surface (form, accessory,
+interest-events, the register an observer is shown). The dark register gives
+Doug genuine teeth without ever costing the warmth, because the camera keeps it
+inferred — the most on-theme possible resolution of "you can't fully perceive
+Doug." A faithful elder god would be the most off-tone object in the game; the
+name forbids it. The caricature is the only honest answer and the buildable one.
 
-REPLACES: Nothing — extends the Companion System NOTED entry (June 14) with
-Doug's full model. Does not alter the other three companions.
+REPLACES: Supersedes the earlier June 15 Doug entry (perceiver rule + visual
+model + combat floor/spike + per-tier ceiling), which is now incomplete. This
+entry holds the full model. Extends the Companion System NOTED entry (June 14);
+does not alter Giggles, S.G.T., or Rose.
 
 STATUS: NOTED
