@@ -2337,3 +2337,81 @@ REPLACES: Prior summon pool entry. Sentinel retired.
 Terminology shift: summons → companions, pipeline-wide.
 
 STATUS: NOTED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Doug — full companion model (Blaster). Doug is a caricature of an
+elder god, never the genuine article — the form reads cosmic-horror, the tone
+never plays dread straight. The character is built on a single contradiction:
+horrifying form, anxious-and-curious demeanor. "That comically terrifying
+monster is my friend and that's awesome."
+
+Doug is the constant; the PERCEIVER is the variable. Doug emits the same
+unprocessable presence to everyone, always — intent and demeanor never change.
+Reception differs by the observer's spare mental capacity and whether they've
+decided the world must be comprehensible:
+  - Enemies: in a maxed-out hostile threat-state, no spare capacity to
+    withstand proximity to something they can't categorize. The harm is the
+    enemy's own nervous system failing under a load Doug isn't aware he's
+    applying. Doug doesn't attack — Doug visits.
+  - Children: no rigid categories to overload, never decided the world must
+    make sense — so the incomprehensible delights rather than threatens.
+  - City adults: categories formed but not in mortal combat — the
+    uncanny-but-survivable middle. Unsettled and fond.
+  - The Blaster: acclimated, bonded — full clarity. Doug exists because of
+    what an untrained Blaster did. That's not a burden; that's the relationship.
+This rule is the foundation the city fan-group layer hangs off.
+
+COMBAT MODEL:
+  - Baseline (reliable): fear-based crowd control — slow/freeze on nearby
+    enemies. This is what the Blaster can count on.
+  - Spice (unpredictable): rare, punctuated "Doug takes a personal interest"
+    events — Doug notices one specific enemy, wanders over, and that enemy has
+    the worst moment of their life. Legible after the fact, unpredictable
+    before. The randomness IS the zero-control relationship: most powerful
+    companion in the roster, no control over it.
+  - Potentiality ceiling (per-tier): Doug's personal-interest events can reach
+    trash only — thugs and henchmen. Never hard mobs, never bosses. Reads as
+    character (Doug isn't curious about the boss), not as a balance patch.
+    Protects every class's actual combat expression against enemies that matter.
+
+VISUAL MODEL (build-ready):
+  - Fixed, instantly recognizable silhouette — this is what makes it MY Doug.
+    Bond requires recognition; a fully-random Doug would be weather, not a
+    companion.
+  - Incomprehensibility expressed as randomized FORM parameters on the fixed
+    rig, in the unsettling register: eye count, limb count, skin tone, the
+    wrong-number-of-angles read. You always know it's Doug; you could never
+    fill out a police report. The randomness lives in details you can't pin
+    down, not in what Doug fundamentally is.
+  - Separate, RARE comedy-accessory pool — baseball cap, an "I ❤️ [City]"
+    tourist tee, etc. Sourced from Doug's curiosity: he saw the four-limbed
+    locals wearing things and is trying it out. Kept rare and kept in its own
+    pool so Doug stays "terrifying monster who sometimes wears a souvenir tee,"
+    never "wacky mascot who sometimes has extra eyes." Form register stays
+    unsettling; accessory register is pure comedy; the order matters.
+
+TUNING NOTE (deferred): guard FREQUENCY over magnitude. Whether a noticed
+enemy is deleted or merely wrecked matters far less than how often Doug gets
+curious at all. The fiction's alibi for rarity is built in — Doug is curious,
+not lethal; not hunting. Tune "how often does Doug get curious," answer
+"rarely enough that you turn to watch when he does."
+
+DATE: June 15, 2026
+
+WHY: Doug's nature wants randomness; Doug's role as a companion wants
+recognizability. Resolved not by picking one but by separating constant core
+(silhouette, intent, demeanor) from variable surface (form parameters, rare
+accessories, rare interest-events) — the same constant-core/variable-surface
+logic as the perceiver rule. A faithful elder god would be the most off-tone
+object in the game; the name forbids it. The caricature is the only honest
+answer and also the buildable one. Per-tier ceiling keeps Doug from
+trivializing real combat. Perceiver-is-the-variable makes the four city fan
+groups one rule with four readouts rather than four separate flavor calls.
+
+REPLACES: Nothing — extends the Companion System NOTED entry (June 14) with
+Doug's full model. Does not alter the other three companions.
+
+STATUS: NOTED
