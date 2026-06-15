@@ -2692,3 +2692,71 @@ REPLACES: Nothing — extends the Companion System NOTED entry (June 14) with
 S.G.T.'s full model. Does not alter Doug, Giggles, or Rose.
 
 STATUS: NOTED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Rose — complete companion model (Tactician). Rose is a military
+working dog: metal canines, MARPAT vest, devastating and adorable with no
+internal contradiction about it. A good girl who is also a legitimate combat
+asset. She is the Tactician's dog. (Confirmed from June 14: "Sentinel" retired,
+Rose/K-9 is the Tactician companion. Rose is a girl.)
+
+REGISTER — LOCKED LIGHT, ON PURPOSE: Rose is unconditional and uncomplicated.
+The ONLY companion with nothing repressed, nothing ironic, nothing hidden —
+pure good girl. Where Doug, Giggles, and S.G.T. all carry a locked or guarded
+interior, Rose is the exhale: the emotional release valve for the entire
+roster. Her flatness is LOAD-BEARING for the whole companion set — three
+guarded hearts need one open one. CRITICAL GUARDRAIL: Rose never gets a tragic
+backstory, a wound, a glitch, or a "thing." The moment Rose carries sadness she
+becomes a fourth locked heart and the roster loses its release valve. Protect
+her lightness actively — including from us. She needs no lore because everyone
+has already met a good dog; she is the most universally legible character in
+the game, and that is her strength.
+
+THE REAL FUNCTION — Rose is the window into the Tactician: The Tactician plans
+everything — momentum vehicle, turret perimeters, ram-damage vectors, highest
+skill ceiling in the roster, cold tactical machine. And they named their dog
+ROSE. The person who optimizes every variable has one input they will never run
+a cost-benefit on. Rose is not the Tactician's pet — Rose is the EVIDENCE of
+the Tactician's heart, proof the tactical exterior is a choice over a soft
+center, not the center itself. Same roster architecture as the other
+companions: the companion is the visible tell for the class's hidden heart.
+
+THE NAME vs. THE DOG (the key structural distinction): "Rose" the NAME is a
+thread into the Tactician's locked heart — mom, wife, daughter, a flower that
+meant something, a memory; the one un-optimized input in a life of
+optimization. This is OPEN, and belongs to the Tactician's own character work,
+NOT Rose's. Rose the DOG stays flat, joyful, subtext-free. THE TWO NEVER TOUCH.
+Rose carries none of the weight — she points at it. The reveal is the
+Tactician's; Rose just wags. Rose does not know she's named after anyone and
+never needs to. The power of the beat is the gap: the dog's total innocence
+sitting on top of the human's buried grief/love. Rose is the only companion who
+reveals a wound without sharing it. Do NOT give the dog a flashback.
+
+COMBAT FUNCTION — pursuit (from June 14): The Tactician builds the controlled
+zone (turret perimeter, field of fire); Rose chases down what escapes it. Also
+characterful — the most control/preparation-based class on the pendulum has one
+member of the team that is pure INSTINCT. She doesn't plan, she chases. The
+planner's box, the dog's chase.
+
+ROSTER NOTE: Nobody is going to let anything happen to Rose. (June 14, still
+the truest line about her — she is the one the whole world agrees to protect.)
+
+DATE: June 15, 2026
+
+WHY: Rose was correctly read as the easy one — her brief IS her build (good
+girl + metal canines + MARPAT vest), and the design discipline on Rose is
+mostly RESTRAINT: not overbuilding her, not S.G.T.-ing her into a tortured
+machine. Her value is the same roster architecture as the others (companion =
+tell for the class's heart) achieved with zero lore, plus a unique structural
+move — the NAME carries the Tactician's locked-heart thread while the DOG stays
+weightless, so she reveals the wound without sharing it. Her emotional flatness
+is the release valve that lets the other three stay as guarded as they are.
+
+REPLACES: Nothing — extends the Companion System NOTED entry (June 14) with
+Rose's full model. Completes the four-companion roster (Giggles, S.G.T., Doug,
+Rose). Does not alter the other three.
+
+STATUS: NOTED
