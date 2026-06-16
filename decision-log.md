@@ -2961,3 +2961,65 @@ PROTOTYPE QUESTIONS:
   play, or does one approach dominate?
 - Does trash being truly worthless feel clean, or does it read as the
   player "wasting" effort in a way that frustrates?
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Minor objective activation and abandonment model.
+
+ACTIVATION: Minor objectives are navigated to, not stumbled into. The
+minimap shows the player WHERE a minor objective is and THAT one is
+happening — but not its specific type or mechanics until the player
+arrives. (Consistent with the three-rung model, 6/13: minor objectives
+live on the minimap; ambient encounters do not.) "Proximity activation"
+and "interact activation" are two presentations of the same underlying
+structure, not a design fork — the player goes to a known location and,
+on arrival, either the situation is live (proximity) or the player opts
+in (interact). Presentation differs; structure is identical.
+
+CHOICE IS ALWAYS OPEN: The player can decline a minor objective before
+engaging and abandon one after engaging, at any time, with no hard lock.
+The 20-minute run wall is the only hard pressure on the decision. The
+moral choice — "can I afford the time to help" — is always genuinely the
+player's.
+
+ABANDONMENT / OUTCOME MODEL — three outcomes, ONE currency, never a stat
+penalty:
+- COMPLETE → addition to feedback currency (the reward is earned).
+- IGNORE / never engage → zero-sum (nothing gained, nothing lost; the
+  city does not grudge what it never saw refused).
+- TRIGGER then ABANDON → zero mechanical currency (same as ignore), but
+  a DISTINCT NARRATIVE reaction (Rex clip, citizen response, name
+  register) that ignoring does not produce.
+
+The difference between "ignored" and "tried and abandoned" is NARRATIVE,
+not currency. The world reacts differently in its VOICE; it does not
+levy a different mechanical cost.
+
+GUARDRAIL: Feedback currency shifts the FLAVOR of the world's response
+(which name, which Rex register, which citizen mood) — it NEVER gates
+ACCESS. A damning name is still an unlocked name; a mocking clip is still
+an earned modifier. The meter changes which reward appears, never whether
+a reward appears.
+
+WHY: Docking currency for trigger-then-abandon would punish the player
+for ENGAGING while the player who ignored the objective pays nothing —
+teaching "better never to have tried," the exact inverse of the moral
+engagement this pillar exists to celebrate. Choosing which life you can
+afford to save under the clock is triage, the most heroic-under-pressure
+act in the game, not villainy. In a 20-minute wall, failing to GAIN is
+already a meaningful cost — the opportunity cost is the consequence, and
+no penalty layer is needed. This keeps minor objectives fully inside
+consequence without punishment.
+
+REPLACES: Nothing — new decision. Builds on the enemy archetype entry
+(6/16) and the three-rung event/reward model (6/13, NOTED).
+
+STATUS: NOTED
+
+PROTOTYPE QUESTIONS:
+- Is opportunity cost against the wall a strong enough felt consequence
+  for abandonment, without a mechanical penalty?
+- Does the navigate-to / reveal-on-arrival loop read clearly with the
+  minimap, or does unknown-mechanic-until-arrival frustrate?
