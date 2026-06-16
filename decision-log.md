@@ -2907,3 +2907,57 @@ REPLACES: DRAFT status of Class_System. Supersedes the prior DRAFT/Class_System
 document, now retired from the draft directory.
 
 STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Enemy "resistance" is retired as a concept. Enemies are
+categorized by fight-style archetype, not by elemental/damage-type
+resistance. The vocabulary is four buckets, serving two jobs:
+
+THREE ON-AXIS (vary the COST of a fight — how much wall-time it takes
+a given class to clear):
+- Durable — melee, high durability, low threat range. Brawler-style.
+- Ranged — ranged, high damage, low durability. Blaster-style.
+- Mobile — fast, hard to hit, must close to threaten. Speedster-style.
+
+ONE OFF-AXIS (varies the DURATION of a fight — attacks the player's
+wall-time directly):
+- Spawner — hangs back, produces trash via swarm/reinforcement.
+  Spawned trash is pure clock-drain: NO reward, NO XP, no drops.
+  The spawner is the source and the only thing that matters.
+
+SPAWNER REWARD MODEL: the reward is carried by the spawner and drops
+ON DEATH of the spawner — not on room-clear. Killing the source ends
+the encounter and pays out; leftover trash is irrelevant and never
+needs to be cleared. This keeps "kill the head" as the only lesson,
+keeps trash genuinely worthless, and self-balances on the wall (longer
+flailing = worse time-to-reward, never a locked door).
+
+WHY: Elemental resistance was a latent violation of "every power is
+potent and complete from frame one" — a resistance stat exists to make
+a power less complete against certain targets, a soft can't-win the
+dice impose. Replacing it with fight-style archetypes puts "resistance"
+in the MATCHUP (class vs. enemy on the shared axis), not in the enemy,
+so a bad matchup costs time and coordination, never access — making
+"meaningfully slower, never can't-win" automatic rather than enforced.
+The archetype IS the silhouette IS the tell: the player reads encounter
+cost diegetically off enemy fight-style, no UI, learned by playing —
+same engine that teaches the class pendulum. On-death reward generates
+multiple clean class strategies for the same goal (focus-fire the
+spawner vs. AOE the room) without authored matchups, expressing the
+Unleash pillar through level design.
+
+REPLACES: The concept of enemy elemental/damage resistance. Nothing
+formal previously logged.
+
+STATUS: NOTED
+
+PROTOTYPE QUESTIONS:
+- Does fight-style silhouette read clearly enough WITHOUT UI at the
+  Hades-offset camera distance?
+- Does spawner-on-death actually produce distinct class strategies in
+  play, or does one approach dominate?
+- Does trash being truly worthless feel clean, or does it read as the
+  player "wasting" effort in a way that frustrates?
