@@ -477,7 +477,7 @@ from run one — no city building controls which powers can appear. Every power
 in the pool has standalone offensive value before combo value. The ridiculous
 combination the player didn't plan for is not a malfunction. It is the point.
 
-Full pool (ten powers):
+Full pool (seven powers):
 
 MAGNETISM
 Pull enemies together. Redirect projectiles back at their sources. Strip
@@ -518,10 +518,14 @@ Stuns. Disorients. Chain damages through a cluster. The Sonic Scream does
 not pick one target — it addresses the room.
 
 (Companions are no longer a hero power. The former "Summon" pool entry has
-been promoted out of this layer into its own system — see Section 6. The hero
-power pool is ten powers as a result. Class-adaptive companions are not
-random mid-run pickups; they are the class's companion, present as part of
-the class.)
+been promoted out of this layer into its own system — see Section 6. The pool
+is seven powers as a result. Count lineage: the pool was originally eleven
+entries, counting the four class summons separately (Gorilla, Double Time,
+Specter, Sentinel). May 8 consolidated those four into a single class-adaptive
+"Summon" entry — eleven to eight. June 14 promoted that one entry out of the
+pool into the Companion System — eight to seven. Class-adaptive companions are
+not random mid-run pickups; they are the class's companion, present as part
+of the class.)
 
 
 LAYER 3 — SUPPORT POOL
@@ -561,7 +565,7 @@ against scope creep:
 
 Giggles   (Brawler)    — DPS (ranged)        — Brawler is melee, can't reach
 Rose      (Tactician)  — DPS (pursuit)       — Tactician is stationary
-S.G.T.    (Speedster)  — Tank (aggro/control)— Speedster is squishy, can't hold
+S.G.T.    (Speedster)  — Tank (evasive aggro) — Speedster is squishy, can't hold aggro
 Doug      (Blaster)    — Support (crowd ctrl)— Blaster gets swarmed up close
 
 The role is the leash. Each companion fills the one role its class cannot play
@@ -580,8 +584,9 @@ systems wait.
 Doug: build the crowd-control floor. Defer the dark register, the rare
 "personal interest" damage spikes, the tracking radius, the camera-gated
 inference layer.
-S.G.T.: build aggro-draw. Defer the dual-mode flight, the misfire system,
-the partial-aggro-spillover tuning.
+S.G.T.: build aggro-draw. Defer the prowl/reposition mobility refinement
+(mobile but not a zoomer — circles and repositions), the misfire system,
+and the partial-aggro-spillover tuning.
 Giggles: ranged DPS plus the instigate-to-Brawler-unleash hook. Clean as is.
 Rose: pursuit DPS. Clean as is.
 
@@ -624,11 +629,15 @@ Archetype: Rocket and Groot. The dynamic is borrowed. The characters are
 original. Name origin: sounds delicate. Isn't.
 
 
-SPEEDSTER — S.G.T. — Tank (aggro / control)
+SPEEDSTER — S.G.T. — Tank (aggro / control) — evasive, NOT durability
 
 What the Speedster lacks: anything that can keep up, and anything that can
-hold a position. The Speedster is squishy and never stops moving. S.G.T. draws
-aggro and holds the line the Speedster can't.
+hold a position. The Speedster is squishy and never stops moving. S.G.T. pulls
+aggro off the Speedster and survives it the way the Speedster would — by not
+being where the hit lands. This is an EVASIVE mockery-tank, not a durability
+tank: S.G.T. draws fire and slips it ("hit me — you won't"), it does not soak
+damage. The distinction is load-bearing. A durability-tank build direction is
+wrong for this companion; the role is taunt-and-evade, not taunt-and-absorb.
 
 What S.G.T. is: a military drone built with AI, sent to neutralize the
 Speedster. The Speedster beat it. The fight gave the AI sentience, and that
@@ -883,6 +892,9 @@ Decision-log sources incorporated into this revision:
 
 Class balance pendulum (NOTED, June 14) — Section 2A
 Tactician movement system, momentum framework (NOTED, June 14) — Section 2B
+Tactician vehicle toggle architecture — on-foot default, vehicle as toggled
+movement-and-ram ability, dismount-on-brake (LOCKED, June 15; supersedes the
+May 3 permanent-vehicle clause) — Sections 2 and 2B
 Tactician summon Sentinel → K-9 → Rose (NOTED, June 14–15) — Section 6
 Companion system established, summons retired (NOTED, June 14) — Section 6
 Doug / Giggles / S.G.T. / Rose complete models (NOTED, June 14–15) — Section 6
@@ -894,6 +906,6 @@ Power Proving — Three-Condition Definition (May 8, 2026)
 
 
 Status note: companions promoted out of the hero power pool. Hero power pool is
-now ten powers (Section 5), down from eleven. The former class-adaptive Summon
+now seven powers (Section 5). The former class-adaptive Summon
 entry is retired as a pool entry and re-homed as the Companion System
 (Section 6).
