@@ -3137,3 +3137,66 @@ PROTOTYPE QUESTIONS:
 DEFERRED (not designed here): the objective-type list and its scale
 grading (HP-7-adjacent); the civic reward economy machine (HP-12);
 objective-type flavor mechanics (timer/hunting/mini-boss).
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The feedback layer is a single hidden scale, read through three
+voices — it is not a currency.
+
+THE SCALE. The feedback system is one hidden scale, not a currency. There
+is nothing to earn, spend, collect, or bank. The player's actions add
+weight to one side, subtract weight, or add no weight at all. The player
+never sees a number — there is no meter, bar, or balance. The scale's
+lean becomes visible ONLY through the world's reactions. ("Currency" was
+prior framing used to reason about the system transactionally; it is
+retired — there is no transaction, only weight.)
+
+ONE SCALE, THREE INTERPRETATIONS. There is a single underlying scale. The
+three channels (Citizens, Superhero Community, Rex Flynn) each interpret
+the SAME lean through their own voice. They agree on what happened; they
+disagree on what it means. Example — the hero saves three citizens in a
+run: Citizens read warmth and post affection; the Superhero Community
+reads competence and bravery; Rex reads a fraud angle and manufactures
+"proof," because the fraud angle performs. Same event, same weight on the
+scale, three readings.
+
+This is why the channel disagreement (a locked non-negotiable in World
+Feedback) is preserved WITHOUT three separate scales: the disagreement
+lives in the INTERPRETATION (voice), not in the DATA (the scale). Three
+independent scales would let the channels disagree about what happened;
+one scale read three ways has them agree on the event and disagree on the
+meaning — a sharper disagreement and a cheaper build. The architecture is
+one hidden lean plus three authored interpretation layers, which are
+writing, not a system.
+
+RELATIONSHIP TO HERO POINTS. The feedback scale and Hero Points are
+different KINDS of object and are not the same track. The scale is WEIGHT
+(it leans; nothing is banked). Hero Points is a CURRENCY (mechanical,
+earned from minor objectives, carried, spent on power deepening elsewhere).
+In World Feedback, Hero Points is at most a one-line mechanical
+cross-reference; it is not part of the feedback layer.
+
+WHY: "Currency" implied a balance to manage and created a false seam
+between feedback and Hero Points. Modeling feedback as a hidden scale
+read through three voices matches what World Feedback already described in
+prose (no approval meter, no reputation bar) — it names the mechanism the
+document always implied. It collapses the complexity of multiple scales
+while strengthening the locked channel-disagreement non-negotiable, and
+it keeps the system's build cost in writing (voice) rather than in
+systems. It is an expression of feedback-as-narrative-mirror (NOTED 6/16):
+the mirror reflects a lean; it never tallies.
+
+REPLACES: Retires the "feedback currency" framing. Refines and is
+consistent with feedback-as-narrative-mirror (6/16) and the minor-objective
+outcome model (6/16, "complete = add" — the add is weight on the scale and
+mechanical Hero Points, never a feedback balance).
+
+STATUS: NOTED
+
+DEFERRED (not designed here): whether the scale tracks types of action
+with different weights (one-dimensional vs. textured), and how the lean is
+computed into specific channel reactions — the civic reward economy
+machine (HP-12). The scale EXISTS and LEANS; its internal resolution stays
+in the box.
