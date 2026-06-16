@@ -1841,6 +1841,16 @@ SUPPORTING DECISIONS:
   by farming trash. This redefines HP from a generic combat reward
   into the currency of having helped.
 
+SUPERSESSION NOTE (June 15, 2026): The "ONLY through minor
+objectives" claim was NOT adopted. Run Design (LOCKED, June 12,
+2026) governs: Hero Points accumulate from BOTH mob drops AND minor
+objectives, full carry, regardless of outcome. A NOTED entry cannot
+override a LOCKED document. The civic-currency framing (HP spent on
+power deepening; minor objectives as the meaningful HP source) is
+retained as design flavor where consistent with Run Design — but mob
+drops remain a canonical HP source. Run Design is authoritative on
+HP sourcing.
+
 - REWARD MATCHES THE ACT'S NATURE. Self-interested acts (encounters)
   pay self-interested reward (your build). Other-directed acts (minor
   objectives) pay other-directed reward (the city's recognition and
@@ -1915,6 +1925,14 @@ NOT IN SCOPE OF THIS ENTRY: The design of minor objectives themselves
 — their types, moral textures, flavor, and emotional content — is a
 separate dedicated session. This entry defines only the architecture
 they operate within.
+
+SUPERSESSION NOTE (June 15, 2026): Reversed same session. A standalone
+Guiding Principles document WAS created and is LOCKED at
+/locked/Guiding_Principles (June 14, 2026). It sits above all system
+documents as the design authority layer. This entry's "no separate
+document" claim is retired. Forge remains the principle guardian in
+design conversations; the locked document is the written authority
+Canon Guard and Cross-System Auditor validate against.
 
 ---
 
@@ -2195,6 +2213,15 @@ The emotional beat: Giggles is the one who says "it's okay. You
 can now." And then the Brawler unleashes.
 Combat function: range and pursuit — covers what the Brawler
 can't reach. Perimeter pressure while the Brawler anchors close.
+
+SUPERSESSION NOTE (June 15, 2026): Giggles' combat function is
+RANGED DPS. The earlier "range and pursuit" language is retired.
+"Pursuit" is not a distinct companion role — the companion roles
+frame uses two DPS bands, ranged and melee. Giggles is ranged DPS
+(Brawler is melee, can't reach); Rose is melee DPS (Tactician is
+stationary, can't close). Giggles does not pursue; she covers the
+perimeter by fire.
+
 Archetype: Rocket and Groot. The dynamic is borrowed. The
 characters are original.
 Name origin: sounds delicate. Isn't.
@@ -2231,6 +2258,15 @@ S.G.T. pretends not to notice.
 Combat function: the only thing that matches the Speedster's
 speed. Aerial, fast, precision targeting. Keeps up. That's
 the whole point.
+
+SUPERSESSION NOTE (June 15, 2026): The S.G.T. combat description in
+this entry ("aerial, fast, precision targeting — keeps up") is
+SUPERSEDED by the June 15, 2026 S.G.T. complete model. Canonical
+S.G.T. is an evasive mockery-tank (Tank role: draws aggro and slips
+fire, NOT a durability tank), mobile but not a zoomer — repositions,
+circles, prowls. The "aerial/fast/keeps-up" framing is retired. See
+the June 15 S.G.T. entry for the authoritative spec.
+
 Name origin: kept its military designation. Can't go back to
 a full callsign. Not ready to be anything else yet. S.G.T.
 is the identity crisis expressed in three letters. The acronym
