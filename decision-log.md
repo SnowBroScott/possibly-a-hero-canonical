@@ -2880,3 +2880,30 @@ open — that entry reframed the vehicle as a toggle without explicitly retiring
 the "permanent / no exit" language.
 
 STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Class System is LOCKED. The class mechanics specification —
+four classes on the speed-to-durability pendulum, class-locked movement,
+three-layer power architecture, seven-power hero pool, the Companion System
+(Giggles/ranged DPS, Rose/melee DPS, S.G.T./evasive tank, Doug/support),
+companions-as-RPG-roles with V1 one-role scope, the Tactician momentum/toggle
+movement system, the Character Authorship model, and the mentor system — is
+locked as a system document. It now constrains all drafts below it.
+
+DATE: June 15, 2026
+
+WHY: All June 14–15 design (companions, pendulum, Tactician reimagining,
+authorship) has been incorporated and reconciled. Canon Guard returned PASS.
+Cross-System Auditor returned TENSIONS FOUND, all MINOR, all resolved as
+decision-log housekeeping with no structural revision required. The document
+is consistent with locked Run Design (June 12), locked Guiding Principles
+(June 14), the Brawler direction lock (June 15), and the Tactician toggle
+lock (June 15). It has earned lock.
+
+REPLACES: DRAFT status of Class_System. Supersedes the prior DRAFT/Class_System
+document, now retired from the draft directory.
+
+STATUS: LOCKED
