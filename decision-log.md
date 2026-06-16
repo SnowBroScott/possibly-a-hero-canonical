@@ -3200,3 +3200,68 @@ with different weights (one-dimensional vs. textured), and how the lean is
 computed into specific channel reactions — the civic reward economy
 machine (HP-12). The scale EXISTS and LEANS; its internal resolution stays
 in the box.
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Name and unlock emergence is a three-branch behavioral engine —
+not a position on the feedback scale.
+
+Names and unlocks emerge from WHICH BEHAVIOR-PATTERN the hero exhibits, read
+directly — not from where the feedback scale sits. The naming engine watches
+what the hero keeps doing. The feedback scale (the presence/warmth lean) is
+one of the things the world reacts to, and it drives citizen warmth and the
+morale temperature — but it is NOT the naming engine. Naming reads behavior
+patterns directly.
+
+THREE BEHAVIORAL BRANCHES, each with its own register of names:
+
+1. SHOWED UP — engaged and completed. The hero who answers. Presence names:
+   warm, earned, heroic-trending. ("Maple Street's Person.")
+
+2. DIDN'T SHOW — never engaged; absent. The hero who isn't there. Absence
+   names: the ghost register. ("The Invisible," "Nowhere to Be Seen.")
+
+3. ABANDONED — engaged, then walked away. The hero who starts and leaves —
+   the only branch where the citizen saw the hero's face before they turned
+   around. Its own register, distinct from absence: ("All Talk," "The Tease,"
+   "Almost.") Mechanically identical to ignoring (zero scale weight), but a
+   different STORY — presence-then-absence, not absence — so a different
+   name set.
+
+WHY THREE BRANCHES, NOT ONE SCALE: A single cold-to-warm scale position cannot
+encode the difference between ignoring and abandoning — both add zero weight,
+yet they produce completely different names because the world experienced
+different things. Reading behavior patterns directly captures this; reading a
+scale position cannot. This also removes any "bad end" of the scale: absence
+and abandonment names are not cold positions, they are observed patterns, the
+same way "always rescues cats" would be a pattern.
+
+CONSEQUENCE WITHOUT PUNISHMENT HOLDS: Every branch only ADDS a name. No branch
+deducts, degrades, or reverses. "All Talk" surfacing does not erase "Maple
+Street's Person" — the hero's history contains both, because the hero was
+both, at different times. All names are permanent, available, and adoptable;
+the player wears whichever reflection they choose. An absence- or
+abandonment-name is a mirror of a real pattern, not a penalty — some players
+will adopt "The Invisible" or "The Tease" on purpose.
+
+WHY: The scale model defined a presence lean but could not explain how
+absence and abandonment produce names, since both are mechanically zero on the
+scale. Separating the NAMING ENGINE (reads behavior patterns) from the SCALE
+(reads presence/warmth) resolves this: there are three nameable behaviors, each
+its own branch, and the engine names the patterns that are actually there.
+
+REPLACES: Supersedes the "names and unlocks STALL, never reverse" framing in
+the zero-state entry. Corrected model: emergence does NOT stall during absence
+— absence is itself a nameable pattern that feeds the DIDN'T-SHOW branch. Names
+still never reverse. Consistent with the scale model, the zero-state entry's
+reflect-never-escalate line, and the minor-objective outcome model (all 6/16).
+
+STATUS: NOTED
+
+DEFERRED (not designed here): how the three branches weight against each other,
+how the engine handles a hero who is all three across a career (dominant
+pattern vs. all patterns named), and the actual derivation of names — the
+civic reward economy machine (HP-12). The branches EXIST; their engine stays
+in the box.
