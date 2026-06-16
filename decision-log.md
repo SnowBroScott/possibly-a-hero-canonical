@@ -3067,3 +3067,73 @@ REPLACES: Nothing — new recognition. An application of mirrors not gates
 (locked Guiding Principles) to the narrative layer.
 
 STATUS: NOTED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Minor objectives — the emotional core (the choice engine).
+
+THE CHOICE IS THE ENGINE. A minor objective resolves to a single yes/no
+under pressure: turn toward the citizen or toward the run. This is the
+purest expression of the verb the whole game already runs on — the same
+engine as the 15:00 commitment gate, "can I afford this fight" at every
+encounter, brake-or-stay-at-speed, which name to accept. Minor objectives
+are the MORAL face of that engine. The choice is the soul; consequences
+and rewards follow it, but the choice itself is what drives the game.
+
+PARTIAL INFORMATION, SKILL-READ. The world always presents partial
+information — a citizen in danger, the enemy archetype's silhouette, the
+clock. It is never a full pre-commit readout. SKILL is what converts
+partial information into an informed decision: a new player takes a gut
+leap; a veteran reads the silhouette, knows their class's time-cost, and
+makes a calculated call. Same information on screen, different decision
+underneath. This is the same coordination arc as combat (untrained reads
+chaos, masterful reads information) — the moral choice and the tactical
+read are the same muscle, grown the same way.
+
+THE MIDDLE-50% SCALE. Minor objectives live in the middle band of a
+weight scale — never "life or death," never "meaningless." Too heavy and
+"no" becomes villainy (a gate, punishment for not helping); too light and
+the choice collapses into a reflex button (no engine). The middle band is
+the only place the choice stays both REAL (heavy enough to matter) and
+FREE (light enough that declining is never villainy). The scale is how
+consequence-without-punishment survives a moral choice.
+
+OWNERSHIP — WHO SETS THE WEIGHT:
+- DESIGNERS own the STAKES. An objective's place on the scale is set by
+  the intrinsic weight of the incident (a child vs. a stolen purse),
+  graded explicitly EXCLUDING the clock. This is authored per objective
+  type.
+- THE PLAYER owns the CLOCK. How much that weight costs in a given run —
+  the pressure — is a product of the player's build, position, and
+  remaining wall-time. Designers never author this.
+- THE MOMENT IS EMERGENT. The felt weight of any single choice is the
+  product of authored stakes × player-owned pressure. Designers build the
+  multiplicand, never the product. We do not script, predict, or
+  manufacture the moment — doing so would take the clock from the player
+  and manufacture pressure AT them, which is punishment in disguise.
+
+WHY: The choice is the game's central verb concentrated into its moral
+form. Keeping information partial and skill-readable makes the choice grow
+with the player on the same arc as combat. The middle-50% scale and the
+designer-stakes / player-clock split are what keep the choice simultaneously
+weighty and free — the exact balance consequence-without-punishment
+requires once a choice is moral rather than tactical.
+
+REPLACES: Nothing — new decision. Ties together the minor-objective
+activation/outcome model (6/16), the enemy archetype read (6/16), and the
+feedback-as-narrative-mirror recognition (6/16) into the pillar's emotional
+core.
+
+STATUS: NOTED
+
+PROTOTYPE QUESTIONS:
+- Does the clock alone generate enough felt pressure to make "yes" a real
+  sacrifice for a good player, or does the middle-50% weight need a floor?
+- Can a new player make satisfying gut-leap choices on partial info, or
+  does too little information read as unfair rather than skill-gated?
+
+DEFERRED (not designed here): the objective-type list and its scale
+grading (HP-7-adjacent); the civic reward economy machine (HP-12);
+objective-type flavor mechanics (timer/hunting/mini-boss).
