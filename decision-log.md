@@ -2760,3 +2760,31 @@ Rose's full model. Completes the four-companion roster (Giggles, S.G.T., Doug,
 Rose). Does not alter the other three.
 
 STATUS: NOTED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Brawler character direction — the quiet to Giggles' loud. The
+Brawler's defining register is quiet: still, restrained, not seeking the
+fight. This is deliberately under-defined — "quiet" is the contrast that makes
+the Giggles relationship work, not a full personality. What the quiet means is
+the player's to fill in.
+
+WHY: The contrast with Giggles is the whole point, and the most important axis
+of it is volume. Giggles is loud; the Brawler is quiet. Giggles functions as
+instigator — she disrupts the quiet, removes the "I'd rather not," and the
+Brawler unleashes. The dynamic needs a still surface for her to break; it does
+not need a defined interior behind it. Per the Character Authorship model
+(June 15), the companion anchors to BEHAVIOR (Brawler unleashes when Giggles
+instigates), and "quiet" stays a behavioral register rather than a personality
+cage — the fixed contrast is loud-vs-quiet; what the quiet means is the
+player's paint.
+
+REPLACES: Nothing — formalizes and narrows the Brawler character note from
+June 14, 2026 (the "gentle giant" framing) to its load-bearing core. Unblocks
+Class System edit 1.8.
+
+DATE: June 15, 2026
+
+STATUS: LOCKED
