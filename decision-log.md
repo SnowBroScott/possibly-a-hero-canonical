@@ -3023,3 +3023,49 @@ PROTOTYPE QUESTIONS:
   for abandonment, without a mechanical penalty?
 - Does the navigate-to / reveal-on-arrival loop read clearly with the
   minimap, or does unknown-mechanic-until-arrival frustrate?
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The feedback layer is the narrative mirror of the game.
+
+The three feedback channels (Citizens, Superhero Community, Rex Flynn),
+the name emergence system, and the city's aesthetic mood collectively
+form a NARRATIVE MIRROR: they reflect who the player has been through
+their actions — heroic, unheroic, or the messy middle — and report it
+back in the register the player's choices have earned. Minor objectives
+are the primary engine that drives this mirror, which is why minor
+objectives carry the narrative and emotional soul of the game.
+
+The mirror REFLECTS; it never GRADES, GATES, or PUNISHES. This is
+"mirrors not gates" (Guiding Principle) extended from the city layer to
+the narrative layer. A player who deliberately collects unheroic names
+and snarky Rex put-downs is exercising a valid playstyle, not failing —
+the system reflects their chosen identity without judgment. The same
+event (trigger-then-abandon) is a failure to one player and a deliberate
+aesthetic choice to another; the system does not need to distinguish,
+because it reflects rather than grades.
+
+The title "Possibly a Hero" is a question the player answers through
+play. The feedback mirror is where that answer is rendered. Some players
+answer "not really" — and the game lets them, because a mirror does not
+care what it shows.
+
+WHY: This recognition has accrued across many sessions (feedback
+channels reacting to success AND failure, names derived from action,
+the Fable-style reputation-as-color model). It names what the feedback
+system has always been building toward and establishes the principle
+that governs it before the civic reward economy is designed: reflection,
+never judgment.
+
+SCOPE: This is a RECOGNITION, not a Guiding-Principles amendment. It
+does not change validation order or Canon Guard authority. Promotion to
+principle level — and the definition of the actual feedback currency
+(channel weighting, registers, name derivation) — remain a deliberate
+later call.
+
+REPLACES: Nothing — new recognition. Consistent with mirrors not gates
+(locked Guiding Principles) and the three-channel feedback model.
+
+STATUS: NOTED
