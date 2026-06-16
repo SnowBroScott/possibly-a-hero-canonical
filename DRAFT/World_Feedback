@@ -416,8 +416,9 @@ Outputs on Engagement:
 - XP — feeds the same milestone-based power selection system as combat XP.
   More minor objectives completed means more power selection opportunities
   within a run.
-- Hero Points — guaranteed drop at 100% rate. Rewards meaningfully more
-  than a single mob drop. Full carry between runs regardless of outcome.
+- Hero Points — the mechanical currency minor objectives award (see Run
+  Design / City Layer). Earned here; spent elsewhere. Not part of the
+  feedback layer.
 - Morale — builds city-wide morale. The city notices the pattern of
   engagement across the run record.
 - Recognition — registers in the Superhero Community's running assessment.
