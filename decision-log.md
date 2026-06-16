@@ -3038,34 +3038,32 @@ back in the register the player's choices have earned. Minor objectives
 are the primary engine that drives this mirror, which is why minor
 objectives carry the narrative and emotional soul of the game.
 
-The mirror REFLECTS; it never GRADES, GATES, or PUNISHES. This is
-"mirrors not gates" (Guiding Principle) extended from the city layer to
-the narrative layer. A player who deliberately collects unheroic names
-and snarky Rex put-downs is exercising a valid playstyle, not failing —
-the system reflects their chosen identity without judgment. The same
-event (trigger-then-abandon) is a failure to one player and a deliberate
-aesthetic choice to another; the system does not need to distinguish,
-because it reflects rather than grades.
+The mirror REFLECTS; it never GRADES, GATES, or PUNISHES. This is the
+"mirrors not gates" principle applied to the narrative layer — the same
+principle that governs the city, finding another surface. A player who
+deliberately collects unheroic names and snarky Rex put-downs is
+exercising a valid playstyle, not failing — the system reflects their
+chosen identity without judgment. The same event (trigger-then-abandon)
+is a failure to one player and a deliberate aesthetic choice to another;
+the system does not need to distinguish, because it reflects rather than
+grades.
 
 The title "Possibly a Hero" is a question the player answers through
 play. The feedback mirror is where that answer is rendered. Some players
 answer "not really" — and the game lets them, because a mirror does not
 care what it shows.
 
-WHY: This recognition has accrued across many sessions (feedback
-channels reacting to success AND failure, names derived from action,
-the Fable-style reputation-as-color model). It names what the feedback
-system has always been building toward and establishes the principle
-that governs it before the civic reward economy is designed: reflection,
-never judgment.
+WHY: This names what the feedback system has always been building toward
+(channels reacting to success AND failure, names derived from action,
+Fable-style reputation-as-color) and establishes the principle that
+governs it before the civic reward economy is designed: reflection,
+never judgment. Mirrors not gates was always stated general and
+illustrated in the city — this recognizes the narrative layer as another
+place it already applies, not a new rule. The feedback currency
+definition (channel weighting, registers, name derivation) remains a
+deliberate later call.
 
-SCOPE: This is a RECOGNITION, not a Guiding-Principles amendment. It
-does not change validation order or Canon Guard authority. Promotion to
-principle level — and the definition of the actual feedback currency
-(channel weighting, registers, name derivation) — remain a deliberate
-later call.
-
-REPLACES: Nothing — new recognition. Consistent with mirrors not gates
-(locked Guiding Principles) and the three-channel feedback model.
+REPLACES: Nothing — new recognition. An application of mirrors not gates
+(locked Guiding Principles) to the narrative layer.
 
 STATUS: NOTED
