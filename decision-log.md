@@ -2788,3 +2788,59 @@ Class System edit 1.8.
 DATE: June 15, 2026
 
 STATUS: LOCKED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: The Tactician's vehicle is a toggled movement ability, not a
+permanent mount. The Tactician fights on foot by default — rifle, turrets,
+Rocket Launcher, all the deployed and precision combat happens on foot, the
+same on-foot combat baseline every other class has. The vehicle is a movement
+ability the player toggles: toggle on and the Tactician mounts the bike and
+the momentum/ram system becomes available (per the momentum framework, June
+14); toggle off and the Tactician decelerates, dismounts, and returns to the
+on-foot stance. Deliberate brake = decelerate + dismount (short cooldown).
+Wall collision = immediate stop + dismount (longer cooldown). The class-lock
+is on the movement TYPE — the Tactician's movement is the bike and only the
+bike, no flight, no wall-crawl — NOT on a perpetually-mounted state.
+
+The intro cinematic is unaffected: the Tactician still arrives rolling in on
+the vehicle (Run Design §2, LOCKED). Arrival on the bike is the establishing
+image; dismounting once isometric play begins is consistent with it, exactly
+as every class's intro shows its movement type without that movement being the
+entire run.
+
+SCOPE OF THIS LOCK: What is LOCKED is the toggle architecture — on-foot as the
+default combat stance, the vehicle as a toggled movement-and-ram ability,
+dismount-on-brake. This is locked because the alternative (permanent mount) is
+incoherent, not preferential — a hero cannot run precise on-foot combat while
+welded to a moving vehicle. The momentum TUNING beneath this architecture
+(acceleration curve, top-speed cap, ram-damage scaling, cooldown lengths)
+remains NOTED and prototype-pending per the June 14 momentum-framework entry.
+The frame is locked. The numbers are not.
+
+DATE: June 15, 2026
+
+WHY: A permanently-mounted hero deploying turrets and firing a rifle from the
+saddle never resolved cleanly — it raised an unanswerable "how is precise
+infantry combat happening from a moving motorcycle" question. Toggling on/off
+solves it by simply not having the Tactician mounted during the deployed game.
+It also makes the Tactician rhyme with the rest of the roster: a movement
+ability layered over an on-foot combat baseline (Brawler leaps but fights on
+the ground; Speedster runs but fights on foot). The "stay at speed and ram
+through vs. brake into turret position" tactical choice gets cleaner, not
+weaker — the toggle IS the choice between mobility and prepared position. The
+"vehicle IS the Tactician, no dismount" framing was the last fossil from the
+May-era 'guy on a motorcycle' Tactician and did not survive the June momentum
+reimagining.
+
+REPLACES: Supersedes the permanent-vehicle clause of the May 3, 2026 movement
+entry ("The Tactician's vehicle is permanent for the duration of a run — no
+exit mechanic exists"). The rest of that entry stands: movement is class-locked
+and not player-selectable; flight and wall crawling remain removed. Also
+resolves a latent inconsistency the June 14 momentum-framework entry left
+open — that entry reframed the vehicle as a toggle without explicitly retiring
+the "permanent / no exit" language.
+
+STATUS: LOCKED
