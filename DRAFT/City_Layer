@@ -1,62 +1,65 @@
 CITY LAYER
 Possibly a Hero | Canonical City Mechanics Specification
 STATUS: Draft
- 
+
 ---
- 
+
 1. FOUNDATIONAL PHILOSOPHY — MIRRORS NOT GATES
- 
+
 City buildings reflect and deepen what the player has done in runs. They do
-not control what the player can access. This principle applies universally
-across all city buildings with no exceptions.
- 
+not control what the player can access. This principle governs the
+post-tutorial city — every building, once the player is past onboarding. The
+tutorial arc is its one deliberate exception: it gates by run type as a
+teaching structure, not as a standing rule (see Section 3). After the
+tutorial, mirrors not gates is absolute.
+
 The relationship between runs and city is inseparable but asymmetric:
 - Runs write the story
 - The city remembers it
- 
+
 Discovery is always free. The full hero power pool is available from run one
 regardless of city state. What the city provides is the infrastructure for
 mastery — not the conditions for access.
- 
+
 No city building gates a power from appearing in a run. No construction
 project unlocks a combo. Combos are discovered in runs and recorded in the
 lair. The city deepens what the player has earned. It does not withhold what
 the player hasn't yet unlocked.
- 
+
 ---
- 
+
 2. THE CITY AS A PLACE
- 
+
 The city is pre-existing and struggling when the player arrives. It is not
 built from scratch — it is restored. The hero does not construct a city.
 They wake one up.
- 
+
 The run layer and city layer share the same underlying street map. The player
 is always in their city. The Core Four buildings — Science Lab, Training
 Center, Tailor Shop, and Hero's Lair — are consistent landmarks recognizable
 in both layers across all four stages.
- 
+
 Cosmetic city improvements within a stage do not propagate granularly into
 the run layer. The run layer reflects stage-level visual identity only — not
 every incremental aesthetic change.
- 
+
 Stage One is a city on its last legs. Boarded windows. Cracked streets.
 Enough intact buildings to believe there is still life and population. Few
 enough to believe the city is struggling. Not dead — but close.
- 
+
 ---
- 
+
 3. THE TUTORIAL ARC — STAGE ONE BUILDINGS
- 
+
 The tutorial arc consists of four restorable buildings unlocked through
 specific run type completion. World-based nudges — broadcasts, visible crises
 — guide players toward specific locations during the tutorial. When they
 arrive, the situation presents itself as a run type naturally. Only one
 mission type is available per tutorial run. After tutorial completion, all
 three are available simultaneously.
- 
+
 Tutorial sequence:
- 
+
 SCIENCE LAB
 Unlocked by: completing an Intel / Horde Survival run
 Teaches: support skills
@@ -64,7 +67,7 @@ Narrative: The lab was in crisis. A broadcast sends the hero there. The
 situation demands intel work. The scientist's name is cleared as a result
 of what the hero discovered.
 City role: Reflects and deepens support skill use discovered in runs.
- 
+
 TRAINING CENTER (Stage One form: The Gym)
 Unlocked by: completing a Boss Fight run
 Teaches: hero powers
@@ -73,17 +76,17 @@ neighborhood. The hero dealt with it.
 City role: Houses the hero power deepening system. In Stage One it is a
 basic gym — functional, humble, recently rescued. The hero power deepening
 system is NOT active during the tutorial stage. It activates at Stage Two.
- 
+
 TAILOR SHOP
 Unlocked by: completing an Escort Defense run
 Teaches: cosmetics and appearance customization
 Narrative: The tailor was being terrorized. The hero protected them.
 City role: Houses cosmetic customization and identity expression.
- 
+
 AREA BOSS DEFEATED — Tutorial arc milestone
 Completes the tutorial arc. Player has demonstrated mastery across all
 three run types. Triggers the Hero's Lair unlock.
- 
+
 HERO'S LAIR
 Unlocked by: area boss defeat — earned, not found.
 Not a restoration. The city gives the hero a headquarters because they
@@ -92,16 +95,16 @@ Houses: combo discovery log, achievement displays, unlocked name history,
 cosmetic loadout management, run statistics.
 The most dramatic mirror in the city — because combo discovery is the most
 dramatic moment in a run.
- 
+
 ---
- 
+
 4. CITY STAGES — FOUR VISUAL AND MECHANICAL STATES
- 
+
 The city develops through four visual stages tied to player progression and
 playtime. Each stage is mechanically a distinct run environment — same streets,
 higher stakes. Stage progression is driven by overall run completion and
 progression, not by specific building restoration.
- 
+
 STAGE ONE — RUNDOWN
 Visual identity: Boarded windows. Cracked streets. Barely alive. Enough
 intact buildings to believe there is still life and population, few enough
@@ -110,7 +113,7 @@ Run environment: Tutorial. Constrained geography, limited complexity. One
 mission type per run, heavily nudged by world broadcasts.
 Difficulty: Lowest.
 Training Center form: The Gym. Basic. Humble. Functional. Recently rescued.
- 
+
 STAGE TWO — DEVELOPING
 Visual identity: City visibly recovering. Construction visible. Signs of
 life returning to neighborhoods.
@@ -120,7 +123,7 @@ Difficulty: Mid-game.
 Training Center form: The Complex. The gym gets built out. Hero power
 deepening system comes online for the first time. Sections activate as
 powers are proven in runs.
- 
+
 STAGE THREE — REFINED
 Visual identity: City approaching modern. Established, confident, clearly
 recovered.
@@ -129,7 +132,7 @@ Higher difficulty.
 Difficulty: Late mid-game.
 Training Center form: The Facility. Multi-story. Serious infrastructure.
 More sections active, more of the player's power history visible.
- 
+
 STAGE FOUR — MODERN
 Visual identity: Gleaming. SHIELD headquarters register. The hero is a
 civic institution.
@@ -140,44 +143,44 @@ Difficulty: Maximum.
 Training Center form: The Tower. Avengers Tower scale. Every proven power
 section active and visible. Rex Flynn has a series about the building.
 Citizens take photos outside it.
- 
+
 ---
- 
+
 5. THE TRAINING CENTER — COMPLETE SYSTEM
- 
+
 The Training Center is the city's most visually dynamic building and the
 canonical home of hero power deepening. "Gym" refers to its Stage One
 physical form only — not its canonical name. The building is always the
 Training Center.
- 
+
 The Training Center follows the Hades headquarters model. It is a space that
 grows and reflects the player's run history. It is atmosphere, narrative, and
 interface. The mechanical action does not happen inside the building — it
 happens in runs.
- 
+
 Walking through the Training Center at Stage Four tells the story of
 everything the player has proven across their full run record. Lit sections
 are powers proven. Dark sections are powers not yet discovered or not yet
 committed to.
- 
+
 HERO POWER DEEPENING SYSTEM — FIVE STEPS:
- 
+
 STEP 1 — PROVE A POWER IN A RUN
 Three conditions must be met for a power to be considered proven:
 1. The power appears randomly in the run's milestone offering
 2. The player selects the power
 3. The player successfully completes a main mission in that run
- 
+
 All three conditions required. A power selected but carried through a failed
 run does not qualify. The corresponding Training Center section activates when
 all three conditions are met.
- 
+
 STEP 2 — SPONSOR MESSAGE SURFACES
 A Superhero Community message arrives from a hero who embodies that power
 archetype — a Storm equivalent for Tempest, a Banshee equivalent for Sonic
 Scream. The message is personalized and invites the player to find what the
 sponsor left at the activated section.
- 
+
 Sponsor presence scales with progression:
 Stages Two and Three — the sponsor leaves something. A message, a recorded
 briefing, a challenge upload. They do not appear in person. An established
@@ -186,40 +189,40 @@ Stage Four — this dynamic may shift. A sponsor who has watched the player's
 career develop across dozens of runs may eventually appear in person. This
 is an earned moment, not a given one. See Stage Four Sponsor In-Person
 Visit entry.
- 
+
 STEP 3 — PLAYER VISITS THE TRAINING CENTER
 The player finds the activated section and interacts with whatever the sponsor
 left — a screen, a terminal, a recorded message, a physical note. The
 interaction is as light or rich as the stage warrants. The interaction queues
 a challenge to surface in a future run.
- 
+
 STEP 4 — CHALLENGE SURFACES IN A RUN
 The challenge surfaces in the run layer during a future run — not inside the
 Training Center. The player must have the relevant power active to engage
 with it. Because powers are random, the player cannot force the power to
 appear. The challenge is queued. The run serves its pool as always.
- 
+
 When the power appears in a level up offer with a challenge queued, a new
 layer of decision surfaces alongside the usual three-way tension — take this
 power because the challenge is waiting, or take something the current build
 needs more. Player agency stays fully intact. The waiting period is
 narratively active. The sponsor sent a challenge. The world notices if it
 goes uncompleted.
- 
+
 STEP 5 — COMPLETE THE CHALLENGE
 The player completes the challenge mid-run with the proven power active.
- 
+
 PHASE ONE — DEEPENING: Each completion deepens that power — it grows stronger
 in future runs. This continues until the power reaches its deepening cap.
- 
+
 PHASE TWO — TEMPORARY RUN BOOSTS: After reaching its deepening cap,
 subsequent challenge completions reward temporary run boosts to that power's
 effectiveness instead. The boost applies to the run in which the challenge
 is completed. It does not permanently alter the power beyond its cap.
- 
+
 The cap exists to bound permanent power growth while keeping the sponsor
 challenge system engaging indefinitely.
- 
+
 SPONSORSHIP AND WORLD TEXTURE:
 Heroes loosely vying for disciples is native to the Possibly a Hero world.
 The sponsorship isn't altruistic — it's reputation, legacy, and the quiet
@@ -228,19 +231,19 @@ Rex Flynn covers sponsorship announcements with unhinged energy. Citizens in
 the relevant neighborhood react to the hero's growing relationship with a
 known figure. The Superhero Community tracks whose disciples are proving
 themselves and whose aren't.
- 
+
 TRAINING CENTER MASTERY SCOPE:
 The Training Center handles hero power deepening and sponsor challenges only.
 It is not the home for class primary power improvement. That lives in the
 class mentor buildings.
- 
+
 ---
- 
+
 6. EXPLORABLE CITY BUILDINGS — HADES HEADQUARTERS MODEL
- 
+
 The explorable buildings in Possibly a Hero follow the Hades headquarters
 model:
- 
+
 - Buildings are spaces that grow and reflect the player's run history
 - Mechanical action does not happen inside the buildings — it happens in runs
 - Buildings are atmosphere, narrative, and interface
@@ -249,41 +252,41 @@ model:
 - New content surfaces in buildings between runs — messages, challenges
   queued, sections activating — giving the player a reason to visit without
   requiring them to manage systems there
- 
+
 This model applies to the Training Center, the Hero's Lair, and any other
 explorable city building. The run is always where the story happens. The
 building is always where the story lives.
- 
+
 ---
- 
+
 7. POST-TUTORIAL CITY BUILDINGS
- 
+
 CLASS-SPECIFIC NARRATIVE LOCATIONS (one per class):
 Four buildings, one per class. These buildings exist in the city from early
 progression but appear non-descript until the mentor relationship unlocks
 through class progression and playtime. At unlock, the building reveals what
 it actually is — hidden in plain sight.
- 
+
 These buildings provide narrative justification for advanced class power
 unlocks. The mechanical unlock requirement remains run-count based (10 runs /
 30 runs). The building is the story of why the unlock happens — not the gate
 that controls it.
- 
+
 - Brawler location — reveals on Brawler mentor introduction
 - Speedster location — reveals on Speedster mentor introduction
 - Tactician location — reveals on Tactician mentor introduction
 - Blaster location — reveals on Blaster mentor introduction
- 
+
 Individual mentor character names, personalities, and building identities are
 flagged for future development.
- 
+
 ---
- 
+
 8. THE HERO'S LAIR — HEADQUARTERS
- 
+
 The lair is earned through tutorial arc completion, not discovered as a
 restorable building. It does not follow the restoration model.
- 
+
 The lair is the hero's space. It grows as the player plays. It houses:
 - Combo discovery log — trophy case of discovered combinations, each logged
   with the exact power combination required to trigger it
@@ -292,57 +295,57 @@ The lair is the hero's space. It grows as the player plays. It houses:
   adopted
 - Cosmetic loadout management
 - Run statistics
- 
+
 The lair does not unlock combos. It records them. Combos are discovered
 organically during runs — Vampire Survivors style. The lair is where those
 discoveries live permanently.
- 
+
 The lair is explorable. Like the Training Center, it reads differently at
 Stage Four than it did when first earned. The space accumulates the player's
 story visibly.
- 
+
 MASTERY SCOPE BOUNDARIES:
 - Training Center — hero power deepening and sponsor challenges
 - Class Mentor Buildings — class primary power advancement
 - Hero's Lair — combo discovery log. May house future combo advancement
   mechanics as that system develops.
- 
+
 These three buildings handle mastery between them. Their scopes do not
 overlap.
- 
+
 ---
- 
+
 9. CITY RESTORATION MODEL
- 
+
 Players do not build the city. They restore it. Every building has a person
 inside it. Every restoration is a relationship.
- 
+
 The act of restoring a building: player initiates, a short build animation
 plays, the building exists in its restored state. The ceremony is brief.
 The weight is in what the building does afterward — not in the moment of
 placing it.
- 
+
 Negative run outcomes affect the city atmospherically — citizen behavior,
 visual tone, ambient mood. Nothing is permanently lost. No progress is set
 back. No construction is reversed. The city always recovers.
- 
+
 ---
- 
+
 10. CITY AND RUN LAYER RELATIONSHIP
- 
+
 The run layer and city layer share the same street map. The player is always
 fighting in their city.
- 
+
 WHAT PROPAGATES FROM CITY TO RUN LAYER:
 - Stage-level visual identity (Rundown, Developing, Refined, Modern)
 - Core Four building landmarks visible in run environment
 - Stage-level difficulty and enemy density
- 
+
 WHAT DOES NOT PROPAGATE FROM CITY TO RUN LAYER:
 - Incremental cosmetic improvements within a stage
 - Individual building restoration states
 - Power pool gating of any kind
- 
+
 WHAT FLOWS FROM RUN TO CITY:
 - Resources (from Boss Fight) — feeds city construction
 - Morale (from Escort Defense) — primary driver of city atmospheric state
@@ -352,7 +355,7 @@ WHAT FLOWS FROM RUN TO CITY:
   morale temperature
 - Intel (from Horde Survival) — identifies area villain, triggers area
   boss encounter
- 
+
 Mission outputs are earned at mission completion, not at run end, and they
 stack by completion tier. A minimum-success run (one mission) feeds a single
 output; a perfect run (three missions) feeds resources, morale, and intel
@@ -360,38 +363,40 @@ into the city simultaneously. The city does not rank the missions or care
 about the order — it reflects what got done. A failed run reverses nothing;
 its effect on the city is atmospheric only, and the city always recovers.
 See Run Design for the completion-tier model.
- 
+
 NOTE: XP and Hero Points from minor objectives feed intra-run progression
 and the player's permanent currency — they are run-layer outputs, not
 city-layer inputs. See Run Design document for full minor objectives
 specification.
- 
+
 ---
- 
+
 11. THE SUPERHERO COMMUNITY CHANNEL — CITY LAYER FUNCTION
- 
+
 The Superhero Community channel's primary reward pillar is player cosmetics.
 Within the city layer, the channel additionally serves as the delivery
 mechanism for the hero power deepening sponsorship system:
- 
+
 - Sponsor messages surface through this channel when a hero power is proven
 - The channel tracks discipleship — whose disciples are proving themselves
 - Sponsorship announcements are world events the channel broadcasts
 - The community has opinions about mentors taking on unknown heroes
- 
+
 The channel is additionally a name emergence source. Names that
 surface through the Superhero Community carry a peer/professional
 register — how the hero world itself decides to categorize this
 new arrival.
- 
+
 Cosmetics remain the primary reward pillar. Sponsorship and discipleship
 tracking are the channel's mechanical function within the city layer. These
 are parallel, not competing.
- 
+
 ---
- 
+
 NON-NEGOTIABLE CONSTRAINTS:
-- City buildings are mirrors, not gates. No exceptions.
+- City buildings are mirrors, not gates, across the entire post-tutorial
+  city. The tutorial arc gates by run type as onboarding only; after it,
+  there are no exceptions.
 - Discovery is always free. The full hero power pool is available from run
   one regardless of city state.
 - Nothing is permanently lost. No construction is reversed. The city always
@@ -407,9 +412,9 @@ NON-NEGOTIABLE CONSTRAINTS:
   narrative, and interface. Mechanical action happens in runs.
 - Tone: comic book kinetic. The city should feel like a place worth
   protecting, not a management interface.
- 
+
 ---
- 
+
 CANONICAL DEPENDENCIES:
 - "Negative run outcomes affect the city atmospherically. Nothing is
   permanently lost." (LOCKED)
