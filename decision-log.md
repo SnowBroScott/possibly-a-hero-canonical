@@ -3316,3 +3316,97 @@ faucets and sinks beyond tiered upgrades; whether the class-mentor track
 structure (e.g., challenges shifting behavior once all primaries are unlocked).
 This is HP-12 / a dedicated deepening-economy session. The two tracks EXIST and
 are independent; their economy stays in the box.
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Morale is a parallel city-state system, not part of the feedback
+scale — and it produces no run-side mechanical effect. Resolves the
+Cross-System Audit tensions between City_Layer and World_Feedback.
+
+MORALE IS PARALLEL TO THE FEEDBACK SCALE. Morale and the feedback scale are
+two different systems that both respond to player behavior. The feedback scale
+is the narrative mirror (names, channel reactions, the world's read) — it
+reflects, never rewards, never gates. Morale is a city-state system: a real,
+earned output of Escort Defense missions (with a secondary trickle from minor
+objectives), parallel to resources (Boss Fight) and intel (Horde Survival).
+The feedback scale does NOT "drive the morale temperature." Any language
+asserting that is in error.
+
+MORALE HAS NO RUN-SIDE MECHANICAL EFFECT. The morale XP multiplier is removed.
+Morale produces no mechanical reward in the run layer — there is no city→run
+XP wire. Morale is mechanically real on the CITY side (it drives the city's
+warmth, atmosphere, how lived-in the streets read) and inert on the RUN side.
+This keeps the feedback layer's non-negotiable intact (the world's narrative
+response never produces a mechanical reward) by ensuring morale, a separate
+system, also produces no run reward.
+
+MORALE DOES NOT GATE NAMING. Name emergence reads behavior patterns (the
+three-branch naming engine, NOTED 6/16), not morale state. Any language tying
+citizen name emergence to morale level ("high morale surfaces names, low
+morale doesn't") is superseded and removed.
+
+NO PENALTY: Consistent with consequence without punishment — low morale is
+never a deduction or a stingier city; removing the multiplier removes the
+question entirely, since morale now produces no run reward to withhold.
+
+WHY: Cross-System Audit found four tensions (City_Layer / World_Feedback) all
+rooted in one unanswered question: is morale part of the feedback scale or a
+parallel system? Locked Run Design already answers it — morale is the named
+city output of Escort Defense, parallel to resources and intel — so morale is
+parallel by locked canon, and World_Feedback's "scale drives morale" framing
+was the error. Removing the run XP multiplier resolves the §9 conflict at the
+source rather than guarding it with a rule. City_Layer's omission of a city→run
+XP wire was correct; World_Feedback §5 was the error.
+
+REPLACES: Supersedes the morale XP multiplier (Morale — XP Multiplier and
+City-Wide Scope, May 8) and any feedback-scale-drives-morale or
+morale-gates-naming language in World_Feedback. Consistent with locked Run
+Design (Escort Defense → morale), locked Guiding Principles, the hidden-scale
+model, and the three-branch naming engine.
+
+STATUS: NOTED
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: Stage progression runs on three parallel mission "XP bars" that
+together unlock the stage boss. (Refinement of the locked stage-progression
+model — NOTED for integration; not yet folded into City_Layer.)
+
+The three main mission types each fill a parallel stage-progression bar:
+- RESOURCE BOSS (Boss Fight) — fills the resource bar (the big bad guarding
+  necessary city resources; "resource boss" delineates it from the stage
+  boss).
+- ESCORT DEFENSE — fills the morale bar.
+- HORDE SURVIVAL — fills the intel bar.
+
+Each bar requires the same or a similar amount of completion to fill. As the
+bars fill, they unlock narrative, atmospheric, and aesthetic elements of the
+city along the way. When all three bars are full, the stage boss unlocks.
+Defeating the stage boss advances the city to the next stage.
+
+This refines, and is consistent with, locked Run Design: Run Design already
+states all three mission types are structurally necessary to progress and that
+the area/stage boss gates the next stage. This model specifies HOW the
+non-intel mission types are necessary — each fills a required progression bar —
+rather than replacing the boss gate. Resources remain Boss Fight's output;
+nothing is dropped.
+
+WHY: City_Layer §4 has specified stage progression only vaguely ("tied to
+player progression and playtime," "overall run completion"). This names the
+mechanism: three mission outputs as three progression bars, all required, boss
+unlocks when all three are full. It makes the three mission types symmetric
+(three tracks to one gate) and gives morale a clear, unique mechanical job (the
+city's progression, not the player's) distinct from the narrative scale.
+
+REPLACES: Refines (does not replace) the stage-progression language in
+City_Layer §4 and the area/stage-boss gate in locked Run Design. Integration
+target: City_Layer §4, with a deliberate Canon Guard pass against locked Run
+Design.
+
+STATUS: NOTED — captured this session; NOT yet integrated into City_Layer.
+Integration (City_Layer §4 rewrite + Run Design consistency pass) is its own
+beat next session.
