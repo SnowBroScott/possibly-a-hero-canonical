@@ -563,8 +563,8 @@ Each companion is built around a single RPG role — the role its class cannot
 play for itself. This is the structural spine of the system and the guardrail
 against scope creep:
 
-Giggles   (Brawler)    — DPS (ranged)        — Brawler is melee, can't reach
-Rose      (Tactician)  — DPS (pursuit)       — Tactician is stationary
+Giggles   (Brawler)    — DPS (ranged)      — Brawler is melee, can't reach
+Rose      (Tactician)  — DPS (melee)       — Tactician is stationary, can't close
 S.G.T.    (Speedster)  — Tank (evasive aggro) — Speedster is squishy, can't hold aggro
 Doug      (Blaster)    — Support (crowd ctrl)— Blaster gets swarmed up close
 
@@ -588,7 +588,7 @@ S.G.T.: build aggro-draw. Defer the prowl/reposition mobility refinement
 (mobile but not a zoomer — circles and repositions), the misfire system,
 and the partial-aggro-spillover tuning.
 Giggles: ranged DPS plus the instigate-to-Brawler-unleash hook. Clean as is.
-Rose: pursuit DPS. Clean as is.
+Rose: melee DPS. Clean as is.
 
 
 AUTHORSHIP NOTE: Companions are the highest-risk surface for authorship
@@ -704,11 +704,13 @@ relieved Doug has a name people can say without screaming. Name origin: the
 Blaster called it something on day one to make it less terrifying. It stuck.
 
 
-TACTICIAN — ROSE — DPS (pursuit)
+TACTICIAN — ROSE — DPS (melee)
 
-What the Tactician lacks: pursuit. Holds ground, controls space, commits to
-position — can't chase what escapes the perimeter. Rose chases. The planner's
-box, the dog's chase.
+What the Tactician lacks: anything up close and mobile. Holds ground, controls
+space, commits to position — can't close on what slips the turret perimeter.
+Rose closes. She's the melee answer to a stationary class: she runs the
+distance the Tactician won't, and finishes the fight where the turrets can't
+reach. The planner's box, the dog's teeth.
 
 What Rose is: a Belgian Malinois military working dog. Metal canines, MARPAT
 vest, devastating and adorable with zero internal conflict about it. A good
