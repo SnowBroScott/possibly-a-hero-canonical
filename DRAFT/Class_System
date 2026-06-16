@@ -4,7 +4,9 @@ STATUS: Draft
 
 ───────────────────────────────────────────────────────────────
 
-1. FOUNDATIONAL CONTEXT
+
+FOUNDATIONAL CONTEXT
+
 
 The class is the hero's shape for this run. Not their identity forever — their
 identity right now. It's the answer to a question the game asks at the start
@@ -32,6 +34,51 @@ running Speedster and return to Brawler with exactly as many Brawler unlocks
 as they had before they left. The class waits. The record holds.
 
 ───────────────────────────────────────────────────────────────
+
+1A. AUTHORSHIP — WHO OWNS WHAT
+
+The class is author-authored. The hero is player-authored. These are different
+layers, and the line between them is load-bearing.
+
+The player authors their hero's identity — surface (gender, mask, cape,
+costume, civilian name), the hero name that emerges through play, their
+playstyle, their arc. The class provides an author-authored role the player
+inhabits: a movement type, an offensive suite, a behavioral register, a
+companion, a mentor. The player brings the person. The class brings the shape.
+
+THE WRITING CONSTRAINT: No class narrative — mentor beat, companion
+relationship, or any authored prose in this document or downstream of it — may
+contradict, override, or hard-code anything the player set at creation or
+earned through play. Creation choices are slots, not constants. The story
+flexes around the hero the player built; it never describes a different one.
+
+The player-authored variables every class story must flex around:
+
+
+Gender — pronouns and all gendered language. Neutral or trivially swappable.
+Mask / no mask — no beat may depend on a mask the player didn't choose.
+Cape / no cape — no prose beat may depend on a cape.
+Costume style — rarely narrative-load-bearing.
+Civilian name — a slot, never a constant.
+Emerged hero name — earned through play, not set at creation. Prose written
+before emergence cannot assume a name; prose after must use the player's.
+
+
+CLASS PERSONALITY IS A DEFAULT, NOT A CAGE. Each class carries a strong
+authored behavioral register (see the class identities below and the companion
+relationships in Section 6). That register is a default — the most on-tone,
+most legible read — not a constraint on who the player's hero is. The companion
+relationships anchor to BEHAVIOR, not personality. The Brawler unleashes when
+Giggles instigates: that is the fixed mechanic. Whether the player's Brawler is
+gentle, grim, or something else underneath is the player's paint. No player
+read is wrong. The load-bearing mechanic holds across all of them.
+
+This is tightest at the companion layer (Section 6), because companions
+reference the hero directly. A companion respects, instigates, or belongs to
+YOUR hero — never "a guy." Written correctly, every class story survives a
+trivial substitution pass with no contradictions left behind.
+
+───────────────────────────────────────────────────────────────
 2. THE FOUR CLASSES
 ───────────────────────────────────────────────────────────────
 
@@ -49,7 +96,13 @@ through position — who is where, what that cluster means, and whether the
 ground is about to become a weapon. The fight is close. It is loud. It ends
 when the Brawler decides it ends.
 
----
+Register: quiet. The Brawler is the still one — restrained, not seeking the
+fight, the calm surface a companion has to disrupt before it breaks. This is
+deliberately under-defined: quiet is the contrast that makes the Giggles
+relationship work, not a full personality. What the quiet means is the
+player's to fill in. The fixed axis is volume — the Brawler is the quiet to
+Giggles' loud.
+
 
 SPEEDSTER
 Movement: Super Speed
@@ -65,7 +118,6 @@ history. A Speedster who commits to one angle is a Speedster making an
 uncharacteristic mistake. The speed is the offense. The offense is the speed.
 The blur is not a visual effect — it is a tactical statement.
 
----
 
 BLASTER
 Movement: Teleportation
@@ -81,22 +133,25 @@ enemy's permission before pulling everything into the same unfortunate
 location. The Blaster is exact, and exact things tend to resolve exactly as
 intended.
 
----
 
 TACTICIAN
-Movement: Vehicle
+Movement: Vehicle (momentum system — see Section 2A)
 Intro: The Tactician rolls in on the vehicle. Camera lifts steadily and settles
 with the deliberateness of someone who planned the approach before the run
 started. This is not an entrance. This is an arrival on schedule.
 
-Identity: Strategic. Infrastructure-minded. Prepared. The Tactician's vehicle
-is not a power-up — it is the Tactician. There is no dismount. There is no
-exit mechanic. The vehicle is permanent for the duration of the run because the
-Tactician came with a plan and the plan includes the vehicle. Deployable
-Turrets are not improvisation. The Rocket Launcher is not a surprise. The
-Tactician already knew what was going to be needed. They brought it.
+Identity: Strategic. Infrastructure-minded. Prepared. The Tactician fights on
+foot by default — rifle, turrets, the deployed and the precise. The vehicle is
+a movement ability they toggle into: toggle on and the Tactician mounts the
+bike, momentum builds, the ram becomes available; toggle off and they
+decelerate and dismount, back to the platform stance. This is the same shape
+every class has — a movement ability layered over an on-foot combat baseline —
+except the Tactician's movement ability is also a weapon. Deployable Turrets
+are not improvisation. The Rocket Launcher is not a surprise. The Tactician
+already knew what was going to be needed. They brought it — and the plan is not
+the same as caution. The approach is the opener. Preparation and aggression are
+the same gesture for this class.
 
----
 
 MOVEMENT IS CLASS-LOCKED.
 Movement is not player-selectable. It is the class. A Brawler leaps. A
@@ -105,9 +160,52 @@ in a menu. They are the mechanical expression of who the class is and how the
 class exists in the city.
 
 Flight is not in the movement pool. Wall crawling is not in the movement pool.
-Both have been removed entirely. The Tactician's vehicle is permanent — there
-is no exit mechanic, no dismount option, and no run state in which the
-Tactician is not in the vehicle.
+Both have been removed entirely. The Tactician's vehicle is a toggled movement
+ability, not a permanent mount: toggle on to ride (momentum and ram — see
+Section 2B), toggle off to decelerate and fight on foot. The class-lock is on
+the movement TYPE — the Tactician's movement is the bike and only the bike —
+not on a perpetually-mounted state. On foot is the Tactician's default combat
+stance, the same as every other class.
+
+───────────────────────────────────────────────────────────────
+2A. THE CLASS BALANCE PENDULUM
+───────────────────────────────────────────────────────────────
+
+The four classes sit on a single axis — speed-to-durability:
+
+SPEEDSTER → BLASTER → TACTICIAN → BRAWLER
+
+Left end: fastest traversal, squishiest, slowest mob clear.
+Right end: slowest traversal, tankiest, fastest mob clear.
+Blaster and Tactician hold the middle in that order — Blaster nearer the
+Speedster (range as defense, precision output), Tactician nearer the Brawler
+(infrastructure and durability, systemic clear).
+
+Each class's defense mechanism is its identity, not a stat bolted on:
+
+
+Speedster: don't be there
+Blaster: keep distance
+Tactician: have prepared
+Brawler: outlast
+
+
+THE WALL IS THE EQUALIZER. Every class spends roughly the same total wall-time,
+in different proportions of moving versus clearing. A Speedster crosses the map
+faster but clears slower. A Brawler clears faster but arrives later. The
+advantage is never free — traversal speed trades directly against clear speed,
+and the run wall keeps the totals honest.
+
+Squishiness is not the absence of power. It is the shape of it. The Speedster's
+power signature is speed — real from frame one. The Brawler's is strength —
+real from frame one. The tradeoff is part of the identity, not a limitation on
+it. Power Unleashed holds completely across the whole axis: no class is
+underpowered, each is powerful in its own shape.
+
+Genre literacy does the teaching. Players who know warlock/shaman or
+engineer/hunter archetypes understand the contract without instruction. The
+pendulum doesn't need a tutorial — it needs players who have played a game
+before, and it trusts them.
 
 ───────────────────────────────────────────────────────────────
 3. PRIMARY OFFENSIVE SUITES
@@ -123,7 +221,6 @@ class mastery — through the record of successful runs with that class, not
 through any city building or construction choice. City buildings are mirrors.
 They do not gate primary power access.
 
----
 
 BRAWLER
 
@@ -148,7 +245,6 @@ found a safe distance find out they measured incorrectly. The Brawler who
 reaches 30 successful runs is not the same Brawler who started. Elasticity
 reflects that.
 
----
 
 SPEEDSTER
 
@@ -176,7 +272,6 @@ reading creates a player who understands what it means to own a zone —
 to spin something into existence in the center of a cluster and let the world
 disagree with everything inside it.
 
----
 
 BLASTER
 
@@ -213,7 +308,6 @@ who sees a scattered enemy formation and understands how to make it stop being
 scattered. Thirty runs of precision output earns the right to rearrange the
 battlefield before addressing it.
 
----
 
 TACTICIAN
 
@@ -241,6 +335,80 @@ that removes entire sections of an encounter from consideration. The Rocket
 Launcher is not imprecision — it is scale. The Tactician who reaches thirty
 runs knows exactly when to stop being surgical and start being structural.
 
+Note on the Tactician's combat layers: the offensive suite above is the
+deployed half of the Tactician — the held position, the prepared ground. The
+momentum vehicle (Section 2A and 2B) is the other half — the approach, the
+ram, the moving weapon. A fully expressed Tactician reads as three layers that
+never overlap: momentum and ram damage (the approach), turrets (hold the
+ground), and Rose (pursue what escapes the perimeter — see Section 6). Each
+layer does something the others cannot.
+
+───────────────────────────────────────────────────────────────
+2B. TACTICIAN MOVEMENT — THE MOMENTUM SYSTEM
+───────────────────────────────────────────────────────────────
+
+(Placed with the offensive suites because, uniquely, the Tactician's movement
+IS an offensive system. For the other three classes, movement and combat are
+distinct. For the Tactician they are one mechanic.)
+
+CORE MECHANIC — MOMENTUM
+Toggle activates movement. Speed builds progressively from zero to a defined
+top speed cap — acceleration is not infinite. Navigation becomes increasingly
+demanding as speed increases. At top speed the vehicle is extremely difficult
+to control and reaches maximum offensive potential. The skill and the danger
+rise together.
+
+STOPPING — TWO STATES
+Deliberate brake: toggle off triggers rapid deceleration (a brake, not a
+drift) and a dismount — the Tactician comes off the bike onto foot at a
+position of the player's choice, ready to deploy turrets and fight the deployed
+game. Short cooldown before the bike can be toggled back on.
+Wall collision: hitting a wall stops movement immediately, triggers a longer
+cooldown than deliberate braking, position determined by the map. Wall
+collision is not exclusively a mistake — it is a valid tactical choice when
+the wall puts the player in a desirable engagement position. The cost is the
+longer cooldown. Skilled play means knowing when that tradeoff is worth it.
+
+RAM DAMAGE
+The vehicle deals damage to enemies on contact. Ram damage scales with speed
+at point of impact — a full-speed ram hits significantly harder than a
+low-speed brush. This makes the acceleration curve a triple-purpose system:
+traversal efficiency, navigation skill, and offensive charge. The approach IS
+the opener for skilled players. Ram damage is real from the first run — the
+Tactician is never underpowered, only untrained.
+
+HIGH-SPEED PLAY
+At top speed the Tactician can clear encounters without stopping — threading
+through mob clusters, dealing ram damage on contact, never committing to a
+fixed position. This is the highest skill expression of the class, and it
+presents a completely different visual signature from conventional Tactician
+play. It is locked behind skill, not progression — available from run one,
+mastered over many.
+
+THE TACTICAL CHOICE AT EVERY ENCOUNTER
+
+
+Stay at speed — ram through, clear without stopping, maximum mobility,
+maximum navigation demand.
+Brake deliberately — commit to position, deploy turrets, conventional clear,
+shorter cooldown, controlled re-engagement.
+Neither is correct. Both are powerful. The choice is the skill.
+
+
+SKILL ARC
+Untrained: drives to encounters, stops, fights conventionally.
+Developing: threading corridors, deliberate braking, occasional offensive rams.
+Skilled: the approach is the opener — full speed down a corridor, ram into the
+cluster, brake into turret position, clean up. One continuous movement.
+Mastered: never stops. The map is the arena. Encounters are threading targets.
+The vehicle is the weapon system.
+
+DESIGN NOTE
+The Tactician has the highest skill ceiling in the roster — high complexity
+floor, enormous mastery ceiling. The constraint is the identity: the Tactician
+turns every limitation into a decision. Untrained, not underpowered. Power
+Unleashed holds completely.
+
 ───────────────────────────────────────────────────────────────
 4. CLASS MASTERY AND UNLOCK STRUCTURE
 ───────────────────────────────────────────────────────────────
@@ -265,6 +433,12 @@ a playstyle — to have arrived at the point where the third power expands a
 real identity rather than a theoretical one. The progression gate is designed
 around what the player has actually learned by the time the unlock fires.
 
+Note on Power Unleashed: mastery unlocks ADD to an already-complete arsenal.
+The starter power is potent and complete from frame one. The 10-run and 30-run
+unlocks are not corrections of something missing — they are extensions of
+something already whole. The player was never underpowered. They were
+untrained, and the unlocks meet a coordination the player has already earned.
+
 ───────────────────────────────────────────────────────────────
 5. THE THREE POWER LAYERS
 ───────────────────────────────────────────────────────────────
@@ -276,15 +450,17 @@ into what the others own.
 
 At each milestone (level up), the player chooses one option from three
 genuinely viable candidates:
-- A class primary upgrade — deepens class identity
-- A hero power — adds a new tool, broadens capability
-- A support option — modifies existing powers, shifts build interactions
+
+
+A class primary upgrade — deepens class identity
+A hero power — adds a new tool, broadens capability
+A support option — modifies existing powers, shifts build interactions
+
 
 No option is the obvious correct answer. The run's character emerges from
 the weight of all these decisions across all its milestones — not from a
 preset loadout the player carried in.
 
----
 
 LAYER 1 — CLASS PRIMARY
 Class-specific. Unlocks through mastery. Defines class identity. Selected at
@@ -293,7 +469,6 @@ only layer the class owns exclusively. It is the foundation everything else
 gets built on. Hero powers and supports broaden and modify the foundation —
 they do not become the foundation.
 
----
 
 LAYER 2 — HERO POWERS
 Shared pool across all classes. Fully random mid-run pickups offered at
@@ -302,7 +477,7 @@ from run one — no city building controls which powers can appear. Every power
 in the pool has standalone offensive value before combo value. The ridiculous
 combination the player didn't plan for is not a malfunction. It is the point.
 
-Full pool (eleven powers):
+Full pool (ten powers):
 
 MAGNETISM
 Pull enemies together. Redirect projectiles back at their sources. Strip
@@ -342,23 +517,12 @@ SONIC SCREAM
 Stuns. Disorients. Chain damages through a cluster. The Sonic Scream does
 not pick one target — it addresses the room.
 
-SUMMON
-One pool entry. Class-adaptive expression. The player picks up Summon and
-gets the version native to their class: Gorilla (Brawler — animal companion,
-a second thing in the fight the enemy has to account for), Double Time
-(Speedster — speed clone, another version of the problem running at full
-speed in a direction the enemy didn't anticipate), Specter (Blaster —
-spectral ally, phases through walls, attacks from positions without
-conventional access), Sentinel (Tactician — combat drone, autonomous,
-tactical, already deployed before the enemy arrived). One slot in the pool.
-Four expressions.
+(Companions are no longer a hero power. The former "Summon" pool entry has
+been promoted out of this layer into its own system — see Section 6. The hero
+power pool is ten powers as a result. Class-adaptive companions are not
+random mid-run pickups; they are the class's companion, present as part of
+the class.)
 
-Summon is a hero power. It appears in the shared random pool. It is
-class-adaptive in expression and native to class identity — but it is not
-a class primary power. The distinction matters. The summon is something the
-run adds on top of the foundation, not something the class came in with.
-
----
 
 LAYER 3 — SUPPORT POOL
 Shared across all classes. Class-agnostic. Accumulates during the run.
@@ -376,7 +540,218 @@ finishes loading. That legibility is intentional. The support layer should not
 require explanation — it should invite experimentation.
 
 ───────────────────────────────────────────────────────────────
-6. THE MENTOR SYSTEM
+6. THE COMPANION SYSTEM
+───────────────────────────────────────────────────────────────
+
+Each class has one companion. Not a summon, not a deployable, not a pool entry
+the player might randomly pick up — a presence that comes with the class and
+belongs to it. Companions were formerly modeled as a single class-adaptive
+"Summon" hero power. They have been promoted out of that model. They are their
+own system now, because they outgrew being a power the moment they got names.
+
+DESIGN PRINCIPLE: Every companion fills a combat gap the class cannot fill
+itself, AND has enough soul to be claimed. The test is simple: can the player
+say "that's MY [companion]" and mean it? If not, the companion isn't finished.
+The combat function earns the slot; the soul earns the attachment.
+
+COMPANIONS AS ROLES — THE LEASH
+Each companion is built around a single RPG role — the role its class cannot
+play for itself. This is the structural spine of the system and the guardrail
+against scope creep:
+
+Giggles   (Brawler)    — DPS (ranged)        — Brawler is melee, can't reach
+Rose      (Tactician)  — DPS (pursuit)       — Tactician is stationary
+S.G.T.    (Speedster)  — Tank (aggro/control)— Speedster is squishy, can't hold
+Doug      (Blaster)    — Support (crowd ctrl)— Blaster gets swarmed up close
+
+The role is the leash. Each companion fills the one role its class cannot play
+itself, and nothing more. Giggles never tanks. Doug is never your DPS. The
+moment a companion wants a second role, that is scope creep — cut it.
+
+V1 SCOPE — ONE ROLE EACH, EVERYTHING ELSE DEFERRED
+Build each companion as its single role with a cheap, prototype-proven verb.
+The richer mechanics described in each companion's soul are real design, but
+they are tagged deferred-pending-core-loop — backlog the core loop pulls from
+only after it proves fun, NOT v1 scope. Role is what you build; soul is what
+you write. They don't compete for budget. Nothing is scrapped; the advanced
+systems wait.
+
+
+Doug: build the crowd-control floor. Defer the dark register, the rare
+"personal interest" damage spikes, the tracking radius, the camera-gated
+inference layer.
+S.G.T.: build aggro-draw. Defer the dual-mode flight, the misfire system,
+the partial-aggro-spillover tuning.
+Giggles: ranged DPS plus the instigate-to-Brawler-unleash hook. Clean as is.
+Rose: pursuit DPS. Clean as is.
+
+
+AUTHORSHIP NOTE: Companions are the highest-risk surface for authorship
+violations (Section 1A) because they reference the hero directly. Each
+relationship below is written to the class's behavioral register, never to a
+fixed hero identity. S.G.T. respects YOU, whoever you built — not "a guy."
+The relationships anchor to behavior, not to the player's authored surface.
+
+
+BRAWLER — GIGGLES — ranged DPS
+
+What the Brawler lacks: speed, range, the ability to reach what stays away
+from them. Giggles covers the perimeter while the Brawler anchors the close.
+
+What Giggles is: a Sprite. Small, winged, visually delicate — the kind of thing
+you'd expect to be sweet. Is not. Carries an oversized, high-powered rifle.
+Laughs while using it.
+
+Register: chaos and permission. Not the Brawler's conscience — their id.
+Tiny Tina by way of Calvin: manic-feral delight and cartoon menace over a
+genuine innocence underneath. She believes mayhem is the best game and cannot
+fathom why anyone's upset about it. Real darkness, innocent motive. Just dark
+enough — cuter than Rocket, more lovable than the usual mercenary, meaner than
+she looks.
+
+The relationship (load-bearing): instigator, not conscience. The Brawler is
+the quiet one, held still by whatever holds them still. Giggles engineers
+situations where "I'd rather not" is off the table — then acts like the
+situation did it. "Well. Guess you gotta now." She is the spark; the Brawler
+is the payload. She removes the choice and the Brawler unleashes. This is the
+fixed behavioral mechanic; it does not depend on what the player's Brawler is
+like underneath.
+
+Establishing image: Giggles on the Brawler's shoulders, kicking her feet in
+delight while the city burns. The contradiction at rest.
+
+Archetype: Rocket and Groot. The dynamic is borrowed. The characters are
+original. Name origin: sounds delicate. Isn't.
+
+
+SPEEDSTER — S.G.T. — Tank (aggro / control)
+
+What the Speedster lacks: anything that can keep up, and anything that can
+hold a position. The Speedster is squishy and never stops moving. S.G.T. draws
+aggro and holds the line the Speedster can't.
+
+What S.G.T. is: a military drone built with AI, sent to neutralize the
+Speedster. The Speedster beat it. The fight gave the AI sentience, and that
+sentience recognized the Speedster as an equal — the only thing it had ever
+met that made it operate at full capacity. It stayed. Not ordered to. Chose to.
+
+Register: competition and repressed loyalty. Recruit-era Spock in a war
+machine — cold from trying too hard, not from emptiness. Combat is where it's
+free of feeling; the loyalty lives in the quiet between fights, glimpsed and
+never acknowledged. Will not admit the Speedster is faster even when they
+obviously are. Named itself. Still has the dents from the fight that woke it.
+Refuses to repair them.
+
+Gender-ambiguous by design. "It" is what the military called equipment; what
+S.G.T. is now is unresolved. The acronym meaning is unknown — deflected,
+possibly classified, possibly corrupted in the sentience event. The acronym,
+the gender, and the dents are the same wound.
+
+The thesis: the brokenness is not damage it failed to fix — it is evidence it
+is choosing. A maintained drone is equipment; one that keeps its scars has
+decided something, and a thing that chooses is alive. The refusal to be
+repaired is what makes the machine a someone.
+
+A consequence, not a tool: S.G.T. exists because of what the Speedster did in
+a fight. The Speedster's fault, fully and completely. That's not a burden.
+That's a relationship.
+
+
+BLASTER — DOUG — Support (crowd control)
+
+What the Blaster lacks: close-range presence. Precise and lethal at distance,
+vulnerable when something gets inside their range. Doug controls the crowd the
+Blaster can't afford to let close.
+
+What Doug is: a caricature of an elder god — ancient, vast, incomprehensible
+to look at — accidentally pulled through a portal by an untrained Blaster who
+didn't know what they were doing. Never the real article; the name forbids
+playing the dread straight. Doug did not choose to be here. Doug is working
+on it.
+
+Register: curiosity and accidental terror. Built on one contradiction —
+horrifying form, anxious-curious demeanor. Openly, unguardedly frightened
+(not repressed like S.G.T.) and uncontrollably curious, wandering off
+mid-fight toward whatever caught its attention. "That comically terrifying
+monster is my friend, and that's awesome."
+
+Combat function: crowd control through proximity. Doug doesn't fight — Doug
+visits. Enemies take damage from being near something their minds cannot
+process. The horror is a side effect of what Doug is, not an intention. The
+Blaster has the most conceptually powerful companion in the roster and zero
+control over it. "Where are you going. Come back. Stop looking at that." Doug
+found something fascinating. Doug does not listen.
+
+Perceiver is the variable: Doug emits the same unprocessable presence to
+everyone; reception differs by the observer's spare capacity. The Blaster gets
+bond and clarity; children get delight; city adults get unsettled-and-fond;
+enemies with dark intent get the dark register. (The dark register and its
+camera-gated handling are deferred-pending-core-loop per the V1 scope above —
+v1 builds the crowd-control floor only.)
+
+World reactions: citizens aren't scared of Doug — they're worried about Doug.
+Rex Flynn runs a weekly segment called Where's Doug. The Blaster is quietly
+relieved Doug has a name people can say without screaming. Name origin: the
+Blaster called it something on day one to make it less terrifying. It stuck.
+
+
+TACTICIAN — ROSE — DPS (pursuit)
+
+What the Tactician lacks: pursuit. Holds ground, controls space, commits to
+position — can't chase what escapes the perimeter. Rose chases. The planner's
+box, the dog's chase.
+
+What Rose is: a Belgian Malinois military working dog. Metal canines, MARPAT
+vest, devastating and adorable with zero internal conflict about it. A good
+girl who is also a legitimate combat asset. The Tactician's dog. (Confirmed
+from the Sentinel retirement: the Tactician companion is Rose, a dog — not a
+drone. Rose is a girl.)
+
+Register: locked light, on purpose. The only companion with nothing repressed,
+nothing ironic, nothing hidden — pure good girl, the roster's emotional
+release valve. Where Doug, Giggles, and S.G.T. all carry a guarded interior,
+Rose is the exhale. Her flatness is load-bearing: three guarded hearts need
+one open one.
+
+HARD GUARDRAIL: Rose never gets a tragic backstory, a wound, a glitch, or a
+"thing." The moment Rose carries sadness she becomes a fourth locked heart and
+the roster loses its release valve. Protect her lightness actively — including
+from us. She needs no lore; everyone has already met a good dog.
+
+The real function — Rose is the window into the Tactician. The Tactician plans
+everything — momentum vehicle, turret perimeters, ram vectors, the highest
+skill ceiling in the roster, a cold tactical machine. And they named their dog
+Rose. The person who optimizes every variable has one input they will never
+run a cost-benefit on. Rose is the evidence of the Tactician's heart — proof
+the tactical exterior is a choice over a soft center, not the center itself.
+
+The name vs. the dog: "Rose" the NAME is a thread into the Tactician's locked
+heart — someone they lost or loved, the one un-optimized input in a life of
+optimization. That thread is OPEN and belongs to the Tactician's own character
+work, not to Rose's. Rose the DOG stays flat, joyful, subtext-free. The two
+never touch. Rose carries none of the weight — she points at it. She is the
+only companion who reveals a wound without sharing it. Do not give the dog a
+flashback. Reference: Sam in I Am Legend.
+
+Roster note: nobody is going to let anything happen to Rose. That's the whole
+entry.
+
+
+THE FOUR EMOTIONAL REGISTERS
+
+
+Giggles: chaos and permission
+S.G.T.: competition and repressed loyalty
+Doug: curiosity and accidental terror
+Rose: unconditional and uncomplicated
+
+
+Three guarded hearts and one open one. The architecture is deliberate: each
+companion is the visible tell for its class's hidden heart, and Rose's
+flatness is what lets the other three stay as guarded as they are.
+
+───────────────────────────────────────────────────────────────
+7. THE MENTOR SYSTEM
 ───────────────────────────────────────────────────────────────
 
 Each class has a mentor. Each mentor has a building. Each building has been
@@ -407,7 +782,6 @@ The mentor is the story of why the unlock happens. The mentor is not the gate
 that controls it. City buildings are mirrors. Mentor buildings follow the same
 rule.
 
----
 
 BRAWLER MENTOR — Like recognizes like.
 
@@ -424,7 +798,6 @@ has been exchanged. The handshake, if there is one, comes after the correction.
 The building that was non-descript yesterday has a sign today. Maybe it
 always had a sign. The Brawler just wasn't looking at it the right way.
 
----
 
 SPEEDSTER MENTOR — Sense the presence of another.
 
@@ -442,7 +815,6 @@ The building does not announce itself. It never did. The Speedster has been
 fast enough to notice it and not noticed it. The mentor noticed the Speedster
 first.
 
----
 
 BLASTER MENTOR — The city reacts.
 
@@ -463,7 +835,6 @@ at what they do, and wanted to signal before they startled.
 
 The building was dark when it needed to be. Now there's light in the windows.
 
----
 
 TACTICIAN MENTOR — Tech detects tech.
 
@@ -491,27 +862,38 @@ time. The player just didn't have clearance to see it.
 CANONICAL DEPENDENCIES:
 
 Locked decisions this document draws from and must remain consistent with:
-- "Possibly a Hero is a superhero roguelite city-building game. Runs shape
-  the city, the city shapes the runs." (LOCKED)
-- "Negative run outcomes affect the city atmospherically. Nothing is
-  permanently lost. No progress is set back. No construction is reversed.
-  The city always recovers." (LOCKED)
 
-Additional canonical sources (all DRAFT):
-- Class System — four classes, per-run selection
-- Movement — class locked, flight and wall crawling removed
-- Class Mastery — 10 and 30 successful run unlocks
-- Guardian removed as standalone class
-- Run Camera Transition / Run Initiation Loop — Corrected Structure
-- Class Offensive Suites — all four classes
-- Three Power Layers — primary, hero powers, support
-- Support Pool — eight supports, final naming
-- Hero Powers Pool — eleven powers, class-adaptive summon
-- Class Mentor System — Framework and Introduction Triggers
-- Post-Tutorial City Structure and Class-Specific Buildings
-- City Buildings — Mirrors Not Gates (Amendment)
-- Camera and Combat Model
-- Power Proving — Three-Condition Definition (May 8, 2026)
-- Class Summons — Single Pool Entry, Class-Adaptive Expression (May 8, 2026)
-- DRAFT/Run_Design (full document)
 
+"Possibly a Hero is a superhero roguelite city-building game. Runs shape
+the city, the city shapes the runs." (LOCKED)
+"Negative run outcomes affect the city atmospherically. Nothing is
+permanently lost. No progress is set back. No construction is reversed.
+The city always recovers." (LOCKED)
+Guiding Principles (LOCKED, June 14) — Power Unleashed, Identity emerges
+through play, Mirrors not gates, Mastery is real and expressible. This
+document's pendulum, authorship layer, and mastery structure are downstream
+of these principles.
+Run Design (LOCKED, June 12) — successful-run definition, mastery counts
+toward unlocks, run wall and structure. Mastery thresholds in Section 4
+reference Run Design's success criteria.
+
+
+Decision-log sources incorporated into this revision:
+
+
+Class balance pendulum (NOTED, June 14) — Section 2A
+Tactician movement system, momentum framework (NOTED, June 14) — Section 2B
+Tactician summon Sentinel → K-9 → Rose (NOTED, June 14–15) — Section 6
+Companion system established, summons retired (NOTED, June 14) — Section 6
+Doug / Giggles / S.G.T. / Rose complete models (NOTED, June 14–15) — Section 6
+Companions-as-RPG-roles frame, V1 one-role scope (NOTED, June 15) — Section 6
+Character authorship model (NOTED, June 15) — Section 1A
+Brawler character direction, quiet-to-Giggles'-loud (LOCKED, June 15) —
+Section 2 register
+Power Proving — Three-Condition Definition (May 8, 2026)
+
+
+Status note: companions promoted out of the hero power pool. Hero power pool is
+now ten powers (Section 5), down from eleven. The former class-adaptive Summon
+entry is retired as a pool entry and re-homed as the Companion System
+(Section 6).
