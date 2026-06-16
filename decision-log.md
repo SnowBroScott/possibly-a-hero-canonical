@@ -3265,3 +3265,54 @@ how the engine handles a hero who is all three across a career (dominant
 pattern vs. all patterns named), and the actual derivation of names — the
 civic reward economy machine (HP-12). The branches EXIST; their engine stays
 in the box.
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: HP and mentor challenges are independent parallel deepening
+tracks. Resolves the Training Center / Hero Points contradiction.
+
+The Training Center deepens hero powers through TWO independent, parallel
+tracks:
+
+1. HERO POINTS — the player-driven track. HP (earned from minor objectives,
+   full carry) is spent on tiered hero-power upgrades in the Training Center.
+   Player chooses when and which power, on their own schedule. No randomness.
+
+2. MENTOR CHALLENGES — the world-driven track. The sponsor-challenge loop
+   (prove a power → sponsor message → queued challenge → completion → deepening
+   → cap → temporary boosts) deepens powers AND incentivizes experimentation
+   with different powers, builds, and classes. The deepening and the nudge ARE
+   the reward.
+
+THE TRACKS ARE INDEPENDENT. They do not pay into each other. Mentor challenges
+do NOT reward Hero Points — that is the one interaction that would muddy the
+two faucets, and it is explicitly ruled out. Two doors to the same room: one
+the player walks through on their own schedule (HP), one the world opens and
+dares them through (challenges).
+
+WHY: Canon Guard (City Layer pass) surfaced that the Hero Points entry
+(May 8) locates HP spending on tiered Training Center upgrades, while City
+Layer's deepening system is entirely sponsor-challenge-driven with no HP-spend
+mechanic — leaving the HP sink homeless and the two May DRAFT entries
+(Training Center Complete System, May 6; Hero Points, May 8) in tension. This
+resolves it: the HP-spend entry is not a fossil to retire but the player-driven
+half of a two-track system, with the challenge loop as the world-driven half.
+Keeping the tracks independent (no cross-payment) preserves both as clean,
+separate sinks and avoids designing the broader economy. City Layer requires
+no change — it correctly treats HP as a run-layer output it does not own; the
+Training Center houses both tracks.
+
+REPLACES: Reconciles (does not retire) the Hero Points entry (May 8) and the
+Training Center Complete System entry (May 6) — confirms HP-tiered-upgrades and
+challenge-deepening coexist as parallel tracks rather than contradicting.
+
+STATUS: NOTED
+
+DEFERRED (not designed here — own session): the broader HP/deepening economy —
+faucets and sinks beyond tiered upgrades; whether the class-mentor track
+(class primaries) or companions involve HP; the post-unlock challenge-reward
+structure (e.g., challenges shifting behavior once all primaries are unlocked).
+This is HP-12 / a dedicated deepening-economy session. The two tracks EXIST and
+are independent; their economy stays in the box.
