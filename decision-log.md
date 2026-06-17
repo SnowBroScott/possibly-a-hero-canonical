@@ -3410,3 +3410,63 @@ Design.
 STATUS: NOTED — captured this session; NOT yet integrated into City_Layer.
 Integration (City_Layer §4 rewrite + Run Design consistency pass) is its own
 beat next session.
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: World_Feedback is LOCKED.
+
+World_Feedback moves from DRAFT to /locked/World_Feedback. It is now canonical
+and constrains content below it.
+
+What it locks: the feedback layer as a single hidden scale read through three
+channel voices (Citizens, Superhero Community, Rex Flynn) that agree on the
+event and disagree on its meaning; the scale reflects, never grades, gates, or
+punishes — mirrors not gates applied to the narrative layer; name emergence as
+a three-branch behavioral engine (showed up / didn't show / abandoned), read
+from behavior, not from the scale or from morale; absence is voiced by the
+channels, never penalized; morale is a parallel city-state system with no
+run-side mechanical effect (no XP multiplier); Rex Flynn character
+specification; minor objectives as world signal.
+
+WHY: The document was reconciled against locked Run Design, Guiding Principles,
+and the minor-objectives pillar, and rewritten to carry the June 16 feedback
+work (the scale model, the zero-state/absence-is-voiced model, the three-branch
+naming engine, the morale-is-parallel resolution). Canon Guard PASS. Cross-
+System Auditor CLEAN with City_Layer (two prior MINOR tensions resolved: the §4
+morale-state naming fossil struck; the morale-bar-vs-temperature disambiguation
+deferred to the three-bar integration beat, as it concerns a NOTED entry not
+present in either locked document).
+
+REPLACES: Supersedes the World_Feedback DRAFT. DRAFT retired.
+
+STATUS: LOCKED — June 16, 2026
+
+---
+
+DECISION LOG ENTRY
+
+DECISION: City_Layer is LOCKED.
+
+City_Layer moves from DRAFT to /locked/City_Layer. It is now canonical and
+constrains content below it.
+
+What it locks: mirrors not gates scoped to the post-tutorial city (the tutorial
+arc gates by run type as onboarding only); tutorial arc buildings; four city
+stages; the Training Center complete system with two independent parallel
+deepening tracks (Hero Points tiered upgrades and mentor challenges, no
+cross-payment); the Hero's Lair; the restoration model; city-wide morale as a
+parallel city-state system with no run-side mechanical effect; and the
+run-to-city flow with completion tiers and stacking mission outputs.
+
+WHY: The document was reconciled against locked Run Design (completion tiers /
+stacked outputs added; mission outputs confirmed), Guiding Principles (the
+universal "no exceptions" mirrors-not-gates claim scoped to the post-tutorial
+city, resolving the Canon Guard CONFLICT), and minor objectives (city-wide
+morale, the HP two-track deepening model). Canon Guard PASS. Cross-System
+Auditor CLEAN with World_Feedback.
+
+REPLACES: Supersedes the City_Layer DRAFT. DRAFT retired.
+
+STATUS: LOCKED — June 16, 2026
