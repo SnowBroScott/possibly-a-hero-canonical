@@ -2,7 +2,7 @@
 
 *Single source of truth for all pipeline documents*
 
-Last updated: June 15, 2026
+Last updated: June 16, 2026
 
 ---
 
@@ -119,34 +119,38 @@ curl is the reliable path.
   lock, and the Tactician toggle lock. Constrains City_Layer and
   World_Feedback.
 
----
-
-## Draft Documents
-
 ### City_Layer
 
-- **Status:** DRAFT
-- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/DRAFT/City_Layer
-- **Notes:** Canonical specification for city mechanics — mirrors
-  not gates philosophy, tutorial arc buildings, four city stages,
-  Training Center complete system, Hero's Lair, restoration model,
-  city-wide morale. Canon Guard cleared. Cross-System Auditor
-  complete. Surgical edits applied May 8, 2026. Requires
-  reconciliation with locked Run Design — stacked mission outputs
-  and completion tiers affect the run-to-city flow — and with minor
-  objectives once that pillar is designed.
+- **Status:** LOCKED — June 16, 2026
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/locked/City_Layer
+- **Notes:** Canonical specification for city mechanics — mirrors not
+  gates (scoped to the post-tutorial city; the tutorial arc gates by
+  run type as onboarding only), tutorial arc buildings, four city
+  stages, Training Center complete system (two independent parallel
+  deepening tracks: Hero Points tiered upgrades and mentor challenges,
+  no cross-payment), Hero's Lair, restoration model, city-wide morale
+  (parallel city-state system; no run-side mechanical effect),
+  run-to-city flow with completion tiers and stacking mission outputs.
+  Reconciled with locked Run Design, Guiding Principles, and minor
+  objectives. Canon Guard PASS June 16, 2026. Cross-System Auditor
+  CLEAN (with World_Feedback) June 16, 2026.
 
 ### World_Feedback
 
-- **Status:** DRAFT
-- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/DRAFT/World_Feedback
-- **Notes:** Canonical specification for world feedback — three
-  channels, name emergence, morale system (city-wide), Rex Flynn
-  character specification, minor objectives as world signal. Canon
-  Guard cleared. Cross-System Auditor complete. Surgical edits
-  applied May 8, 2026. Pending consistency review against locked
-  Run Design — and against minor objectives once that pillar is
-  designed — before lock consideration.
+- **Status:** LOCKED — June 16, 2026
+- **Raw URL:** https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/locked/World_Feedback
+- **Notes:** Canonical specification for world feedback — the feedback
+  layer as a single hidden scale read through three channel voices
+  (Citizens, Superhero Community, Rex Flynn) that agree on the event
+  and disagree on its meaning; the scale reflects, never grades, gates,
+  or punishes (mirrors not gates on the narrative layer). Name emergence
+  as a three-branch behavioral engine (showed up / didn't show /
+  abandoned), read from behavior not from the scale or morale. Absence
+  is voiced, never penalized. Morale is a parallel city-state system
+  with no run-side effect. Rex Flynn character specification, minor
+  objectives as world signal. Reconciled with locked Run Design,
+  Guiding Principles, and minor objectives. Canon Guard PASS June 16,
+  2026. Cross-System Auditor CLEAN (with City_Layer) June 16, 2026.
 
 ---
 
@@ -158,8 +162,9 @@ curl is the reliable path.
 - **Purpose:** Project brief for Claude Code. Lives at repo root.
   Engineering directives, tech stack, system specifications,
   document access protocol.
-- **Trigger:** After core design systems are locked and build work
-  is ready to begin.
+- **Trigger:** Design core is now fully locked (Phase 1 complete).
+  CLAUDE.md is written in Phase 2, after a loose diagnostic build
+  surfaces Claude Code's default behaviors to constrain.
 
 ### reference/ directory
 
@@ -172,6 +177,6 @@ curl is the reliable path.
 ## Repo Structure
 
 /locked             — canonical, non-negotiable documents
-/DRAFT              — directionally committed documents in refinement
+/DRAFT              — directionally committed documents in refinement (currently empty)
 /canonical-manifest — master index of all documents (this file)
 /decision-log.md    — permanent record of all decisions
