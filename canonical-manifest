@@ -10,7 +10,7 @@ not state what documents contain — for that, fetch the document.
 
 ## How to use
 
-- For orientation at session open, read status.md. Consult this manifest
+- For orientation at session open, read status.md and session-protocol.md. Consult this manifest
   when you need to locate or verify a specific document.
 - Authority order: LOCKED > DRAFT. Deprecated documents have none.
   status.md is not authority — it reflects state, it does not set it.
@@ -53,6 +53,13 @@ not state what documents contain — for that, fetch the document.
 
 Notes state relationships and fetch timing only — how a document relates
 to others, when to read it. Never contents.
+
+### session-protocol.md — LOCKED
+https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/session-protocol.md
+The Hero charter: how jAIne works in this domain. Read alongside
+status.md at session open, for any Hero work. Governs the chat layer
+the way CLAUDE.md governs the build layer. Does not set design;
+design authority still flows from /locked.
 
 ### status.md — ACTIVE
 https://raw.githubusercontent.com/SnowBroScott/possibly-a-hero-canonical/refs/heads/main/status.md
@@ -112,6 +119,7 @@ Supporting material. Not subject to pipeline validation.
 ## Repo structure
 
 /status.md          — session-open read: current state, what's next
+/session-protocol.md — the charter: how jAIne works in this domain
 /CLAUDE.md          — build brief, read by Claude Code at session start
 /canonical-manifest — this routing table (directory of documents)
 /decision-log.md    — permanent record of all decisions (the why)
