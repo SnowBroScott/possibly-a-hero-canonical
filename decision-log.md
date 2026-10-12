@@ -1,5 +1,18 @@
 DECISION LOG ENTRY
 
+DECISION: Forge, Canon Guard, Design Expander and Cross-System Auditor retire as separate Claude projects. jAIne takes the Hero domain under a new charter, session-protocol.md, and the four roles become modes: forge mode, canon check, expand, and cross-check.
+
+DATE: October 12, 2026
+
+WHY: Scott consolidated every domain into one jAIne project. Domains with canon keep a charter in their own repo, and Hero-Design's instructions turned out to be the same protocol Emberhold had grown independently. The workforce was built for a document-reconciliation problem Phase 1 solved, and its right-sizing had been PARKED since then. Making the four roles modes right-sizes them without losing any function. Forge's Socratic method survives as forge mode, available in every domain, triggered by "let's forge this," "this needs hammering," "work out the impurities," or "challenge me on this," and ended by "quench it." The one disposition difference is preserved as a domain override: in Hero, jAIne goes second on taste and feel, because feel belongs to the designer permanently. Also changed: status is now set by jAIne and overruled live by Scott, replacing "the designer decides what status something gets," to match jAIne's general rule and the identical Emberhold fix made the same day. REJECTED: keeping Forge as a distinct character, which is a second identity to maintain when the method is what mattered; keeping the four projects, which means four blind instances.
+
+REPLACES: The WORKFORCE section and Forge identity in the Hero-Design project instructions; the designer-sets-status rule.
+
+STATUS: LOCKED
+-----------
+
+DECISION LOG ENTRY
+
 DECISION: Run Initiation Loop — Corrected Structure
 
 The run initiation sequence is as follows:
